@@ -1,0 +1,5094 @@
+{
+  "items": [
+    {
+      "description": "Our survey paper is at https://arxiv.org/abs/2311.01043 which includes more detailed discussions and will be continuously updated.\nIf you find our repo is helpful, please consider cite it.",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "LLM-for-Autonomous-Driving (LLM4AD) refers to the application of Large Language Models(LLMs) in autonomous driving. We divide existing works based on the perspective of applying LLMs: planning, perception, question answering, and generation.\n",
+      "items": [],
+      "title": "Overview of LLM4AD"
+    },
+    {
+      "description": "The orange circle represents the ideal level of driving competence, akin to that possessed by an experienced human driver. There are two main methods to acquire such proficiency: one, through learning-based techniques within simulated environments; and two, by learning from offline data through similar methodologies. It’s important to note that due to discrepancies between simulations and the real-world, these two domains are not fully the same, i.e. sim2real gap. Concurrently, offline data serves as a subset of real-world data since it’s collected directly from actual surroundings. However, it is difficult to fully cover the distribution as well due to the notorious long-tailed nature of autonomous driving tasks. The final goal of autonomous driving is to elevate driving abilities from a basic green stage to a more advanced blue level through extensive data collection and deep learning.\n",
+      "items": [],
+      "title": "Motivation of LLM4AD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes, Bench2Drive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: BLUE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-16T01:21:18Z",
+                "owner": "George-Ling3",
+                "repo": "BLUE",
+                "stars": 80
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "D2-V2X: Depth-Driven Cooperative V2X Reasoning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: D2-V2X",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-26T11:54:12Z",
+                "owner": "KevinRichard1",
+                "repo": "D2-V2X",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: ChainFlow-VLA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-12T12:57:46Z",
+                "owner": "AFARI-Research",
+                "repo": "ChainFlow-VLA",
+                "stars": 42
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM, Waymo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CLAP: Contrastive Latent-space Prompt Optimization for End-to-end Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "EponaV2: Driving World Model with Comprehensive Future Reasoning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DeepSight",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-27T08:00:37Z",
+                "owner": "hotdogcheesewhite",
+                "repo": "DeepSight",
+                "stars": 27
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveFuture: Future-Aware Latent World Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GEM: Generating LiDAR World Model via Deformable Mamba",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-27T01:41:31Z",
+                "owner": "wuyang98",
+                "repo": "GEM",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "See Tomorrow, Act Today: Foresight-Driven Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: HERMESV2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-28T11:00:32Z",
+                "owner": "H-EmbodVis",
+                "repo": "HERMESV2",
+                "stars": 70
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: GSDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-11T14:33:18Z",
+                "owner": "ZionGo6",
+                "repo": "GSDrive",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: OneDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-23T12:15:25Z",
+                "owner": "Z1zyw",
+                "repo": "OneDrive",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: FidelityDrivingBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveVA: Video Action Models are Zero-Shot Drivers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes, Bench2drive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: UniDriveVLA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-14T17:49:55Z",
+                "owner": "xiaomi-research",
+                "repo": "unidrivevla",
+                "stars": 227
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: C-TRAIL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-04-09T14:20:51Z",
+                "owner": "ZhihongCui",
+                "repo": "CTRAIL",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: AutoWorld",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "$AutoDrive\\text{-}P^3$: Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: $AutoDrive\\text{-}P^3$",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-02T14:59:48Z",
+                "owner": "haha-yuki-haha",
+                "repo": "AutoDrive-P3",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Drive My Way",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-01T01:24:21Z",
+                "owner": "tasl-lab",
+                "repo": "DMW",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "KLDrive: Fine-Grained 3D Scene Reasoning for Autonomous Driving based on Knowledge Graph",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NuScenes-QA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-01T04:38:33Z",
+                "owner": "qiantianwen",
+                "repo": "NuScenes-QA",
+                "stars": 239
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: DynFlowDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-23T06:06:02Z",
+                "owner": "xiaolul2",
+                "repo": "DynFlowDrive",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: VectorWorld",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-23T10:34:22Z",
+                "owner": "jiangchaokang",
+                "repo": "VectorWorld",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Waymax",
+              "description": ", nuPlan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-23T04:29:20Z",
+                "owner": "waymo-research",
+                "repo": "waymax",
+                "stars": 1093
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning from Mistakes: Post-Training for Driving VLA with Takeover Data",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Bench2Drive",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Bench2Drive",
+              "description": ", DOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-29T08:09:46Z",
+                "owner": "opendilab",
+                "repo": "DOS",
+                "stars": 193
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", Bench2Drive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NOVA: Next-step Open-Vocabulary Autoregression for 3D Multi-Object Tracking in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: NOVA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-13T09:08:49Z",
+                "owner": "xifen523",
+                "repo": "NOVA",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DeepMind Control Suite",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-06T00:15:16Z",
+                "owner": "google-deepmind",
+                "repo": "dm_control",
+                "stars": 4666
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Wild-Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-19T05:45:58Z",
+                "owner": "wangzihanggg",
+                "repo": "Wild-Drive",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: OR-C2P Benchmark",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-19T05:45:58Z",
+                "owner": "wangzihanggg",
+                "repo": "Wild-Drive",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: MindDriver",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-27T12:40:40Z",
+                "owner": "hotdogcheesewhite",
+                "repo": "MindDriver",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Waymo",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: MeanFuser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-20T04:30:41Z",
+                "owner": "wjl2244",
+                "repo": "MeanFuser",
+                "stars": 96
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: DriveFine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-17T08:36:06Z",
+                "owner": "MSunDYY",
+                "repo": "DriveFine",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Talk2DM: Enabling Natural Language Querying and Commonsense Reasoning for Vehicle-Road-Cloud Integrated Dynamic Maps with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: ResWorld",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-05T12:48:48Z",
+                "owner": "mengtan00",
+                "repo": "ResWorld",
+                "stars": 59
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Found-RL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-10T09:03:45Z",
+                "owner": "ys-qu",
+                "repo": "found-rl",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: DriveWorld-VLA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-08T09:44:43Z",
+                "owner": "liulin815",
+                "repo": "DriveWorld-VLA",
+                "stars": 118
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Natural Language Instructions for Scene-Responsive Human-in-the-Loop Motion Planning in Autonomous Driving using Vision-Language-Action Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: doScenes-VLM-Planning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-31T18:58:08Z",
+                "owner": "Mi3-Lab",
+                "repo": "doScenes-VLM-Planning",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: doScenes",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-31T18:58:08Z",
+                "owner": "Mi3-Lab",
+                "repo": "doScenes-VLM-Planning",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LiFlow: Flow Matching for 3D LiDAR Scene Completion",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: LiFlow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-02T15:59:32Z",
+                "owner": "matteandre",
+                "repo": "LiFlow",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: UniDWM",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Page: R3DPA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-03T17:09:37Z",
+                "owner": "valeoai",
+                "repo": "R3DPA",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: R3DPA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-03T17:09:37Z",
+                "owner": "valeoai",
+                "repo": "R3DPA",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: RELLIS-3D",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-23T17:49:25Z",
+                "owner": "unmannedlab",
+                "repo": "RELLIS-3D",
+                "stars": 448
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dichotomous Diffusion Policy Optimization",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveLaW:Unifying Planning and Video Generation in a Latent Driving World",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: OccSTeP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-12-18T06:28:56Z",
+                "owner": "InSAI-Lab",
+                "repo": "OccSTeP",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DriveLMM-o1",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-15T19:53:53Z",
+                "owner": "ayesha-ishaq",
+                "repo": "DriveLMM-o1",
+                "stars": 73
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DrivePI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-21T09:32:03Z",
+                "owner": "happinesslz",
+                "repo": "DrivePI",
+                "stars": 128
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Project Page: WAM-Diff",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-01T03:59:10Z",
+                "owner": "fudan-generative-vision",
+                "repo": "WAM-Diff",
+                "stars": 297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: WAM-Diff",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-01T03:59:10Z",
+                "owner": "fudan-generative-vision",
+                "repo": "WAM-Diff",
+                "stars": 297
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": ", nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: WAM-Flow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-13T00:55:10Z",
+                "owner": "fudan-generative-vision",
+                "repo": "WAM-Flow",
+                "stars": 357
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BeLLA: End-to-End Birds Eye View Large Language Assistant for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NuScenes-QA",
+              "description": ", DriveLM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: TAD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-03T19:41:25Z",
+                "owner": "vbdi",
+                "repo": "tad_bench",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Talk2Car",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-01T20:25:09Z",
+                "owner": "talk2car",
+                "repo": "Talk2Car",
+                "stars": 98
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Page: RoadSceneBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-11-27T08:47:10Z",
+                "owner": "baidu-maps",
+                "repo": "RoadSceneBench",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: RoadSceneBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-11-27T08:47:10Z",
+                "owner": "baidu-maps",
+                "repo": "RoadSceneBench",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: RoadSceneBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-11-27T08:47:10Z",
+                "owner": "baidu-maps",
+                "repo": "RoadSceneBench",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning from Risk: LLM-Guided Generation of Safety-Critical Scenarios with Prior Knowledge",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: CARLA",
+              "description": ", SMARTS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-31T23:17:16Z",
+                "owner": "huawei-noah",
+                "repo": "SMARTS",
+                "stars": 1134
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Bench2Drive",
+              "description": ", NuScenes, NAVSIM, ADV-NuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: GuideFlow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-21T13:30:51Z",
+                "owner": "liulin815",
+                "repo": "GuideFlow",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "QuickLAP: Quick Language-Action Preference Learning for Autonomous Driving Agents",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: QuickLAP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-30T17:57:11Z",
+                "owner": "MIT-CLEAR-Lab",
+                "repo": "QuickLAP",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DSBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Enhancing LLM-based Autonomous Driving with Modular Traffic Light and Sign Recognition",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: TLS-Assist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-21T12:21:26Z",
+                "owner": "iis-esslingen",
+                "repo": "TLS-Assist",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: LangAuto",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VLDrive: Vision-Augmented Lightweight MLLMs for Efficient Language-grounded Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: VLDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-07-21T07:26:56Z",
+                "owner": "ReaFly",
+                "repo": "VLDrive",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AdaDrive: Self-Adaptive Slow-Fast System for Language-Grounded Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: AdaDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-07-21T08:27:17Z",
+                "owner": "ReaFly",
+                "repo": "AdaDrive",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Alpamayo-R1",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-05T19:45:32Z",
+                "owner": "NVlabs",
+                "repo": "alpamayo",
+                "stars": 1988
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Beyond Imitation: Constraint-Aware Trajectory Generation with Flow Matching For End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: UCAS-CSU-phase2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-29T12:02:54Z",
+                "owner": "wuaodi",
+                "repo": "UCAS-CSU-phase2",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Dream4Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-10T05:51:42Z",
+                "owner": "wm-research",
+                "repo": "Dream4Drive",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: DriveObj3D",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-10T05:51:42Z",
+                "owner": "wm-research",
+                "repo": "Dream4Drive",
+                "stars": 53
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: ORAD-3D",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: ORAD-3D",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: CoIRL-AD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-30T14:31:46Z",
+                "owner": "SEU-zxj",
+                "repo": "CoIRL-AD",
+                "stars": 43
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:Flow-Planner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-03T05:51:26Z",
+                "owner": "DiffusionAD",
+                "repo": "Flow-Planner",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: nuPlan",
+              "description": ", interPlan",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: GTR2L",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-05-21T14:24:04Z",
+                "owner": "Daniel-DHu",
+                "repo": "GTR2L",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: GTR-Bench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-16T05:09:54Z",
+                "owner": "X-Luffy",
+                "repo": "GTR-Bench",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: ROADWork",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: CODA",
+              "description": ", Waymo, BOSCH",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Learning-to-Sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-22T07:25:29Z",
+                "owner": "TUM-AVS",
+                "repo": "Learning-to-Sample",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: CoReVLA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-02T05:29:32Z",
+                "owner": "FanGShiYuu",
+                "repo": "CoReVLA",
+                "stars": 59
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DriveLM",
+              "description": ", DriveLMM-o1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LMAD: Integrated End-to-End Vision-Language Model for Explainable Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DriveLM",
+              "description": ", nuScenes-QA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mapillary Vistas Validation for Fine-Grained Traffic Signs: A Benchmark Revealing Vision-Language Model Limitations",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: relabeling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-17T07:14:58Z",
+                "owner": "nec-labs-ma",
+                "repo": "relabeling",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Edge-Based Multimodal Sensor Data Fusion with Vision Language Models (VLMs) for Real-time Autonomous Vehicle Accident Avoidance",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DeepAccident",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: OpenLane-V2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-02T05:24:27Z",
+                "owner": "OpenDriveLab",
+                "repo": "OpenLane-V2",
+                "stars": 673
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Vision-Language Cross-Attention for Real-Time Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: MD-NEX Outdoor-Driving",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: SafeDriveRAG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-09-22T09:11:01Z",
+                "owner": "Lumos0507",
+                "repo": "SafeDriveRAG",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: SafeDrive228K",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-09-22T09:11:01Z",
+                "owner": "Lumos0507",
+                "repo": "SafeDriveRAG",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: VLM-UDMC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-07-22T07:51:11Z",
+                "owner": "henryhcliu",
+                "repo": "vlmudmc",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Great-MCD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-02T02:22:18Z",
+                "owner": "hkw-xg",
+                "repo": "Great-MCD",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: Great-MSD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-02T02:22:18Z",
+                "owner": "hkw-xg",
+                "repo": "Great-MCD",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: NRSeg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-24T03:12:59Z",
+                "owner": "lynn-yu",
+                "repo": "NRSeg",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FMOcc: TPV-Driven Flow Matching for 3D Occupancy Prediction with Selective State Space Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Occ3D-nuScenes",
+              "description": ", OpenOcc",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", NAVSIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: World4Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-31T15:00:36Z",
+                "owner": "ucaszyp",
+                "repo": "World4Drive",
+                "stars": 103
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Epona: Autoregressive Diffusion World Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Project Page: Epona",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-07-22T06:35:46Z",
+                "owner": "Kevin-thu",
+                "repo": "Epona",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: Epona",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-07-22T06:35:46Z",
+                "owner": "Kevin-thu",
+                "repo": "Epona",
+                "stars": 378
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DriveMRP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-07-01T08:29:07Z",
+                "owner": "SII-HZY",
+                "repo": "DriveMRP",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unified Vision-Language-Action Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: CALVIN",
+              "description": ", LIBERO, Simplenv-Bridge, ALOHA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-08T08:52:01Z",
+                "owner": "mees",
+                "repo": "calvin",
+                "stars": 967
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuScenes",
+              "description": ", DriveLM-nuScenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: NetRoller",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-12-15T05:46:25Z",
+                "owner": "Rex-sys-hk",
+                "repo": "NetRoller",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: nuPlan",
+              "description": ", nuScenes, Waymo, Bench2Drive(Using CARLA-Garage Dataset for Training)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T04:01:59Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "Bench2Drive",
+                "stars": 1923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: AutoVLA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-29T09:55:21Z",
+                "owner": "ucla-mobility",
+                "repo": "AutoVLA",
+                "stars": 625
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: V2LM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-24T01:56:57Z",
+                "owner": "pedram-mohajer",
+                "repo": "V2LM",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: NAVSIM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-27T21:19:43Z",
+                "owner": "autonomousvision",
+                "repo": "navsim",
+                "stars": 1068
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: STSBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-27T14:58:43Z",
+                "owner": "LRP-IVC",
+                "repo": "STSBench",
+                "stars": 23
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WOMD-Reasoning: A Large-Scale Dataset for Interaction Reasoning in Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: WOMD-Reasoning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-27T21:09:45Z",
+                "owner": "yhli123",
+                "repo": "WOMD-Reasoning",
+                "stars": 46
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: FSDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-08T05:08:02Z",
+                "owner": "MIV-XJTU",
+                "repo": "FSDrive",
+                "stars": 817
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: VL-SAFE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-28T22:39:42Z",
+                "owner": "ys-qu",
+                "repo": "vlm-safe",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: Bench2Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T04:01:59Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "Bench2Drive",
+                "stars": 1923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: DriveMoE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-03T07:27:00Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "DriveMoE",
+                "stars": 231
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DriveMonkey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-20T09:16:02Z",
+                "owner": "zc-zhao",
+                "repo": "DriveMonkey",
+                "stars": 46
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: Highway-Env",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DriveLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "X-Driver: Explainable Autonomous Driving with Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: Bench2Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T04:01:59Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "Bench2Drive",
+                "stars": 1923
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: LingoQA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-26T15:15:36Z",
+                "owner": "wayveai",
+                "repo": "LingoQA",
+                "stars": 220
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: OpenDriveVLA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-16T08:36:33Z",
+                "owner": "DriveVLA",
+                "repo": "OpenDriveVLA",
+                "stars": 790
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: VLADBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-26T05:51:32Z",
+                "owner": "Depth2World",
+                "repo": "VLADBench",
+                "stars": 40
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: Bench2Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T04:01:59Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "Bench2Drive",
+                "stars": 1923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: ORION",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-22T08:10:12Z",
+                "owner": "xiaomi-mlab",
+                "repo": "Orion",
+                "stars": 659
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: Highway-Env",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: Carla Leadboard V2",
+              "description": ", Bench2Drive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T04:01:59Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "Bench2Drive",
+                "stars": 1923
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: SCD-Bench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-07T02:02:01Z",
+                "owner": "EMZucas",
+                "repo": "SCD-Bench",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: MetaDrive",
+              "description": ", Waymo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-15T18:57:56Z",
+                "owner": "metadriverse",
+                "repo": "metadrive",
+                "stars": 1231
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: MetaDrive",
+              "description": ", Waymo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-15T18:57:56Z",
+                "owner": "metadriverse",
+                "repo": "metadrive",
+                "stars": 1231
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DriveBench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-12-12T00:25:42Z",
+                "owner": "worldbench",
+                "repo": "DriveBench",
+                "stars": 247
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: AutoSceneGen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-01T02:35:24Z",
+                "owner": "Ezharjan",
+                "repo": "AutoSceneGen",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: LGDRL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-04T01:25:18Z",
+                "owner": "bitmobility",
+                "repo": "LGDRL",
+                "stars": 20
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: AutoTrust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-20T00:55:15Z",
+                "owner": "taco-group",
+                "repo": "AutoTrust",
+                "stars": 54
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: DriveLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Senna",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T02:07:01Z",
+                "owner": "hustvl",
+                "repo": "Senna",
+                "stars": 552
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: CANVAS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-10-20T05:32:13Z",
+                "owner": "worv-ai",
+                "repo": "canvas",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: LeGEND",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-30T11:10:09Z",
+                "owner": "MayDGT",
+                "repo": "LeGEND",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: MiniDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-08-17T15:25:37Z",
+                "owner": "EMZucas",
+                "repo": "minidrive",
+                "stars": 72
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ContextVLM: Zero-Shot and Few-Shot Context Understanding for Autonomous Driving using Vision Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: ContextVLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-13T01:34:45Z",
+                "owner": "ssuralcmu",
+                "repo": "ContextVLM",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: DAIR-V2X",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-21T02:38:37Z",
+                "owner": "AIR-THU",
+                "repo": "DAIR-V2X",
+                "stars": 642
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: V2X-VLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-09-14T20:00:22Z",
+                "owner": "zilin-huang",
+                "repo": "V2X-VLM",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DHPR",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-07-05T16:48:30Z",
+                "owner": "DHPR-dataset",
+                "repo": "DHPR-dataset",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Asynchronous Large Language Model Enhanced Planner for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: AsyncDriver",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-28T07:02:47Z",
+                "owner": "memberRE",
+                "repo": "AsyncDriver",
+                "stars": 111
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: ChatScene",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-17T21:46:51Z",
+                "owner": "javyduck",
+                "repo": "ChatScene",
+                "stars": 192
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Probing Multimodal LLMs as World Models for Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DriveSim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-02-27T22:19:37Z",
+                "owner": "sreeramsa",
+                "repo": "DriveSim",
+                "stars": 44
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception Reasoning and Planning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: OmniDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-03T02:40:04Z",
+                "owner": "NVlabs",
+                "repo": "OmniDrive",
+                "stars": 635
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: Chat2Scenario",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-15T11:21:49Z",
+                "owner": "ftgTUGraz",
+                "repo": "Chat2Scenario",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VLAAD: Vision and Language Assistant for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: VLAAD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-02-20T07:28:06Z",
+                "owner": "sungyeonparkk",
+                "repo": "vision-assistant-for-driving",
+                "stars": 59
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "REvolve: Reward Evolution with Large Language Models for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: AirSim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-06-30T19:34:07Z",
+                "owner": "microsoft",
+                "repo": "AirSim",
+                "stars": 18396
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: DriveLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-15T18:03:17Z",
+                "owner": "akshaygopalkr",
+                "repo": "EM-VLM4AD",
+                "stars": 95
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: LeGo-Drive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-04-04T06:53:04Z",
+                "owner": "reachpranjal",
+                "repo": "lego-drive",
+                "stars": 27
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Large Language Models Powered Context-aware Motion Prediction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: WOMD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-08T22:00:08Z",
+                "owner": "waymo-research",
+                "repo": "waymo-open-dataset",
+                "stars": 3384
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Generalized Predictive Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DriveAGI",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: LLM-Assisted-Light",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-13T17:21:42Z",
+                "owner": "Traffic-Alpha",
+                "repo": "LLM-Assisted-Light",
+                "stars": 103
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: ChatSim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-11T18:28:24Z",
+                "owner": "yifanlu0227",
+                "repo": "ChatSim",
+                "stars": 429
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Embodied Understanding of Driving Scenarios",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: ELM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-07-02T05:28:18Z",
+                "owner": "OpenDriveLab",
+                "repo": "ELM",
+                "stars": 209
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GenAD: Generative End-to-End Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: GenAD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-27T02:51:19Z",
+                "owner": "wzzheng",
+                "repo": "GenAD",
+                "stars": 494
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LangProp: A code optimization framework using Language Models applied to driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: LangProp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-22T01:47:08Z",
+                "owner": "shuishida",
+                "repo": "LangProp",
+                "stars": 61
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Holistic Autonomous Driving Understanding by Bird’s-Eye-View Injected Multi-Modal Large Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-12T02:28:18Z",
+                "owner": "xmed-lab",
+                "repo": "NuInstruct",
+                "stars": 72
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveLM: Driving with Graph Visual Question Answering",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Summary:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "DriveLM-Data",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "Drive-nuScenes",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "Selecting key frames from video clips, choosing key objects within these key frames, and subsequently annotating the frame-level P1−3 QAs for these key objects. A portion of the Perception QAs are generated from the nuScenes and OpenLane-V2",
+                          "description": "ground truth, while the remaining QAs are manually annotated.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "language": "Jupyter Notebook",
+                            "last_commit": "2025-07-02T05:24:27Z",
+                            "owner": "OpenDriveLab",
+                            "repo": "OpenLane-V2",
+                            "stars": 673
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LingoQA: Video Question Answering for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-26T15:15:36Z",
+                "owner": "wayveai",
+                "repo": "LingoQA",
+                "stars": 220
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-12-25T15:52:33Z",
+                "owner": "OpenGVLab",
+                "repo": "DriveMLM",
+                "stars": 184
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-14T07:29:10Z",
+                "owner": "opendilab",
+                "repo": "LMDrive",
+                "stars": 929
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-01-01T15:26:18Z",
+                "owner": "fudan-zvg",
+                "repo": "Reason2Drive",
+                "stars": 101
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-31T11:44:50Z",
+                "owner": "Petrichor625",
+                "repo": "Talk2car_CAVG",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Datasets:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Talk2car",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-09-01T20:25:09Z",
+                    "owner": "talk2car",
+                    "repo": "Talk2Car",
+                    "stars": 98
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dolphins: Multimodal Language Model for Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Dolphins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-10T23:42:09Z",
+                "owner": "SaFo-Lab",
+                "repo": "Dolphins",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Datasets:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Video instruction-following dataset",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "BDD-X",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": null,
+                        "last_commit": "2019-01-18T22:08:40Z",
+                        "owner": "JinkyuKimUCB",
+                        "repo": "BDD-X-dataset",
+                        "stars": 133
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Drive-WM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-12-07T02:40:39Z",
+                "owner": "BraveGroup",
+                "repo": "Drive-WM",
+                "stars": 437
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Empowering Autonomous Driving with Large Language Models: A Safety Perspective",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GPT-4V Takes the Wheel: Evaluating Promise and Challenges for Pedestrian Behavior Prediction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Datasets:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WiDEVIEW",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2025-06-07T22:42:17Z",
+                    "owner": "unmannedlab",
+                    "repo": "UWB_Dataset",
+                    "stars": 20
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ADriver-I: A General World Model for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Summary:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MLLM(Multimodal large language model)=LLaVA-7B-1.5",
+                  "description": ", VDM(Video Diffusion Model)=latent-diffusion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T09:52:38Z",
+                    "owner": "haotian-liu",
+                    "repo": "LLaVA",
+                    "stars": 24977
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Human-Centric Autonomous Systems With LLMs for User Command Reasoning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: DriveCmd",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-10T11:06:59Z",
+                "owner": "KTH-RPL",
+                "repo": "DriveCmd_LLM",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: UCU Dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-09-09T17:42:29Z",
+                "owner": "LLVM-AD",
+                "repo": "ucu-dataset",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-03-14T09:52:13Z",
+                "owner": "PJLab-ADG",
+                "repo": "GPT4V-AD-Exploration",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Datasets:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Scenario Understanding: nuScenes",
+                  "description": ", BDD-X, Carla, TSDD, Waymo, DAIR-V2X, CitySim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2019-01-18T22:08:40Z",
+                    "owner": "JinkyuKimUCB",
+                    "repo": "BDD-X-dataset",
+                    "stars": 133
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MagicDrive: Street View Generation with Diverse 3D Geometry Control",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: MagicDrive",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-21T10:20:04Z",
+                "owner": "cure-lab",
+                "repo": "MagicDrive",
+                "stars": 1167
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Env:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ComplexUrbanScenarios",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-07-13T04:28:14Z",
+                    "owner": "liuyuqi123",
+                    "repo": "ComplexUrbanScenarios",
+                    "stars": 49
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-26T00:05:46Z",
+                "owner": "wayveai",
+                "repo": "Driving-with-LLMs",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: Driving QA",
+              "description": ", data collection using RL experts in simulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-26T00:05:46Z",
+                "owner": "wayveai",
+                "repo": "Driving-with-LLMs",
+                "stars": 578
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: Talk2BEV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-04T19:15:04Z",
+                "owner": "llmbev",
+                "repo": "talk2bev",
+                "stars": 123
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Datasets:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BDD-X dataset",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2019-01-18T22:08:40Z",
+                    "owner": "JinkyuKimUCB",
+                    "repo": "BDD-X-dataset",
+                    "stars": 133
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GPT-DRIVER: LEARNING TO DRIVE WITH GPT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: GPT-Driver",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-02-01T20:27:35Z",
+                "owner": "PointsCoder",
+                "repo": "GPT-Driver",
+                "stars": 303
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Env:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "HighwayEnv",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-07T12:09:50Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3298
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CitySim",
+                  "description": ", a Drone-Based vehicle trajectory dataset.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-03-17T15:19:15Z",
+                    "owner": "UCF-SST-Lab",
+                    "repo": "UCF-SST-CitySim1-Dataset",
+                    "stars": 426
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-09-17T12:02:24Z",
+                "owner": "lijlansg",
+                "repo": "TrafficGPT",
+                "stars": 178
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Language Prompt for Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-22T07:51:24Z",
+                "owner": "wudongming97",
+                "repo": "Prompt4Driving",
+                "stars": 158
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Env: HighwayEnv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:09:50Z",
+                "owner": "Farama-Foundation",
+                "repo": "HighwayEnv",
+                "stars": 3298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: official",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-29T02:45:39Z",
+                "owner": "PJLab-ADG",
+                "repo": "DriveLikeAHuman",
+                "stars": 419
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ADAPT: Action-aware Driving Caption Transformer",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code: ADAPT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-06-11T08:47:54Z",
+                "owner": "jxbbb",
+                "repo": "ADAPT",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datasets: BDD-X dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2019-01-18T22:08:40Z",
+                "owner": "JinkyuKimUCB",
+                "repo": "BDD-X-dataset",
+                "stars": 133
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DriveLM: Drive on Language",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: DriveLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1339
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-02T05:29:49Z",
+            "owner": "OpenDriveLab",
+            "repo": "DriveLM",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "CARScenes: Semantic VLM Dataset for Safe Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Page: CARScenes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-23T17:09:38Z",
+                "owner": "Croquembouche",
+                "repo": "CARScenes",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code: CARScenes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-23T17:09:38Z",
+                "owner": "Croquembouche",
+                "repo": "CARScenes",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: WEDGE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-03-22T03:54:46Z",
+                "owner": "Infernolia",
+                "repo": "WEDGE",
+                "stars": 36
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset: NuScenes-QA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-01T04:38:33Z",
+                "owner": "qiantianwen",
+                "repo": "NuScenes-QA",
+                "stars": 239
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datasets: official",
+              "description": ", data collection using RL experts in simulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-26T00:05:46Z",
+                "owner": "wayveai",
+                "repo": "Driving-with-LLMs",
+                "stars": 578
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Textual Explanations for Self-Driving Vehicles",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BDD-X dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2019-01-18T22:08:40Z",
+                "owner": "JinkyuKimUCB",
+                "repo": "BDD-X-dataset",
+                "stars": 133
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Awesome LLM for Autonomous Driving Resources is released under the Apache 2.0 license.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:52:35.824Z",
+    "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
+    "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
+    "enhanced_repository": "enhansome/enhansome-Awesome-LLM4AD",
+    "enhanced_repository_description": null,
+    "title": "Awesome-LLM-for-Autonomous-Driving-Resources with stars"
+  }
+}
