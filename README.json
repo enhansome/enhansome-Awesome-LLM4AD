@@ -3811,7 +3811,7 @@
                 "last_commit": "2025-03-17T21:46:51Z",
                 "owner": "javyduck",
                 "repo": "ChatScene",
-                "stars": 192
+                "stars": 193
               }
             }
           ]
@@ -3916,7 +3916,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18400
+                "stars": 18401
               }
             }
           ]
@@ -4014,7 +4014,7 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3385
+                "stars": 3386
               }
             }
           ]
@@ -4458,7 +4458,7 @@
                     "last_commit": "2025-06-07T22:42:17Z",
                     "owner": "unmannedlab",
                     "repo": "UWB_Dataset",
-                    "stars": 20
+                    "stars": 21
                   }
                 }
               ]
@@ -4486,7 +4486,7 @@
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 24978
+                    "stars": 24980
                   }
                 }
               ]
@@ -4586,7 +4586,7 @@
                 "last_commit": "2025-04-21T10:20:04Z",
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1167
+                "stars": 1166
               }
             }
           ]
@@ -5084,7 +5084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:46:13.670Z",
+    "last_updated": "2026-08-15T17:13:49.449Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4AD",
