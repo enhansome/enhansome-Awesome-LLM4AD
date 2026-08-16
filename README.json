@@ -943,7 +943,7 @@
                 "last_commit": "2025-10-23T04:29:20Z",
                 "owner": "waymo-research",
                 "repo": "waymax",
-                "stars": 1093
+                "stars": 1094
               }
             }
           ]
@@ -1061,7 +1061,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4665
+                "stars": 4666
               }
             }
           ]
@@ -1383,7 +1383,7 @@
                 "last_commit": "2026-07-08T09:44:43Z",
                 "owner": "liulin815",
                 "repo": "DriveWorld-VLA",
-                "stars": 119
+                "stars": 120
               }
             }
           ]
@@ -1802,7 +1802,7 @@
                 "last_commit": "2026-03-13T00:55:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 357
+                "stars": 354
               }
             }
           ]
@@ -2165,7 +2165,7 @@
                 "last_commit": "2026-08-05T19:45:32Z",
                 "owner": "NVlabs",
                 "repo": "alpamayo",
-                "stars": 1990
+                "stars": 1989
               }
             }
           ]
@@ -2345,7 +2345,7 @@
                 "last_commit": "2026-04-03T05:51:26Z",
                 "owner": "DiffusionAD",
                 "repo": "Flow-Planner",
-                "stars": 257
+                "stars": 258
               }
             },
             {
@@ -2511,7 +2511,7 @@
                 "last_commit": "2026-02-02T05:29:32Z",
                 "owner": "FanGShiYuu",
                 "repo": "CoReVLA",
-                "stars": 60
+                "stars": 57
               }
             }
           ]
@@ -2887,7 +2887,7 @@
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 378
+                "stars": 380
               }
             },
             {
@@ -2901,7 +2901,7 @@
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 378
+                "stars": 380
               }
             }
           ]
@@ -3713,7 +3713,7 @@
                 "last_commit": "2025-02-21T02:38:37Z",
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 642
+                "stars": 643
               }
             },
             {
@@ -3916,7 +3916,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18401
+                "stars": 18404
               }
             }
           ]
@@ -4380,7 +4380,7 @@
                         "last_commit": "2019-01-18T22:08:40Z",
                         "owner": "JinkyuKimUCB",
                         "repo": "BDD-X-dataset",
-                        "stars": 133
+                        "stars": 134
                       }
                     }
                   ]
@@ -4486,7 +4486,7 @@
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 24980
+                    "stars": 24982
                   }
                 }
               ]
@@ -4563,7 +4563,7 @@
                     "last_commit": "2019-01-18T22:08:40Z",
                     "owner": "JinkyuKimUCB",
                     "repo": "BDD-X-dataset",
-                    "stars": 133
+                    "stars": 134
                   }
                 }
               ]
@@ -4717,7 +4717,7 @@
                     "last_commit": "2019-01-18T22:08:40Z",
                     "owner": "JinkyuKimUCB",
                     "repo": "BDD-X-dataset",
-                    "stars": 133
+                    "stars": 134
                   }
                 }
               ]
@@ -4915,7 +4915,7 @@
                 "last_commit": "2019-01-18T22:08:40Z",
                 "owner": "JinkyuKimUCB",
                 "repo": "BDD-X-dataset",
-                "stars": 133
+                "stars": 134
               }
             }
           ]
@@ -5069,7 +5069,7 @@
                 "last_commit": "2019-01-18T22:08:40Z",
                 "owner": "JinkyuKimUCB",
                 "repo": "BDD-X-dataset",
-                "stars": 133
+                "stars": 134
               }
             }
           ]
@@ -5084,7 +5084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:13:49.449Z",
+    "last_updated": "2026-08-16T17:13:12.245Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4AD",
