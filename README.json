@@ -1,22 +1,7 @@
 {
   "items": [
     {
-      "description": "Our survey paper is at https://arxiv.org/abs/2311.01043 which includes more detailed discussions and will be continuously updated.\nIf you find our repo is helpful, please consider cite it.",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "LLM-for-Autonomous-Driving (LLM4AD) refers to the application of Large Language Models(LLMs) in autonomous driving. We divide existing works based on the perspective of applying LLMs: planning, perception, question answering, and generation.\n",
-      "items": [],
-      "title": "Overview of LLM4AD"
-    },
-    {
-      "description": "The orange circle represents the ideal level of driving competence, akin to that possessed by an experienced human driver. There are two main methods to acquire such proficiency: one, through learning-based techniques within simulated environments; and two, by learning from offline data through similar methodologies. It’s important to note that due to discrepancies between simulations and the real-world, these two domains are not fully the same, i.e. sim2real gap. Concurrently, offline data serves as a subset of real-world data since it’s collected directly from actual surroundings. However, it is difficult to fully cover the distribution as well due to the notorious long-tailed nature of autonomous driving tasks. The final goal of autonomous driving is to elevate driving abilities from a basic green stage to a more advanced blue level through extensive data collection and deep learning.\n",
-      "items": [],
-      "title": "Motivation of LLM4AD"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -30,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -51,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1261942009,
                 "language": "Python",
                 "last_commit": "2026-06-16T01:21:18Z",
                 "owner": "George-Ling3",
@@ -72,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -93,6 +81,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -114,6 +103,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -135,6 +125,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -156,6 +147,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -177,6 +169,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1171303213,
                 "language": "Python",
                 "last_commit": "2026-05-26T11:54:12Z",
                 "owner": "KevinRichard1",
@@ -198,6 +191,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -212,11 +206,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1236203421,
                 "language": "Python",
                 "last_commit": "2026-07-12T12:57:46Z",
                 "owner": "AFARI-Research",
                 "repo": "ChainFlow-VLA",
-                "stars": 44
+                "stars": 45
               }
             }
           ]
@@ -233,6 +228,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -254,6 +250,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -275,6 +272,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -296,6 +294,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -317,6 +316,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -338,6 +338,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -359,6 +360,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1148834215,
                 "language": "Python",
                 "last_commit": "2026-07-27T08:00:37Z",
                 "owner": "hotdogcheesewhite",
@@ -380,6 +382,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -401,6 +404,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -422,6 +426,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1176552784,
                 "language": "Python",
                 "last_commit": "2026-07-27T01:41:31Z",
                 "owner": "wuyang98",
@@ -443,6 +448,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -464,6 +470,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1225431165,
                 "language": "Python",
                 "last_commit": "2026-07-28T11:00:32Z",
                 "owner": "H-EmbodVis",
@@ -485,6 +492,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1225738206,
                 "language": "Python",
                 "last_commit": "2026-08-17T09:29:54Z",
                 "owner": "ZionGo6",
@@ -506,6 +514,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -527,6 +536,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -548,6 +558,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -562,6 +573,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1215087562,
                 "language": "Python",
                 "last_commit": "2026-04-23T12:15:25Z",
                 "owner": "Z1zyw",
@@ -583,6 +595,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -604,6 +617,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -625,6 +639,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -646,6 +661,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1196284086,
                 "language": "Python",
                 "last_commit": "2026-04-14T17:49:55Z",
                 "owner": "xiaomi-research",
@@ -667,6 +683,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -688,25 +705,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 957093577,
                 "language": null,
                 "last_commit": "2025-04-09T14:20:51Z",
                 "owner": "ZhihongCui",
                 "repo": "CTRAIL",
                 "stars": 0
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: AutoWorld",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -722,6 +727,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -736,11 +742,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1167736955,
                 "language": null,
                 "last_commit": "2026-06-02T14:59:48Z",
                 "owner": "haha-yuki-haha",
                 "repo": "AutoDrive-P3",
-                "stars": 19
+                "stars": 20
               }
             }
           ]
@@ -757,6 +764,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -778,6 +786,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1185905747,
                 "language": "Python",
                 "last_commit": "2026-08-01T01:24:21Z",
                 "owner": "tasl-lab",
@@ -799,6 +808,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -820,6 +830,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -841,6 +852,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -862,6 +874,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 644732197,
                 "language": "Python",
                 "last_commit": "2024-11-01T04:38:33Z",
                 "owner": "qiantianwen",
@@ -883,6 +896,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -897,6 +911,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1183202225,
                 "language": null,
                 "last_commit": "2026-03-23T06:06:02Z",
                 "owner": "xiaolul2",
@@ -918,6 +933,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1182221604,
                 "language": "TypeScript",
                 "last_commit": "2026-06-23T10:34:22Z",
                 "owner": "jiangchaokang",
@@ -939,25 +955,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 699546050,
                 "language": "Python",
                 "last_commit": "2025-10-23T04:29:20Z",
                 "owner": "waymo-research",
                 "repo": "waymax",
                 "stars": 1093
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learning from Mistakes: Post-Training for Driving VLA with Takeover Data",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Datasets: Bench2Drive",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -973,6 +977,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -994,6 +999,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 657583525,
                 "language": "Python",
                 "last_commit": "2023-06-29T08:09:46Z",
                 "owner": "opendilab",
@@ -1015,6 +1021,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1036,6 +1043,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1148073989,
                 "language": "Python",
                 "last_commit": "2026-08-18T13:18:06Z",
                 "owner": "xifen523",
@@ -1057,11 +1065,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 115744122,
                 "language": "Python",
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4667
+                "stars": 4668
               }
             }
           ]
@@ -1078,6 +1087,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1099,6 +1109,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1120,6 +1131,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1162297948,
                 "language": "Python",
                 "last_commit": "2026-03-19T05:45:58Z",
                 "owner": "wangzihanggg",
@@ -1134,6 +1146,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1162297948,
                 "language": "Python",
                 "last_commit": "2026-03-19T05:45:58Z",
                 "owner": "wangzihanggg",
@@ -1155,6 +1168,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1166579276,
                 "language": "Python",
                 "last_commit": "2026-07-27T12:40:40Z",
                 "owner": "hotdogcheesewhite",
@@ -1176,6 +1190,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1197,6 +1212,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1211,6 +1227,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1164092495,
                 "language": "Python",
                 "last_commit": "2026-05-20T04:30:41Z",
                 "owner": "wjl2244",
@@ -1232,6 +1249,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1246,6 +1264,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1159063427,
                 "language": null,
                 "last_commit": "2026-02-17T08:36:06Z",
                 "owner": "MSunDYY",
@@ -1267,6 +1286,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1288,6 +1308,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1302,6 +1323,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1143077620,
                 "language": "Python",
                 "last_commit": "2026-02-05T12:48:48Z",
                 "owner": "mengtan00",
@@ -1323,6 +1345,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1344,6 +1367,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1126443194,
                 "language": "Python",
                 "last_commit": "2026-05-10T09:03:45Z",
                 "owner": "ys-qu",
@@ -1365,6 +1389,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1379,6 +1404,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1147013106,
                 "language": "Python",
                 "last_commit": "2026-07-08T09:44:43Z",
                 "owner": "liulin815",
@@ -1400,6 +1426,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1142073981,
                 "language": "Python",
                 "last_commit": "2026-01-31T18:58:08Z",
                 "owner": "Mi3-Lab",
@@ -1414,6 +1441,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1142073981,
                 "language": "Python",
                 "last_commit": "2026-01-31T18:58:08Z",
                 "owner": "Mi3-Lab",
@@ -1435,25 +1463,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1148126364,
                 "language": null,
                 "last_commit": "2026-02-02T15:59:32Z",
                 "owner": "matteandre",
                 "repo": "LiFlow",
                 "stars": 11
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: UniDWM",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -1469,6 +1485,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1490,6 +1507,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1080340206,
                 "language": "Python",
                 "last_commit": "2026-02-03T17:09:37Z",
                 "owner": "valeoai",
@@ -1504,6 +1522,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1080340206,
                 "language": "Python",
                 "last_commit": "2026-02-03T17:09:37Z",
                 "owner": "valeoai",
@@ -1525,6 +1544,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1546,6 +1566,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1567,11 +1588,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 306217645,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-11-23T17:49:25Z",
                 "owner": "unmannedlab",
                 "repo": "RELLIS-3D",
-                "stars": 449
+                "stars": 450
               }
             }
           ]
@@ -1588,6 +1610,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1609,6 +1632,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1630,6 +1654,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1651,6 +1676,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1116183992,
                 "language": null,
                 "last_commit": "2025-12-18T06:28:56Z",
                 "owner": "InSAI-Lab",
@@ -1672,6 +1698,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 946724855,
                 "language": "Python",
                 "last_commit": "2025-03-15T19:53:53Z",
                 "owner": "ayesha-ishaq",
@@ -1693,6 +1720,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1103700383,
                 "language": "Python",
                 "last_commit": "2026-03-21T09:32:03Z",
                 "owner": "happinesslz",
@@ -1714,6 +1742,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1735,6 +1764,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1749,6 +1779,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105875986,
                 "language": "Python",
                 "last_commit": "2026-02-01T03:59:10Z",
                 "owner": "fudan-generative-vision",
@@ -1763,6 +1794,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105875986,
                 "language": "Python",
                 "last_commit": "2026-02-01T03:59:10Z",
                 "owner": "fudan-generative-vision",
@@ -1784,6 +1816,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1798,6 +1831,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105876193,
                 "language": "Python",
                 "last_commit": "2026-03-13T00:55:10Z",
                 "owner": "fudan-generative-vision",
@@ -1819,11 +1853,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ]
@@ -1840,6 +1875,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1106189943,
                 "language": "Python",
                 "last_commit": "2026-07-03T19:41:25Z",
                 "owner": "vbdi",
@@ -1861,6 +1897,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1882,6 +1919,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 247939145,
                 "language": "Python",
                 "last_commit": "2025-09-01T20:25:09Z",
                 "owner": "talk2car",
@@ -1903,6 +1941,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105179267,
                 "language": null,
                 "last_commit": "2025-11-27T08:47:10Z",
                 "owner": "baidu-maps",
@@ -1917,6 +1956,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105179267,
                 "language": null,
                 "last_commit": "2025-11-27T08:47:10Z",
                 "owner": "baidu-maps",
@@ -1931,6 +1971,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1105179267,
                 "language": null,
                 "last_commit": "2025-11-27T08:47:10Z",
                 "owner": "baidu-maps",
@@ -1952,6 +1993,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 301903883,
                 "language": "Python",
                 "last_commit": "2025-01-31T23:17:16Z",
                 "owner": "huawei-noah",
@@ -1973,6 +2015,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -1994,6 +2037,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2015,6 +2059,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2029,6 +2074,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1095411464,
                 "language": null,
                 "last_commit": "2026-02-21T13:30:51Z",
                 "owner": "liulin815",
@@ -2050,6 +2096,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1101005988,
                 "language": "Python",
                 "last_commit": "2026-01-30T17:57:11Z",
                 "owner": "MIT-CLEAR-Lab",
@@ -2071,6 +2118,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2092,18 +2140,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1098971305,
                 "language": "Python",
                 "last_commit": "2026-03-21T12:21:26Z",
                 "owner": "iis-esslingen",
                 "repo": "TLS-Assist",
                 "stars": 1
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Datasets: LangAuto",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -2119,6 +2162,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1023449150,
                 "language": null,
                 "last_commit": "2025-07-21T07:26:56Z",
                 "owner": "ReaFly",
@@ -2140,6 +2184,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1023483719,
                 "language": null,
                 "last_commit": "2025-07-21T08:27:17Z",
                 "owner": "ReaFly",
@@ -2161,6 +2206,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1099546176,
                 "language": "Python",
                 "last_commit": "2026-08-05T19:45:32Z",
                 "owner": "NVlabs",
@@ -2182,6 +2228,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2203,6 +2250,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1062423174,
                 "language": "Python",
                 "last_commit": "2025-10-29T12:02:54Z",
                 "owner": "wuaodi",
@@ -2224,6 +2272,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1073448729,
                 "language": null,
                 "last_commit": "2026-02-10T05:51:42Z",
                 "owner": "wm-research",
@@ -2238,6 +2287,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1073448729,
                 "language": null,
                 "last_commit": "2026-02-10T05:51:42Z",
                 "owner": "wm-research",
@@ -2259,31 +2309,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
                 "repo": "navsim",
                 "stars": 1072
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: ORAD-3D",
-              "description": null,
-              "children": []
-            },
-            {
-              "node_type": "item",
-              "title": "Datasets: ORAD-3D",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -2299,6 +2331,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2320,6 +2353,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1072674336,
                 "language": "Python",
                 "last_commit": "2026-03-30T14:31:46Z",
                 "owner": "SEU-zxj",
@@ -2341,18 +2375,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1074115974,
                 "language": "Python",
                 "last_commit": "2026-04-03T05:51:26Z",
                 "owner": "DiffusionAD",
                 "repo": "Flow-Planner",
                 "stars": 258
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Datasets: nuPlan",
-              "description": ", interPlan",
-              "children": []
             }
           ]
         },
@@ -2368,6 +2397,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 987725045,
                 "language": null,
                 "last_commit": "2025-05-21T14:24:04Z",
                 "owner": "Daniel-DHu",
@@ -2389,6 +2419,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1058492120,
                 "language": null,
                 "last_commit": "2026-02-16T05:09:54Z",
                 "owner": "X-Luffy",
@@ -2410,25 +2441,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
                 "repo": "navsim",
                 "stars": 1072
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Datasets: CODA",
-              "description": ", Waymo, BOSCH",
-              "children": []
             }
           ]
         },
@@ -2444,6 +2463,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1056639208,
                 "language": "Python",
                 "last_commit": "2025-09-22T07:25:29Z",
                 "owner": "TUM-AVS",
@@ -2465,6 +2485,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2486,6 +2507,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2507,6 +2529,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1027522035,
                 "language": "Python",
                 "last_commit": "2026-02-02T05:29:32Z",
                 "owner": "FanGShiYuu",
@@ -2528,6 +2551,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2549,11 +2573,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ]
@@ -2570,11 +2595,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ]
@@ -2591,6 +2617,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2612,6 +2639,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2633,25 +2661,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 997090045,
                 "language": "Python",
                 "last_commit": "2025-12-17T07:14:58Z",
                 "owner": "nec-labs-ma",
                 "repo": "relabeling",
                 "stars": 3
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Edge-Based Multimodal Sensor Data Fusion with Vision Language Models (VLMs) for Real-time Autonomous Vehicle Accident Avoidance",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Datasets: DeepAccident",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -2667,11 +2683,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 560272969,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-07-02T05:24:27Z",
                 "owner": "OpenDriveLab",
                 "repo": "OpenLane-V2",
-                "stars": 673
+                "stars": 674
               }
             }
           ]
@@ -2688,6 +2705,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2709,6 +2727,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1014205611,
                 "language": null,
                 "last_commit": "2025-09-22T09:11:01Z",
                 "owner": "Lumos0507",
@@ -2723,6 +2742,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1014205611,
                 "language": null,
                 "last_commit": "2025-09-22T09:11:01Z",
                 "owner": "Lumos0507",
@@ -2744,6 +2764,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1017450345,
                 "language": null,
                 "last_commit": "2025-07-22T07:51:11Z",
                 "owner": "henryhcliu",
@@ -2765,6 +2786,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1008844981,
                 "language": null,
                 "last_commit": "2026-06-02T02:22:18Z",
                 "owner": "hkw-xg",
@@ -2779,6 +2801,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1008844981,
                 "language": null,
                 "last_commit": "2026-06-02T02:22:18Z",
                 "owner": "hkw-xg",
@@ -2800,25 +2823,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1015731154,
                 "language": "Python",
                 "last_commit": "2026-07-24T03:12:59Z",
                 "owner": "lynn-yu",
                 "repo": "NRSeg",
                 "stars": 2
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "FMOcc: TPV-Driven Flow Matching for 3D Occupancy Prediction with Selective State Space Model",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Datasets: Occ3D-nuScenes",
-              "description": ", OpenOcc",
-              "children": []
             }
           ]
         },
@@ -2834,6 +2845,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2848,6 +2860,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 924014243,
                 "language": "Python",
                 "last_commit": "2025-12-31T15:00:36Z",
                 "owner": "ucaszyp",
@@ -2869,6 +2882,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -2883,11 +2897,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1009038213,
                 "language": "Python",
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 380
+                "stars": 381
               }
             },
             {
@@ -2897,11 +2912,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1009038213,
                 "language": "Python",
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 380
+                "stars": 381
               }
             }
           ]
@@ -2918,6 +2934,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1007456313,
                 "language": "JavaScript",
                 "last_commit": "2025-07-01T08:29:07Z",
                 "owner": "SII-HZY",
@@ -2939,6 +2956,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 387839793,
                 "language": "Python",
                 "last_commit": "2025-09-08T08:52:01Z",
                 "owner": "mees",
@@ -2960,11 +2978,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ]
@@ -2981,6 +3000,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1001882466,
                 "language": "HTML",
                 "last_commit": "2025-12-15T05:46:25Z",
                 "owner": "Rex-sys-hk",
@@ -3002,11 +3022,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 790577325,
                 "language": "Python",
                 "last_commit": "2026-08-11T04:01:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1924
+                "stars": 1925
               }
             },
             {
@@ -3016,6 +3037,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1001846586,
                 "language": "Python",
                 "last_commit": "2026-05-29T09:55:21Z",
                 "owner": "ucla-mobility",
@@ -3037,6 +3059,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 944761835,
                 "language": "Python",
                 "last_commit": "2026-02-24T01:56:57Z",
                 "owner": "pedram-mohajer",
@@ -3058,6 +3081,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 745836406,
                 "language": "Python",
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
@@ -3079,6 +3103,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 984633404,
                 "language": "Python",
                 "last_commit": "2025-11-27T14:58:43Z",
                 "owner": "LRP-IVC",
@@ -3100,6 +3125,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 812516316,
                 "language": "Python",
                 "last_commit": "2025-11-27T21:09:45Z",
                 "owner": "yhli123",
@@ -3121,11 +3147,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 991088632,
                 "language": "Python",
                 "last_commit": "2026-05-08T05:08:02Z",
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 818
+                "stars": 819
               }
             }
           ]
@@ -3142,6 +3169,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 970796273,
                 "language": null,
                 "last_commit": "2026-03-28T22:39:42Z",
                 "owner": "ys-qu",
@@ -3163,11 +3191,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 790577325,
                 "language": "Python",
                 "last_commit": "2026-08-11T04:01:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1924
+                "stars": 1925
               }
             },
             {
@@ -3177,6 +3206,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 986065173,
                 "language": "Python",
                 "last_commit": "2026-07-03T07:27:00Z",
                 "owner": "Thinklab-SJTU",
@@ -3198,6 +3228,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 917061716,
                 "language": "Python",
                 "last_commit": "2026-03-20T09:16:02Z",
                 "owner": "zc-zhao",
@@ -3219,11 +3250,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             }
           ]
@@ -3240,11 +3272,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ]
@@ -3261,11 +3294,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 790577325,
                 "language": "Python",
                 "last_commit": "2026-08-11T04:01:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1924
+                "stars": 1925
               }
             }
           ]
@@ -3282,11 +3316,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 734404573,
                 "language": "Python",
                 "last_commit": "2024-09-26T15:15:36Z",
                 "owner": "wayveai",
                 "repo": "LingoQA",
-                "stars": 221
+                "stars": 220
               }
             }
           ]
@@ -3303,6 +3338,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 950748237,
                 "language": "Python",
                 "last_commit": "2026-02-16T08:36:33Z",
                 "owner": "DriveVLA",
@@ -3324,11 +3360,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 892524848,
                 "language": "Python",
                 "last_commit": "2026-03-26T05:51:32Z",
                 "owner": "Depth2World",
                 "repo": "VLADBench",
-                "stars": 40
+                "stars": 41
               }
             }
           ]
@@ -3345,11 +3382,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 790577325,
                 "language": "Python",
                 "last_commit": "2026-08-11T04:01:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1924
+                "stars": 1925
               }
             },
             {
@@ -3359,6 +3397,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 946347750,
                 "language": "Python",
                 "last_commit": "2026-06-22T08:10:12Z",
                 "owner": "xiaomi-mlab",
@@ -3380,11 +3419,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             }
           ]
@@ -3401,11 +3441,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 790577325,
                 "language": "Python",
                 "last_commit": "2026-08-11T04:01:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1924
+                "stars": 1925
               }
             }
           ]
@@ -3422,6 +3463,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 945305239,
                 "language": null,
                 "last_commit": "2026-03-07T02:02:01Z",
                 "owner": "EMZucas",
@@ -3443,6 +3485,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 400744686,
                 "language": "Python",
                 "last_commit": "2025-08-15T18:57:56Z",
                 "owner": "metadriverse",
@@ -3464,6 +3507,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 400744686,
                 "language": "Python",
                 "last_commit": "2025-08-15T18:57:56Z",
                 "owner": "metadriverse",
@@ -3485,6 +3529,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 910801731,
                 "language": "Python",
                 "last_commit": "2025-12-12T00:25:42Z",
                 "owner": "worldbench",
@@ -3506,6 +3551,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 904320664,
                 "language": "Python",
                 "last_commit": "2025-05-01T02:35:24Z",
                 "owner": "Ezharjan",
@@ -3527,11 +3573,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             },
             {
@@ -3541,6 +3588,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 907723144,
                 "language": null,
                 "last_commit": "2026-02-04T01:25:18Z",
                 "owner": "bitmobility",
@@ -3562,6 +3610,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 905611622,
                 "language": "Python",
                 "last_commit": "2025-11-20T00:55:15Z",
                 "owner": "taco-group",
@@ -3583,11 +3632,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ]
@@ -3604,6 +3654,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 880261218,
                 "language": "Python",
                 "last_commit": "2026-08-12T02:07:01Z",
                 "owner": "hustvl",
@@ -3625,6 +3676,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 865203265,
                 "language": null,
                 "last_commit": "2025-10-20T05:32:13Z",
                 "owner": "worv-ai",
@@ -3646,6 +3698,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 816175954,
                 "language": "Python",
                 "last_commit": "2024-11-30T11:10:09Z",
                 "owner": "MayDGT",
@@ -3667,6 +3720,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 855783399,
                 "language": null,
                 "last_commit": "2025-08-17T15:25:37Z",
                 "owner": "EMZucas",
@@ -3688,6 +3742,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 798951094,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-09-13T01:34:45Z",
                 "owner": "ssuralcmu",
@@ -3709,6 +3764,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 471869423,
                 "language": "Python",
                 "last_commit": "2025-02-21T02:38:37Z",
                 "owner": "AIR-THU",
@@ -3723,6 +3779,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 857494802,
                 "language": null,
                 "last_commit": "2024-09-14T20:00:22Z",
                 "owner": "zilin-huang",
@@ -3744,11 +3801,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             }
           ]
@@ -3765,6 +3823,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 651789241,
                 "language": null,
                 "last_commit": "2024-07-05T16:48:30Z",
                 "owner": "DHPR-dataset",
@@ -3786,6 +3845,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 826066844,
                 "language": "Python",
                 "last_commit": "2025-05-28T07:02:47Z",
                 "owner": "memberRE",
@@ -3807,6 +3867,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 778969414,
                 "language": "Python",
                 "last_commit": "2025-03-17T21:46:51Z",
                 "owner": "javyduck",
@@ -3828,6 +3889,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 786932168,
                 "language": null,
                 "last_commit": "2025-02-27T22:19:37Z",
                 "owner": "sreeramsa",
@@ -3849,6 +3911,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 794472590,
                 "language": "Python",
                 "last_commit": "2026-03-03T02:40:04Z",
                 "owner": "NVlabs",
@@ -3870,6 +3933,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 748248385,
                 "language": "Python",
                 "last_commit": "2025-01-15T11:21:49Z",
                 "owner": "ftgTUGraz",
@@ -3891,6 +3955,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 675565871,
                 "language": "Python",
                 "last_commit": "2024-02-20T07:28:06Z",
                 "owner": "sungyeonparkk",
@@ -3912,11 +3977,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 81887991,
                 "language": "C++",
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18407
+                "stars": 18408
               }
             }
           ]
@@ -3933,11 +3999,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             }
           ]
@@ -3954,11 +4021,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             },
             {
@@ -3968,6 +4036,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 768441704,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-11-15T18:03:17Z",
                 "owner": "akshaygopalkr",
@@ -3989,6 +4058,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 776114164,
                 "language": null,
                 "last_commit": "2024-04-04T06:53:04Z",
                 "owner": "reachpranjal",
@@ -4010,25 +4080,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 191796209,
                 "language": "Python",
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3389
+                "stars": 3390
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Generalized Predictive Model for Autonomous Driving",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Code: DriveAGI",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -4044,11 +4102,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 691956219,
                 "language": "Python",
                 "last_commit": "2026-06-13T17:21:42Z",
                 "owner": "Traffic-Alpha",
                 "repo": "LLM-Assisted-Light",
-                "stars": 103
+                "stars": 104
               }
             }
           ]
@@ -4065,6 +4124,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 726393894,
                 "language": "Python",
                 "last_commit": "2024-12-11T18:28:24Z",
                 "owner": "yifanlu0227",
@@ -4086,6 +4146,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 761992418,
                 "language": "Python",
                 "last_commit": "2025-07-02T05:28:18Z",
                 "owner": "OpenDriveLab",
@@ -4107,6 +4168,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 760324942,
                 "language": "Python",
                 "last_commit": "2025-05-27T02:51:19Z",
                 "owner": "wzzheng",
@@ -4128,6 +4190,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 746196657,
                 "language": "Python",
                 "last_commit": "2024-03-22T01:47:08Z",
                 "owner": "shuishida",
@@ -4149,6 +4212,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 734176413,
                 "language": null,
                 "last_commit": "2024-08-12T02:28:18Z",
                 "owner": "xmed-lab",
@@ -4170,11 +4234,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             },
             {
@@ -4199,11 +4264,12 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "id": 560272969,
                             "language": "Jupyter Notebook",
                             "last_commit": "2025-07-02T05:24:27Z",
                             "owner": "OpenDriveLab",
                             "repo": "OpenLane-V2",
-                            "stars": 673
+                            "stars": 674
                           }
                         }
                       ]
@@ -4226,11 +4292,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 734404573,
                 "language": "Python",
                 "last_commit": "2024-09-26T15:15:36Z",
                 "owner": "wayveai",
                 "repo": "LingoQA",
-                "stars": 221
+                "stars": 220
               }
             }
           ]
@@ -4247,6 +4314,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 731651291,
                 "language": null,
                 "last_commit": "2023-12-25T15:52:33Z",
                 "owner": "OpenGVLab",
@@ -4268,6 +4336,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 730773551,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-04-14T07:29:10Z",
                 "owner": "opendilab",
@@ -4289,6 +4358,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 727513318,
                 "language": null,
                 "last_commit": "2024-01-01T15:26:18Z",
                 "owner": "fudan-zvg",
@@ -4310,6 +4380,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 705139613,
                 "language": null,
                 "last_commit": "2026-03-31T11:44:50Z",
                 "owner": "Petrichor625",
@@ -4329,6 +4400,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 247939145,
                     "language": "Python",
                     "last_commit": "2025-09-01T20:25:09Z",
                     "owner": "talk2car",
@@ -4352,6 +4424,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 727024507,
                 "language": "Python",
                 "last_commit": "2025-02-10T23:42:09Z",
                 "owner": "SaFo-Lab",
@@ -4376,6 +4449,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 166464394,
                         "language": null,
                         "last_commit": "2019-01-18T22:08:40Z",
                         "owner": "JinkyuKimUCB",
@@ -4401,6 +4475,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 720275234,
                 "language": "Python",
                 "last_commit": "2023-12-07T02:40:39Z",
                 "owner": "BraveGroup",
@@ -4422,18 +4497,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Code: official",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -4454,6 +4524,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 642457412,
                     "language": "C++",
                     "last_commit": "2025-06-07T22:42:17Z",
                     "owner": "unmannedlab",
@@ -4482,11 +4553,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 629102662,
                     "language": "Python",
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 24987
+                    "stars": 24988
                   }
                 }
               ]
@@ -4505,6 +4577,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 705592902,
                 "language": "Python",
                 "last_commit": "2024-07-10T11:06:59Z",
                 "owner": "KTH-RPL",
@@ -4519,6 +4592,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 689397077,
                 "language": "Python",
                 "last_commit": "2023-09-09T17:42:29Z",
                 "owner": "LLVM-AD",
@@ -4540,6 +4614,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 711804713,
                 "language": null,
                 "last_commit": "2024-03-14T09:52:13Z",
                 "owner": "PJLab-ADG",
@@ -4559,6 +4634,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 166464394,
                     "language": null,
                     "last_commit": "2019-01-18T22:08:40Z",
                     "owner": "JinkyuKimUCB",
@@ -4582,6 +4658,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 703433265,
                 "language": "Python",
                 "last_commit": "2025-04-21T10:20:04Z",
                 "owner": "cure-lab",
@@ -4603,11 +4680,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             }
           ]
@@ -4629,6 +4707,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 381674813,
                     "language": "Python",
                     "last_commit": "2021-07-13T04:28:14Z",
                     "owner": "liuyuqi123",
@@ -4652,6 +4731,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 644568586,
                 "language": "Python",
                 "last_commit": "2024-09-26T00:05:46Z",
                 "owner": "wayveai",
@@ -4666,6 +4746,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 644568586,
                 "language": "Python",
                 "last_commit": "2024-09-26T00:05:46Z",
                 "owner": "wayveai",
@@ -4687,6 +4768,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 692123635,
                 "language": "Python",
                 "last_commit": "2024-11-04T19:15:04Z",
                 "owner": "llmbev",
@@ -4713,6 +4795,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 166464394,
                     "language": null,
                     "last_commit": "2019-01-18T22:08:40Z",
                     "owner": "JinkyuKimUCB",
@@ -4736,6 +4819,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 705804609,
                 "language": "Python",
                 "last_commit": "2024-02-01T20:27:35Z",
                 "owner": "PointsCoder",
@@ -4762,11 +4846,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 110852412,
                     "language": "Python",
                     "last_commit": "2026-08-07T12:09:50Z",
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3297
+                    "stars": 3298
                   }
                 },
                 {
@@ -4776,6 +4861,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 477564297,
                     "language": "Python",
                     "last_commit": "2025-03-17T15:19:15Z",
                     "owner": "UCF-SST-Lab",
@@ -4799,6 +4885,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 689644658,
                 "language": "Python",
                 "last_commit": "2023-09-17T12:02:24Z",
                 "owner": "lijlansg",
@@ -4820,6 +4907,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676449366,
                 "language": "Python",
                 "last_commit": "2025-09-22T07:51:24Z",
                 "owner": "wudongming97",
@@ -4841,11 +4929,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             }
           ]
@@ -4862,11 +4951,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 110852412,
                 "language": "Python",
                 "last_commit": "2026-08-07T12:09:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3297
+                "stars": 3298
               }
             },
             {
@@ -4876,6 +4966,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 662542194,
                 "language": "Python",
                 "last_commit": "2024-07-29T02:45:39Z",
                 "owner": "PJLab-ADG",
@@ -4897,6 +4988,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 522396036,
                 "language": "Python",
                 "last_commit": "2024-06-11T08:47:54Z",
                 "owner": "jxbbb",
@@ -4911,6 +5003,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 166464394,
                 "language": null,
                 "last_commit": "2019-01-18T22:08:40Z",
                 "owner": "JinkyuKimUCB",
@@ -4924,7 +5017,7 @@
       "title": "Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4938,21 +5031,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 676089005,
                 "language": "HTML",
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340
+                "stars": 1339
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 676089005,
             "language": "HTML",
             "last_commit": "2025-07-02T05:29:49Z",
             "owner": "OpenDriveLab",
             "repo": "DriveLM",
-            "stars": 1340
+            "stars": 1339
           }
         },
         {
@@ -4967,6 +5062,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1072290149,
                 "language": "Python",
                 "last_commit": "2026-07-23T17:09:38Z",
                 "owner": "Croquembouche",
@@ -4981,6 +5077,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1072290149,
                 "language": "Python",
                 "last_commit": "2026-07-23T17:09:38Z",
                 "owner": "Croquembouche",
@@ -5002,6 +5099,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 640715273,
                 "language": "JavaScript",
                 "last_commit": "2024-03-22T03:54:46Z",
                 "owner": "Infernolia",
@@ -5023,6 +5121,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 644732197,
                 "language": "Python",
                 "last_commit": "2024-11-01T04:38:33Z",
                 "owner": "qiantianwen",
@@ -5044,6 +5143,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 644568586,
                 "language": "Python",
                 "last_commit": "2024-09-26T00:05:46Z",
                 "owner": "wayveai",
@@ -5065,6 +5165,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 166464394,
                 "language": null,
                 "last_commit": "2019-01-18T22:08:40Z",
                 "owner": "JinkyuKimUCB",
@@ -5076,16 +5177,12 @@
         }
       ],
       "title": "Datasets"
-    },
-    {
-      "description": "Awesome LLM for Autonomous Driving Resources is released under the Apache 2.0 license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:20:02.000Z",
+    "last_updated": "2026-08-19T12:11:12.268Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
+    "original_repository_id": 701419101,
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4AD",
     "enhanced_repository_description": null,
