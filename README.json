@@ -365,7 +365,7 @@
                 "last_commit": "2026-07-27T08:00:37Z",
                 "owner": "hotdogcheesewhite",
                 "repo": "DeepSight",
-                "stars": 27
+                "stars": 28
               }
             }
           ]
@@ -3982,7 +3982,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18408
+                "stars": 18409
               }
             }
           ]
@@ -5180,7 +5180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:12.268Z",
+    "last_updated": "2026-08-19T17:20:25.956Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
     "original_repository_id": 701419101,
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
