@@ -39,7 +39,7 @@
                 "archived": false,
                 "id": 1261942009,
                 "language": "Python",
-                "last_commit": "2026-08-21T07:11:49Z",
+                "last_commit": "2026-08-22T16:05:46Z",
                 "owner": "George-Ling3",
                 "repo": "BLUE",
                 "stars": 80
@@ -666,7 +666,7 @@
                 "last_commit": "2026-04-14T17:49:55Z",
                 "owner": "xiaomi-research",
                 "repo": "unidrivevla",
-                "stars": 230
+                "stars": 231
               }
             }
           ]
@@ -960,7 +960,7 @@
                 "last_commit": "2025-10-23T04:29:20Z",
                 "owner": "waymo-research",
                 "repo": "waymax",
-                "stars": 1093
+                "stars": 1094
               }
             }
           ]
@@ -1070,7 +1070,7 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4668
+                "stars": 4669
               }
             }
           ]
@@ -1372,7 +1372,7 @@
                 "last_commit": "2026-05-10T09:03:45Z",
                 "owner": "ys-qu",
                 "repo": "found-rl",
-                "stars": 8
+                "stars": 9
               }
             }
           ]
@@ -1593,7 +1593,7 @@
                 "last_commit": "2022-11-23T17:49:25Z",
                 "owner": "unmannedlab",
                 "repo": "RELLIS-3D",
-                "stars": 449
+                "stars": 450
               }
             }
           ]
@@ -1725,7 +1725,7 @@
                 "last_commit": "2026-03-21T09:32:03Z",
                 "owner": "happinesslz",
                 "repo": "DrivePI",
-                "stars": 130
+                "stars": 131
               }
             }
           ]
@@ -2211,7 +2211,7 @@
                 "last_commit": "2026-08-05T19:45:32Z",
                 "owner": "NVlabs",
                 "repo": "alpamayo",
-                "stars": 1999
+                "stars": 2000
               }
             }
           ]
@@ -2902,7 +2902,7 @@
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 382
+                "stars": 383
               }
             },
             {
@@ -2917,7 +2917,7 @@
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 382
+                "stars": 383
               }
             }
           ]
@@ -3042,7 +3042,7 @@
                 "last_commit": "2026-05-29T09:55:21Z",
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 629
+                "stars": 630
               }
             }
           ]
@@ -3211,7 +3211,7 @@
                 "last_commit": "2026-07-03T07:27:00Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveMoE",
-                "stars": 232
+                "stars": 233
               }
             }
           ]
@@ -3252,7 +3252,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -3402,7 +3402,7 @@
                 "last_commit": "2026-06-22T08:10:12Z",
                 "owner": "xiaomi-mlab",
                 "repo": "Orion",
-                "stars": 660
+                "stars": 661
               }
             }
           ]
@@ -3421,7 +3421,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -3490,7 +3490,7 @@
                 "last_commit": "2025-08-15T18:57:56Z",
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1232
+                "stars": 1234
               }
             }
           ]
@@ -3512,7 +3512,7 @@
                 "last_commit": "2025-08-15T18:57:56Z",
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1232
+                "stars": 1234
               }
             }
           ]
@@ -3575,7 +3575,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -3803,7 +3803,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -3982,7 +3982,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18413
+                "stars": 18414
               }
             }
           ]
@@ -4001,7 +4001,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -4085,7 +4085,7 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3391
+                "stars": 3392
               }
             }
           ]
@@ -4499,7 +4499,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -4558,7 +4558,7 @@
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 24995
+                    "stars": 25000
                   }
                 }
               ]
@@ -4682,7 +4682,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -4848,7 +4848,7 @@
                     "archived": false,
                     "id": 110852412,
                     "language": "Python",
-                    "last_commit": "2026-08-07T12:09:50Z",
+                    "last_commit": "2026-08-22T12:17:50Z",
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
                     "stars": 3299
@@ -4931,7 +4931,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -4953,7 +4953,7 @@
                 "archived": false,
                 "id": 110852412,
                 "language": "Python",
-                "last_commit": "2026-08-07T12:09:50Z",
+                "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
                 "stars": 3299
@@ -5180,7 +5180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:21:43.047Z",
+    "last_updated": "2026-08-22T17:14:16.338Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
     "original_repository_id": 701419101,
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
