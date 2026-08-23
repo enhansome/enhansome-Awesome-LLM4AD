@@ -960,7 +960,7 @@
                 "last_commit": "2025-10-23T04:29:20Z",
                 "owner": "waymo-research",
                 "repo": "waymax",
-                "stars": 1094
+                "stars": 1093
               }
             }
           ]
@@ -1070,7 +1070,7 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4669
+                "stars": 4670
               }
             }
           ]
@@ -1836,7 +1836,7 @@
                 "last_commit": "2026-03-13T00:55:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 357
+                "stars": 358
               }
             }
           ]
@@ -1998,7 +1998,7 @@
                 "last_commit": "2025-01-31T23:17:16Z",
                 "owner": "huawei-noah",
                 "repo": "SMARTS",
-                "stars": 1133
+                "stars": 1132
               }
             }
           ]
@@ -2211,7 +2211,7 @@
                 "last_commit": "2026-08-05T19:45:32Z",
                 "owner": "NVlabs",
                 "repo": "alpamayo",
-                "stars": 2000
+                "stars": 2002
               }
             }
           ]
@@ -2961,7 +2961,7 @@
                 "last_commit": "2025-09-08T08:52:01Z",
                 "owner": "mees",
                 "repo": "calvin",
-                "stars": 970
+                "stars": 971
               }
             }
           ]
@@ -3255,7 +3255,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -3424,7 +3424,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -3578,7 +3578,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             },
             {
@@ -3806,7 +3806,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -3982,7 +3982,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18414
+                "stars": 18418
               }
             }
           ]
@@ -4004,7 +4004,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -4385,7 +4385,7 @@
                 "last_commit": "2026-03-31T11:44:50Z",
                 "owner": "Petrichor625",
                 "repo": "Talk2car_CAVG",
-                "stars": 27
+                "stars": 28
               }
             },
             {
@@ -4502,7 +4502,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -4685,7 +4685,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -4851,7 +4851,7 @@
                     "last_commit": "2026-08-22T12:17:50Z",
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3299
+                    "stars": 3297
                   }
                 },
                 {
@@ -4934,7 +4934,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             }
           ]
@@ -4956,7 +4956,7 @@
                 "last_commit": "2026-08-22T12:17:50Z",
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3299
+                "stars": 3297
               }
             },
             {
@@ -5180,7 +5180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:14:16.338Z",
+    "last_updated": "2026-08-23T17:14:08.934Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
     "original_repository_id": 701419101,
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
