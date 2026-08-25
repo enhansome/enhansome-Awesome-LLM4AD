@@ -211,7 +211,7 @@
                 "last_commit": "2026-07-12T12:57:46Z",
                 "owner": "AFARI-Research",
                 "repo": "ChainFlow-VLA",
-                "stars": 45
+                "stars": 46
               }
             }
           ]
@@ -960,7 +960,7 @@
                 "last_commit": "2025-10-23T04:29:20Z",
                 "owner": "waymo-research",
                 "repo": "waymax",
-                "stars": 1094
+                "stars": 1095
               }
             }
           ]
@@ -1070,7 +1070,7 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4671
+                "stars": 4673
               }
             }
           ]
@@ -1784,7 +1784,7 @@
                 "last_commit": "2026-02-01T03:59:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Diff",
-                "stars": 297
+                "stars": 298
               }
             },
             {
@@ -1799,7 +1799,7 @@
                 "last_commit": "2026-02-01T03:59:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Diff",
-                "stars": 297
+                "stars": 298
               }
             }
           ]
@@ -1998,7 +1998,7 @@
                 "last_commit": "2025-01-31T23:17:16Z",
                 "owner": "huawei-noah",
                 "repo": "SMARTS",
-                "stars": 1133
+                "stars": 1134
               }
             }
           ]
@@ -2380,7 +2380,7 @@
                 "last_commit": "2026-04-03T05:51:26Z",
                 "owner": "DiffusionAD",
                 "repo": "Flow-Planner",
-                "stars": 259
+                "stars": 260
               }
             }
           ]
@@ -3343,7 +3343,7 @@
                 "last_commit": "2026-02-16T08:36:33Z",
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 793
+                "stars": 794
               }
             }
           ]
@@ -3982,7 +3982,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18418
+                "stars": 18421
               }
             }
           ]
@@ -4480,7 +4480,7 @@
                 "last_commit": "2023-12-07T02:40:39Z",
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 438
+                "stars": 439
               }
             }
           ]
@@ -5180,7 +5180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:12.628Z",
+    "last_updated": "2026-08-25T17:24:33.681Z",
     "original_repository": "Thinklab-SJTU/Awesome-LLM4AD",
     "original_repository_id": 701419101,
     "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
