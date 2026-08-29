@@ -942,7 +942,7 @@
                 "open_issues": 9,
                 "owner": "xiaomi-research",
                 "repo": "unidrivevla",
-                "stars": 234,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1496,11 +1496,11 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4674,
+                "stars": 4675,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2375,7 +2375,7 @@
                 "open_issues": 1,
                 "owner": "InSAI-Lab",
                 "repo": "OccSTeP",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2431,7 +2431,7 @@
                 "open_issues": 2,
                 "owner": "happinesslz",
                 "repo": "DrivePI",
-                "stars": 131,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -3116,8 +3116,8 @@
                 "id": 1099546176,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-05T19:45:32Z",
-                "open_issues": 71,
+                "last_commit": "2026-08-29T06:40:59Z",
+                "open_issues": 70,
                 "owner": "NVlabs",
                 "repo": "alpamayo",
                 "stars": 2007,
@@ -3365,7 +3365,7 @@
                 "open_issues": 12,
                 "owner": "DiffusionAD",
                 "repo": "Flow-Planner",
-                "stars": 262,
+                "stars": 263,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4184,7 +4184,7 @@
                 "open_issues": 52,
                 "owner": "mees",
                 "repo": "calvin",
-                "stars": 974,
+                "stars": 977,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4289,7 +4289,7 @@
                 "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4307,7 +4307,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-29T09:55:21Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
                 "stars": 634,
@@ -4525,7 +4525,7 @@
                 "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4675,7 +4675,7 @@
                 "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4731,7 +4731,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -4791,7 +4791,7 @@
                 "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4872,7 +4872,7 @@
                 "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4928,7 +4928,7 @@
                 "open_issues": 102,
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1235,
+                "stars": 1236,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4956,7 +4956,7 @@
                 "open_issues": 102,
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1235,
+                "stars": 1236,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5599,7 +5599,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18427,
+                "stars": 18426,
                 "topics": [
                   "ai",
                   "airsim",
@@ -6838,7 +6838,7 @@
                     "open_issues": 7,
                     "owner": "UCF-SST-Lab",
                     "repo": "UCF-SST-CitySim1-Dataset",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "carla-driving-simulator",
                       "carla-simulator",
@@ -7288,7 +7288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:48.261Z",
+    "last_updated": "2026-08-29T19:34:45.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
