@@ -518,10 +518,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T08:16:21Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "hotdogcheesewhite",
                 "repo": "DeepSight",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1497,10 +1497,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T18:02:42Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4699,
+                "stars": 4701,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1734,7 +1734,7 @@
                 "open_issues": 3,
                 "owner": "wjl2244",
                 "repo": "MeanFuser",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2753,7 +2753,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-11-27T08:47:10Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "baidu-maps",
                 "repo": "RoadSceneBench",
                 "stars": 5,
@@ -2774,7 +2774,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-11-27T08:47:10Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "baidu-maps",
                 "repo": "RoadSceneBench",
                 "stars": 5,
@@ -2795,7 +2795,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-11-27T08:47:10Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "baidu-maps",
                 "repo": "RoadSceneBench",
                 "stars": 5,
@@ -3120,7 +3120,7 @@
                 "open_issues": 70,
                 "owner": "NVlabs",
                 "repo": "alpamayo",
-                "stars": 2022,
+                "stars": 2023,
                 "topics": [
                   "alpamayo",
                   "autonomous-driving",
@@ -4044,7 +4044,7 @@
                 "open_issues": 6,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4184,7 +4184,7 @@
                 "open_issues": 52,
                 "owner": "mees",
                 "repo": "calvin",
-                "stars": 987,
+                "stars": 989,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4286,10 +4286,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4307,7 +4307,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-29T09:55:21Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
                 "stars": 650,
@@ -4522,10 +4522,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4672,10 +4672,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4731,7 +4731,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 808,
+                "stars": 809,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -4788,10 +4788,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4869,10 +4869,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4928,7 +4928,7 @@
                 "open_issues": 103,
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4956,7 +4956,7 @@
                 "open_issues": 103,
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5596,10 +5596,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T16:17:06Z",
-                "open_issues": 780,
+                "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18499,
+                "stars": 18501,
                 "topics": [
                   "ai",
                   "airsim",
@@ -5769,7 +5769,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3414,
+                "stars": 3416,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -5800,7 +5800,7 @@
                 "open_issues": 0,
                 "owner": "Traffic-Alpha",
                 "repo": "LLM-Assisted-Light",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "emergency-vehicles",
                   "intelligent-transportation-systems",
@@ -5834,7 +5834,7 @@
                 "open_issues": 36,
                 "owner": "yifanlu0227",
                 "repo": "ChatSim",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "3d",
                   "3d-reconstruction",
@@ -6402,7 +6402,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25030,
+                    "stars": 25032,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -7288,7 +7288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:06:21.434Z",
+    "last_updated": "2026-09-20T19:12:19.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
