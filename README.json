@@ -24,7 +24,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -88,7 +88,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -120,7 +120,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -152,7 +152,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -184,7 +184,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -216,7 +216,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -329,7 +329,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -361,7 +361,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -393,7 +393,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -425,7 +425,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -457,7 +457,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -489,7 +489,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -549,7 +549,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -581,7 +581,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -641,7 +641,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -729,7 +729,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -761,7 +761,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -793,7 +793,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -846,7 +846,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -878,7 +878,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -886,6 +886,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Code: DriveVA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] Official code of \"DriveVA: Video action models are zero-shot drivers\"",
+                "homepage": null,
+                "id": 1284776948,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T16:23:28Z",
+                "open_issues": 2,
+                "owner": "xiaomi-mlab",
+                "repo": "DriveVA",
+                "stars": 59,
+                "topics": []
+              },
+              "first_seen": "2026-09-22T19:59:09.972Z"
             }
           ]
         },
@@ -910,7 +931,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -942,7 +963,7 @@
                 "open_issues": 9,
                 "owner": "xiaomi-research",
                 "repo": "unidrivevla",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -970,7 +991,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1030,7 +1051,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1083,7 +1104,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1143,7 +1164,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1175,7 +1196,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1207,7 +1228,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1271,7 +1292,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1352,7 +1373,7 @@
                 "open_issues": 21,
                 "owner": "waymo-research",
                 "repo": "waymax",
-                "stars": 1102,
+                "stars": 1103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1380,7 +1401,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1440,7 +1461,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1536,7 +1557,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1568,7 +1589,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1677,7 +1698,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1709,7 +1730,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1762,7 +1783,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1815,7 +1836,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1847,7 +1868,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1869,7 +1890,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-05T12:48:48Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "mengtan00",
                 "repo": "ResWorld",
                 "stars": 63,
@@ -1900,7 +1921,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1960,7 +1981,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2090,7 +2111,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2179,7 +2200,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2211,7 +2232,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2279,7 +2300,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2311,7 +2332,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2343,7 +2364,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2431,7 +2452,7 @@
                 "open_issues": 2,
                 "owner": "happinesslz",
                 "repo": "DrivePI",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2459,7 +2480,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2491,7 +2512,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2573,7 +2594,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2630,7 +2651,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -2696,7 +2717,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2859,7 +2880,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2891,7 +2912,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2923,7 +2944,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -2948,7 +2969,7 @@
                 "open_issues": 3,
                 "owner": "liulin815",
                 "repo": "GuideFlow",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -3004,7 +3025,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3164,7 +3185,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3273,7 +3294,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3305,7 +3326,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3449,7 +3470,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3509,7 +3530,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3541,7 +3562,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3601,7 +3622,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3633,7 +3654,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -3671,7 +3692,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -3709,7 +3730,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3741,7 +3762,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -3798,7 +3819,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:24:27Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "OpenDriveLab",
                 "repo": "OpenLane-V2",
                 "stars": 676,
@@ -3833,7 +3854,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -4019,7 +4040,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -4041,10 +4062,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-31T15:00:36Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4072,7 +4093,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -4094,7 +4115,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-22T06:35:46Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
                 "stars": 388,
@@ -4120,7 +4141,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-22T06:35:46Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
                 "stars": 388,
@@ -4184,7 +4205,7 @@
                 "open_issues": 52,
                 "owner": "mees",
                 "repo": "calvin",
-                "stars": 990,
+                "stars": 991,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4223,7 +4244,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -4371,7 +4392,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1106,
+                "stars": 1107,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -4605,7 +4626,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -4637,7 +4658,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -4731,7 +4752,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 810,
+                "stars": 812,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -4840,7 +4861,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -4928,7 +4949,7 @@
                 "open_issues": 103,
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4956,7 +4977,7 @@
                 "open_issues": 103,
                 "owner": "metadriverse",
                 "repo": "metadrive",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5055,7 +5076,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -5105,7 +5126,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-20T00:55:15Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "taco-group",
                 "repo": "AutoTrust",
                 "stars": 55,
@@ -5136,7 +5157,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -5367,7 +5388,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -5599,7 +5620,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18503,
+                "stars": 18508,
                 "topics": [
                   "ai",
                   "airsim",
@@ -5645,7 +5666,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -5677,7 +5698,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -5769,7 +5790,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3416,
+                "stars": 3415,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -5987,7 +6008,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -6030,7 +6051,7 @@
                             "language": "Jupyter Notebook",
                             "license": "Apache-2.0",
                             "last_commit": "2025-07-02T05:24:27Z",
-                            "open_issues": 11,
+                            "open_issues": 12,
                             "owner": "OpenDriveLab",
                             "repo": "OpenLane-V2",
                             "stars": 676,
@@ -6302,7 +6323,7 @@
                 "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -6330,7 +6351,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -6402,7 +6423,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25032,
+                    "stars": 25035,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -6551,7 +6572,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1169,
+                "stars": 1170,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -6586,7 +6607,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -6813,7 +6834,7 @@
                     "open_issues": 43,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3316,
+                    "stars": 3317,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -6936,7 +6957,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -6968,7 +6989,7 @@
                 "open_issues": 43,
                 "owner": "Farama-Foundation",
                 "repo": "HighwayEnv",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "autonomous-driving",
                   "gymnasium-environment",
@@ -7076,7 +7097,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1342,
+                "stars": 1344,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -7103,7 +7124,7 @@
             "open_issues": 47,
             "owner": "OpenDriveLab",
             "repo": "DriveLM",
-            "stars": 1342,
+            "stars": 1344,
             "topics": [
               "autonomous-driving",
               "chain-of-thought",
@@ -7288,7 +7309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:43:21.779Z",
+    "last_updated": "2026-09-22T19:59:09.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
@@ -7296,8 +7317,8 @@
       "id": 701419101,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-06-22T14:29:16Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-22T15:15:02Z",
+      "open_issues": 2,
       "owner": "Thinklab-SJTU",
       "repo": "Awesome-LLM4AD",
       "stars": 1889,
@@ -7308,7 +7329,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "df33d2af880cd1e350d1ab89271d3a04113df2e2",
+    "original_repository_sha": "8f69f507969d4671c30e2e92e202ad0e0fb24c67",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4AD",
     "enhanced_repository_description": null,
     "title": "Awesome-LLM-for-Autonomous-Driving-Resources with stars"
