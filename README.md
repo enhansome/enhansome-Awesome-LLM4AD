@@ -1,6 +1,6 @@
 # Awesome-LLM-for-Autonomous-Driving-Resources with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,395 | 🐛 107 | 📅 2026-09-02![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE) ⭐ 1,890 | 🐛 1 | 📅 2026-09-22
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,909 | 🐛 107 | 📅 2026-09-02![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE) ⭐ 1,890 | 🐛 1 | 📅 2026-09-22
 
 This is a collection of research papers about **LLM-for-Autonomous-Driving(LLM4AD)**. The repository will be continuously updated to track the frontier of LLM4AD (Large Language Models for Autonomous Driving), which encompasses VLM4AD (Vision-Language Models for AD) and VLA4AD (Vision-Language-Action models for AD) as integral components of this unified paradigm.  *Maintained by SJTU-ReThinklab.*
 
@@ -1290,7 +1290,7 @@ format:
     * Illustrates the approach with a case study on SimLingo to construct rigorous, evidence-based safety claims for this emerging class of systems.
 
 * [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://arxiv.org/abs/2603.15771)
-  * Datasets: [Waymax](https://github.com/waymo-research/waymax) ⭐ 1,104 | 🐛 21 | 🌐 Python | 📅 2025-10-23, [nuPlan](https://www.nuscenes.org/nuplan)
+  * Datasets: [Waymax](https://github.com/waymo-research/waymax) ⭐ 1,105 | 🐛 21 | 🌐 Python | 📅 2025-10-23, [nuPlan](https://www.nuscenes.org/nuplan)
   * Yihong Guo, Dongqiangzi Ye, Sijia Chen, Anqi Liu, Xianming Liu
   * Publish Date: 2026.03.16
   * Task: Planning
@@ -2390,7 +2390,7 @@ format:
     * The paper introduces the first discrete flow matching architecture for autonomous driving, which achieves low-latency, parallel, and coarse-to-fine motion planning.
 
 * [BeLLA: End-to-End Birds Eye View Large Language Assistant for Autonomous Driving](https://arxiv.org/abs/2512.06096)
-  * Datasets: [NuScenes-QA](https://www.nuscenes.org/), [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Datasets: [NuScenes-QA](https://www.nuscenes.org/), [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Karthik Mohan, Sonam Singh, Amit Arvind Kale
   * Publish Date: 2025.12.05
   * Task: VQA
@@ -2441,7 +2441,7 @@ format:
     * Achieves state-of-the-art performance on NAVSIM benchmarks, enhancing safety, compliance, and generalization through reasoned, human-aligned decision making.
 
 * [Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles](https://arxiv.org/abs/2512.03454)
-  * Datasets: [Talk2Car](https://github.com/talk2car/Talk2Car) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2025-09-01
+  * Datasets: [Talk2Car](https://github.com/talk2car/Talk2Car) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2025-09-01
   * Haicheng Liao, Huanming Shen, Bonan Wang, Yongkang Li, Yihong Tang, Chengyue Wang, Dingyi Zhuang, Kehua Chen, Hai Yang, Chengzhong Xu, Zhenning Li
   * Publish Date: 2025.12.03
   * Task: Perception
@@ -2996,7 +2996,7 @@ format:
     * Experiments show an 18% reduction in collision rate compared to baselines, with stronger generalization and improved performance on long-tail scenarios.
 
 * [Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](https://arxiv.org/abs/2510.11083)
-  * Code:[Flow-Planner](https://github.com/DiffusionAD/Flow-Planner) ⭐ 271 | 🐛 12 | 🌐 Python | 📅 2026-04-03
+  * Code:[Flow-Planner](https://github.com/DiffusionAD/Flow-Planner) ⭐ 272 | 🐛 12 | 🌐 Python | 📅 2026-04-03
   * Tianyi Tan, Yinan Zheng, Ruiming Liang, Zexu Wang, Kexin Zheng, Jinliang Zheng, Jianxiong Li, Xianyuan Zhan, Jingjing Liu
   * Publish Date: 2025.10.13
   * Task: Planning
@@ -3365,7 +3365,7 @@ format:
     * Shows that simple continual learning strategies, like replay from diverse domains, can preserve spatial accuracy while maintaining strong visual quality.
 
 * [Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving](https://arxiv.org/abs/2508.13305)
-  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02, [DriveLMM-o1](https://github.com/ayesha-ishaq/DriveLMM-o1) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2025-03-15
+  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02, [DriveLMM-o1](https://github.com/ayesha-ishaq/DriveLMM-o1) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2025-03-15
   * Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, Jiabing Yang, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
   * Publish Date: 2025.08.18
   * Task: End-to-End
@@ -3385,7 +3385,7 @@ format:
     * Demonstrates practical viability through real-world deployment on an autonomous vehicle for an interactive parking task, achieving a near-zero failure rate.
 
 * [LMAD: Integrated End-to-End Vision-Language Model for Explainable Autonomous Driving](https://arxiv.org/abs/2508.12404)
-  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02, [nuScenes-QA](https://www.nuscenes.org/nuscenes#download)
+  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02, [nuScenes-QA](https://www.nuscenes.org/nuscenes#download)
   * Nan Song, Bozhou Zhang, Xiatian Zhu, Jiankang Deng, Li Zhang
   * Publish Date: 2025.08.17
   * Task: End-to-End
@@ -3772,7 +3772,7 @@ format:
     * Achieves new state-of-the-art results on simulation benchmarks (e.g., 95.5% on LIBERO) and demonstrates broad applicability on real-world ALOHA manipulation and autonomous driving.
 
 * [Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning](https://arxiv.org/abs/2506.18234)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [DriveLM-nuScenes](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [DriveLM-nuScenes](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Yue Li, Meng Tian, Dechang Zhu, Jiangtong Zhu, Zhenyu Lin, Zhiwei Xiong, Xinhai Zhao
   * Publish Date: 2025.06.23
   * Task: Planning
@@ -3821,7 +3821,7 @@ format:
 
 * [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.13757)
   * Datasets: [nuPlan](https://www.nuscenes.org/nuplan), [nuScenes](https://www.nuscenes.org/nuscenes), [Waymo](https://waymo.com/open), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,949 | 🐛 59 | 🌐 Python | 📅 2026-08-11(Using [CARLA-Garage Dataset](https://github.com/autonomousvision/carla_garage) ⭐ 557 | 🐛 0 | 🌐 Python | 📅 2026-09-21 for Training)
-  * Code: [AutoVLA](https://github.com/ucla-mobility/AutoVLA) ⭐ 656 | 🐛 6 | 🌐 Python | 📅 2026-05-29
+  * Code: [AutoVLA](https://github.com/ucla-mobility/AutoVLA) ⭐ 657 | 🐛 6 | 🌐 Python | 📅 2026-05-29
   * Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang, Bolei Zhou, Jiaqi Ma
   * Publisher: University of California, Los Angeles
   * Publish Date: 2025.06.16
@@ -3963,7 +3963,7 @@ format:
     * DriveMonkey, a flexible framework supporting multiple interactive tasks via user prompts.
 
 * [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875)
-  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Chengkai Xu, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang, Jian Sun
   * Publisher:  Tongji University
   * Publish Date: 2025.05.11
@@ -3972,7 +3972,7 @@ format:
     * A “fast-slow” decision-making framework that integrates a Large Language Model (LLM) for high-level instruction parsing with a Reinforcement Learning (RL) agent for low-level real-time decision.
 
 * [Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving](https://arxiv.org/abs/2505.06413)
-  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Ming Liu, Siyuan Liang, Koushik Howlader, Liwen Wang, Dacheng Tao, Wensheng Zhang
   * Publisher: Iowa State University, National University of Singapore
   * Publish Date: 2025.05.09
@@ -4036,7 +4036,7 @@ format:
     * NuScenes-SpatialQA, the first large-scale ground-truth-based Question-Answer (QA) benchmark specifically designed to evaluate the spatial understanding and reasoning capabilities of VLMs in autonomous driving.
 
 * [OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/abs/2503.23463)
-  * Code: [OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) ⭐ 814 | 🐛 14 | 🌐 Python | 📅 2026-02-16
+  * Code: [OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) ⭐ 815 | 🐛 14 | 🌐 Python | 📅 2026-02-16
   * Xingcheng Zhou, Xuyuan Han, Feng Yang, Yunpu Ma, Alois C. Knoll
   * Publisher: Technical University of Munich, Ludwig Maximilian University of Munich
   * Publish Date: 2025.03.30
@@ -4065,7 +4065,7 @@ format:
 
 * [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://arxiv.org/abs/2503.19755)
   * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,949 | 🐛 59 | 🌐 Python | 📅 2026-08-11
-  * Code: [ORION](https://github.com/xiaomi-mlab/Orion) ⭐ 668 | 🐛 26 | 🌐 Python | 📅 2026-06-22
+  * Code: [ORION](https://github.com/xiaomi-mlab/Orion) ⭐ 667 | 🐛 26 | 🌐 Python | 📅 2026-06-22
   * Haoyu Fu, Diankun Zhang, Zongchuang Zhao, Jianfeng Cui, Dingkang Liang, Chong Zhang, Dingyuan Zhang, Hongwei Xie, Bing Wang, Xiang Bai
   * Publisher: Huazhong University of Science and Technology, Xiaomi EV
   * Publish Data: 2025.03.25
@@ -4075,7 +4075,7 @@ format:
     * ORION, a hOlistic E2E autonomous dRiving framework by vIsion-language instructed actiON generation. ORION uniquely combines a QT-Former to aggregate long-term history context, a Large Language Model (LLM) for driving scenario reasoning, and a generative planner for precision trajectory prediction.
 
 * [AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models](https://arxiv.org/abs/2503.20804)
-  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Le Qiu, Zelai Xu, Qixin Tan, Wenhao Tang, Chao Yu, Yu Wang
   * Publisher: Tsinghua University, Beijing Zhongguancun Academy
   * Publish Date: 2025.03.24
@@ -4155,7 +4155,7 @@ format:
     * Integrates textual representations into Bird’s-Eye-View (BEV) features for semantic supervision, which enables the model to learn richer feature representations that explicitly capture the driver’s attentional semantics.
 
 * [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119)
-  * Datasets: [MetaDrive](https://github.com/metadriverse/metadrive) ⭐ 1,250 | 🐛 103 | 🌐 Python | 📅 2025-08-15, [Waymo](https://waymo.com/open/)
+  * Datasets: [MetaDrive](https://github.com/metadriverse/metadrive) ⭐ 1,251 | 🐛 103 | 🌐 Python | 📅 2025-08-15, [Waymo](https://waymo.com/open/)
   * Zihao Sheng, Zilin Huang, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
   * Publisher: University of Wisconsin-Madison, Purdue University
   * Publish Date: 2025.02.21
@@ -4193,7 +4193,7 @@ format:
     * INSIGHT (Integration of Semantic and Visual Inputs for Generalized Hazard Tracking), a hierarchical vision-language model (VLM) framework designed to enhance hazard detection and edge-case evaluation.
 
 * [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://arxiv.org/abs/2501.15850)
-  * Dataset: [MetaDrive](https://github.com/metadriverse/metadrive) ⭐ 1,250 | 🐛 103 | 🌐 Python | 📅 2025-08-15, [Waymo](https://waymo.com/open/)
+  * Dataset: [MetaDrive](https://github.com/metadriverse/metadrive) ⭐ 1,251 | 🐛 103 | 🌐 Python | 📅 2025-08-15, [Waymo](https://waymo.com/open/)
   * Yuewen Mei, Tong Nie, Jian Sun, Ye Tian  **IEEE TITS 2025**
   * Publisher: Tongji University, The Hong Kong Polytechnic University
   * Publish Date: 2025.01.27
@@ -4274,7 +4274,7 @@ format:
     * A universal, general, and cost-effective framework, “AutoSceneGen”, is proposed to automatically enhance the heterogeneity of traffic scenarios through scenario descriptions, thereby accelerating the simulation and testing process.
 
 * [Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving](https://arxiv.org/abs/2412.18511)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Code: [LGDRL](https://github.com/bitmobility/LGDRL) ⭐ 20 | 🐛 9 | 📅 2026-02-04
   * Hao Pang, Zhenpo Wang, Guoqiang Li
   * Publisher: Beijing Institute of Technology
@@ -4363,7 +4363,7 @@ format:
     * Propose a reasoning model that takes future planning trajectories of the ego vehicle as input to generate reasoning text.
 
 * [Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent](https://arxiv.org/abs/2411.05898)
-  * Dataset: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Dataset: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Linfeng He, Yiming Sun, Sihao Wu, Jiaxu Liu, Xiaowei Huang **NeurIPS 2024 SafeGenAI Workshop**
   * Publisher: University of Liverpool,  University of Nottingham
   * Publish Date: 2024.11.08
@@ -4521,7 +4521,7 @@ format:
     * Design and run driving theory tests for several proprietary LLM models (OpenAI GPT models, Baidu Ernie and Ali QWen) and open-source LLM models (Tsinghua MiniCPM-2B and MiniCPM-Llama3-V2.5) with more than 500 multiple-choices theory test questions.
 
 * [KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models](https://arxiv.org/abs/2407.14239)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Kemou Jiang, Xuan Cai, Zhiyong Cui, Aoyong Li, Yilong Ren, Haiyang Yu, Hao Yang, Daocheng Fu, Licheng Wen, Pinlong Cai
   * Publisher: Beihang University, Johns Hopkins University, Shanghai Artificial Intelligence Laboratory
   * Task: Multi Agent Planning
@@ -4634,7 +4634,7 @@ format:
     * Capitalizing on this dataset, present a multi-modal LLM driving assistant named VLAAD.
 
 * [REvolve: Reward Evolution with Large Language Models for Autonomous Driving](https://arxiv.org/abs/2406.01309)
-  * Env: [AirSim](https://github.com/microsoft/AirSim?tab=readme-ov-file) ⭐ 18,517 | 🐛 781 | 🌐 C++ | 📅 2026-09-15
+  * Env: [AirSim](https://github.com/microsoft/AirSim?tab=readme-ov-file) ⭐ 18,516 | 🐛 781 | 🌐 C++ | 📅 2026-09-15
   * Rishi Hazra, Alkis Sygkounas, Andreas Persson, Amy Loutfi, Pedro Zuidberg Dos Martires
   * Publisher: Centre for Applied Autonomous Sensor Systems (AASS), Örebro University, Swede
   * Task: Reward Generation
@@ -4644,7 +4644,7 @@ format:
     * Reward Evolve (REvolve), a novel evolutionary framework using LLMs, specifically GPT-4, to output reward functions (as executable Python codes) for AD and evolve them based on human feedback.
 
 * [AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/pdf/2404.06345.pdf)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Senkang Hu, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang
   * Publisher: City University of Hong Kong, The University of Hong Kong
   * Task: Planning(Multiple vehicles collaborative)
@@ -4654,7 +4654,7 @@ format:
     * It features reasoning engine, cognitive memory, reinforcement reflection, and communication module.
 
 * [Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving](https://arxiv.org/abs/2403.19838)
-  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Datasets: [DriveLM](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Code: [official](https://github.com/akshaygopalkr/EM-VLM4AD) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-15
   * Akshay Gopalkrishnan, Ross Greer, Mohan Trivedi
   * Publisher: UCSD
@@ -4715,7 +4715,7 @@ format:
     * After formulating these calculations based on overcoming weather conditions, precise control values for brake and speed are generated.
 
 * [Large Language Models Powered Context-aware Motion Prediction](https://arxiv.org/pdf/2403.11057.pdf)
-  * Dataset: [WOMD](https://github.com/waymo-research/waymo-open-dataset) ⭐ 3,417 | 🐛 464 | 🌐 Python | 📅 2026-01-08
+  * Dataset: [WOMD](https://github.com/waymo-research/waymo-open-dataset) ⭐ 3,418 | 🐛 464 | 🌐 Python | 📅 2026-01-08
   * Xiaoji Zheng, Lixiu Wu, Zhijie Yan, Yuanrong Tang, Hao Zhao, Chen Zhong, Bokui Chen, Jiangtao Gong
   * Publisher: Tsinghua University
   * Task: Motion Prediction
@@ -4759,7 +4759,7 @@ format:
     * Utilize the constructed text-to-script dataset to finetune GPT-3.5 into an LLM with specialized trajectory generation knowledge.
 
 * [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746)
-  * Code: [ChatSim](https://github.com/yifanlu0227/ChatSim) ⭐ 433 | 🐛 36 | 🌐 Python | 📅 2024-12-11
+  * Code: [ChatSim](https://github.com/yifanlu0227/ChatSim) ⭐ 434 | 🐛 36 | 🌐 Python | 📅 2024-12-11
   * Yuxi Wei, Zi Wang, Yifan Lu, Chenxin Xu, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang
   * Publisher: Shanghai Jiao Tong University, Shanghai AI Laboratory, Carnegie Mellon University, Tsinghua University
   * Publish Date: 2024.03.11
@@ -4899,7 +4899,7 @@ format:
       * LLM-ASSIST(par) considers a parameterized version of the planning problem, in which the LLM must only return a set of parameters for a rule-based planner, PDM-Closed.
 
 * [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf)
-  * Code: [official](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Code: [official](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Chonghao Sima, Katrin Renz, Kashyap Chitta, Li Chen, Hanxue Zhang, Chengen Xie, Ping Luo, Andreas Geiger, Hongyang Li **ECCV 2024**
   * Publisher: OpenDriveLab, University of Tübingen, Tübingen AI Center, University of Hong Kong
   * Publish Date: 2023.12.21
@@ -4998,7 +4998,7 @@ format:
   * Publisher: University of Macau, UESTC, Chongqing University, Jilin University
   * Task: Detection/Prediction
   * Datasets:
-    * [Talk2car](https://github.com/talk2car/Talk2Car) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2025-09-01
+    * [Talk2car](https://github.com/talk2car/Talk2Car) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2025-09-01
   * Publish Date: 2023.12.06
   * Summaray:
     * Utilize five encoder Text, Image, Context, and Cross-Modal—with a Multimodal decoder to pridiction object bounding box.
@@ -5033,7 +5033,7 @@ format:
     * The first to explore the potential application of the world model in end-to-end planning for autonomous driving.
 
 * [Empowering Autonomous Driving with Large Language Models: A Safety Perspective](https://arxiv.org/abs/2312.00812)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Yixuan Wang, Ruochen Jiao, Chengtian Lang, Sinong Simon Zhan, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
   * Publisher: Northwestern University, University of Liverpool, Yale University
   * Task: Planning
@@ -5062,7 +5062,7 @@ format:
   * Datasets: [nuScenes](https://www.nuscenes.org/nuscenes), Largescale private datasets
   * Publish Date: 2023.11.22
   * Summary:
-    * MLLM(Multimodal large language model)=[LLaVA-7B-1.5](https://github.com/haotian-liu/LLaVA) ⭐ 25,039 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12, VDM(Video Diffusion Model)=[latent-diffusion](https://github.com/CompVis/latent-diffusion) ⭐ 14,156 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
+    * MLLM(Multimodal large language model)=[LLaVA-7B-1.5](https://github.com/haotian-liu/LLaVA) ⭐ 25,041 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12, VDM(Video Diffusion Model)=[latent-diffusion](https://github.com/CompVis/latent-diffusion) ⭐ 14,156 | 🐛 292 | 🌐 Jupyter Notebook | 📅 2024-02-29
     * ADriver-I takes the vision-action pairs as inputs and autoregressively predicts the control signal of current frame. The generated control signals together with the historical vision-action pairs are further conditioned to predict the future frames.
   * Metrics:
     * L1 error including speed and steer angle of current frame.
@@ -5130,7 +5130,7 @@ format:
     * It also faces huge challenges in some complex scenes, such as night views and unseen weather conditions.
 
 * [Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2310.08034)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Can Cui, Yunsheng Ma, Xu Cao, Wenqian Ye, Ziran Wang
   * Publisher: Purdue University,  University of Illinois Urbana-Champaign，University of Virginia，PediaMed.AI.
   * Task: Planning
@@ -5246,7 +5246,7 @@ format:
   * Publish Date: 2023.09.28
   * Task: Planning
   * Env:
-    * [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+    * [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
     * [CitySim](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset) ⭐ 428 | 🐛 7 | 🌐 Python | 📅 2025-03-17, a Drone-Based vehicle trajectory dataset.
   * Summary:
     * Propose the DiLu framework, which combines a Reasoning and a Reflection module to enable the system to perform decision-making based on common-sense knowledge and evolve continuously.
@@ -5325,7 +5325,7 @@ format:
     * Propose an efficient prompt-based tracking model with prompt reasoning modification on PFTrack, called PromptTrack.
 
 * [MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://arxiv.org/abs/2307.16118)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Jiaqi Liu, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun. *ITSC 2023*
   * Publisher: Tongji University, Tsinghua University
   * Task: Prediction
@@ -5343,7 +5343,7 @@ format:
     * Develop a web-based distillation assistant enabling supervision and flexible intervention at runtime by prompt engineering and the LLM ChatGPT.
 
 * [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://browse.arxiv.org/abs/2307.07162)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,321 | 🐛 43 | 🌐 Python | 📅 2026-09-18
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-18
   * Code: [official](https://github.com/PJLab-ADG/DriveLikeAHuman) ⭐ 418 | 🐛 0 | 🌐 Python | 📅 2024-07-29
   * Daocheng Fu, Xin Li, Licheng Wen, Min Dou, Pinlong Cai, Botian Shi, Yu Qiao
   * Publisher: Shanghai AI Lab, East China Normal University
@@ -5419,8 +5419,8 @@ format:
   - experiment environments or tasks
 ```
 
-* [DriveLM: Drive on Language](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
-  * Dataset: [DriveLM](https://github.com/OpenDriveLab/DriveLM/blob/main/docs/getting_started.md#download-data) ⭐ 1,346 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+* [DriveLM: Drive on Language](https://github.com/OpenDriveLab/DriveLM) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
+  * Dataset: [DriveLM](https://github.com/OpenDriveLab/DriveLM/blob/main/docs/getting_started.md#download-data) ⭐ 1,347 | 🐛 47 | 🌐 HTML | 📅 2025-07-02
   * Publisher: Sima, Chonghao and Renz, Katrin and Chitta, Kashyap and Chen, Li and Zhang, Hanxue and Xie, Chengen and Luo, Ping and Geiger, Andreas and Li, Hongyang **ECCV 2024**
   * Publish Date: 2023.08
   * Summary:
@@ -5548,4 +5548,4 @@ Awesome LLM for Autonomous Driving Resources is released under the Apache 2.0 li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
