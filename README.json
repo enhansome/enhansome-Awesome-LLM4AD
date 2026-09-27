@@ -903,7 +903,7 @@
                 "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-09-22T19:59:09.972Z"
@@ -1518,10 +1518,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T22:01:53Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4702,
+                "stars": 4703,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1893,7 +1893,7 @@
                 "open_issues": 6,
                 "owner": "mengtan00",
                 "repo": "ResWorld",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4205,7 +4205,7 @@
                 "open_issues": 52,
                 "owner": "mees",
                 "repo": "calvin",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4752,7 +4752,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 815,
+                "stars": 816,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -5005,7 +5005,7 @@
                 "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 251,
+                "stars": 252,
                 "topics": [
                   "autonomous-driving",
                   "chatgpt",
@@ -6423,7 +6423,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25041,
+                    "stars": 25043,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -6572,7 +6572,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1170,
+                "stars": 1169,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -6859,7 +6859,7 @@
                     "open_issues": 7,
                     "owner": "UCF-SST-Lab",
                     "repo": "UCF-SST-CitySim1-Dataset",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": [
                       "carla-driving-simulator",
                       "carla-simulator",
@@ -7309,7 +7309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:30:17.700Z",
+    "last_updated": "2026-09-27T19:56:19.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
