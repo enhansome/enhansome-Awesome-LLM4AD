@@ -1373,7 +1373,7 @@
                 "open_issues": 21,
                 "owner": "waymo-research",
                 "repo": "waymax",
-                "stars": 1105,
+                "stars": 1107,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1518,10 +1518,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T22:01:53Z",
-                "open_issues": 131,
+                "open_issues": 137,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4703,
+                "stars": 4704,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2452,7 +2452,7 @@
                 "open_issues": 2,
                 "owner": "happinesslz",
                 "repo": "DrivePI",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2619,7 +2619,7 @@
                 "open_issues": 0,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -3141,7 +3141,7 @@
                 "open_issues": 70,
                 "owner": "NVlabs",
                 "repo": "alpamayo",
-                "stars": 2028,
+                "stars": 2029,
                 "topics": [
                   "alpamayo",
                   "autonomous-driving",
@@ -3245,7 +3245,7 @@
                 "open_issues": 3,
                 "owner": "wm-research",
                 "repo": "Dream4Drive",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -3266,7 +3266,7 @@
                 "open_issues": 3,
                 "owner": "wm-research",
                 "repo": "Dream4Drive",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4310,7 +4310,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1949,
+                "stars": 1950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4331,7 +4331,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 657,
+                "stars": 656,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -4546,7 +4546,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1949,
+                "stars": 1950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4567,7 +4567,7 @@
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveMoE",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "mixture-of-experts",
                   "vision-language-action-model"
@@ -4696,7 +4696,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1949,
+                "stars": 1950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4752,7 +4752,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 816,
+                "stars": 817,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -4812,7 +4812,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1949,
+                "stars": 1950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4893,7 +4893,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1949,
+                "stars": 1950,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5195,7 +5195,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "Senna",
-                "stars": 559,
+                "stars": 560,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end",
@@ -5620,7 +5620,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18516,
+                "stars": 18519,
                 "topics": [
                   "ai",
                   "airsim",
@@ -5790,7 +5790,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3418,
+                "stars": 3420,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -5924,7 +5924,7 @@
                 "open_issues": 12,
                 "owner": "wzzheng",
                 "repo": "GenAD",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -6423,7 +6423,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25043,
+                    "stars": 25045,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -6674,7 +6674,7 @@
                 "open_issues": 26,
                 "owner": "wayveai",
                 "repo": "Driving-with-LLMs",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -6695,7 +6695,7 @@
                 "open_issues": 26,
                 "owner": "wayveai",
                 "repo": "Driving-with-LLMs",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7269,7 +7269,7 @@
                 "open_issues": 26,
                 "owner": "wayveai",
                 "repo": "Driving-with-LLMs",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7309,7 +7309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:56:19.375Z",
+    "last_updated": "2026-09-28T22:22:02.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
