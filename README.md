@@ -1,6 +1,6 @@
 # Awesome-LLM-for-Autonomous-Driving-Resources with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,695 | 🐛 106 | 📅 2026-09-02![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE) ⭐ 1,890 | 🐛 1 | 📅 2026-09-29
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,793 | 🐛 106 | 📅 2026-09-02![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE)
 
 This is a collection of research papers about **LLM-for-Autonomous-Driving(LLM4AD)**. The repository will be continuously updated to track the frontier of LLM4AD (Large Language Models for Autonomous Driving), which encompasses VLM4AD (Vision-Language Models for AD) and VLA4AD (Vision-Language-Action models for AD) as integral components of this unified paradigm.  *Maintained by SJTU-ReThinklab.*
 
@@ -3000,7 +3000,7 @@ format:
 
 * [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.20060)
   * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,116 | 🐛 49 | 🌐 Python | 📅 2025-10-27
-  * Code: [MeanFuser](https://github.com/wjl2244/MeanFuser) ⭐ 110 | 🐛 3 | 🌐 Python | 📅 2026-05-20
+  * Code: [MeanFuser](https://github.com/wjl2244/MeanFuser) ⭐ 111 | 🐛 3 | 🌐 Python | 📅 2026-05-20
   * Junli Wang, Xueyi Liu, Yinan Zheng, Zebing Xing, Pengfei Li, Guang Li, Kun Ma, Guang Chen, Hangjun Ye, Zhongpu Xia, Long Chen, Qichao Zhang
   * Publish Date: 2026.02.23
   * Task: Planning
@@ -5607,4 +5607,4 @@ format:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
