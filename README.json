@@ -133,10 +133,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-29T18:54:06Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "HaoranZhuExplorer",
                     "repo": "AD-E2E-JEPA",
-                    "stars": 39,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -228,7 +228,7 @@
                     "open_issues": 0,
                     "owner": "PerfectXu88",
                     "repo": "DriveHierarchy",
-                    "stars": 22,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -893,8 +893,8 @@
                     "id": 110852412,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T18:16:27Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
                     "stars": 3324,
@@ -1336,7 +1336,7 @@
                     "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1805,
+                    "stars": 1807,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -1561,7 +1561,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -1965,7 +1965,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -3879,7 +3879,7 @@
                     "open_issues": 3,
                     "owner": "MSunDYY",
                     "repo": "DriveFine",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4210,7 +4210,7 @@
                     "id": 1080340206,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-29T14:36:58Z",
+                    "last_commit": "2026-10-06T08:25:38Z",
                     "open_issues": 0,
                     "owner": "valeoai",
                     "repo": "R3DPA",
@@ -4235,7 +4235,7 @@
                     "id": 1080340206,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-29T14:36:58Z",
+                    "last_commit": "2026-10-06T08:25:38Z",
                     "open_issues": 0,
                     "owner": "valeoai",
                     "repo": "R3DPA",
@@ -4722,7 +4722,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -5212,7 +5212,7 @@
                     "open_issues": 70,
                     "owner": "NVlabs",
                     "repo": "alpamayo",
-                    "stars": 2032,
+                    "stars": 2033,
                     "topics": [
                       "alpamayo",
                       "autonomous-driving",
@@ -5725,7 +5725,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -5763,7 +5763,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -6315,7 +6315,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -6693,8 +6693,8 @@
                     "id": 110852412,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T18:16:27Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
                     "stars": 3324,
@@ -6729,7 +6729,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -6928,8 +6928,8 @@
                     "id": 110852412,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T18:16:27Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
                     "stars": 3324,
@@ -7054,6 +7054,2092 @@
                   "first_seen": "2026-08-29T00:49:05.648Z"
                 }
               ]
+            },
+            {
+              "node_type": "group",
+              "title": "Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: DriveBench",
+                  "description": "worldbench/DriveBench",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+                    "homepage": "https://drive-bench.github.io",
+                    "id": 910801731,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-12-12T00:25:42Z",
+                    "open_issues": 12,
+                    "owner": "worldbench",
+                    "repo": "DriveBench",
+                    "stars": 252,
+                    "topics": [
+                      "autonomous-driving",
+                      "chatgpt",
+                      "driving-with-language",
+                      "internvl",
+                      "phi-3",
+                      "qwen2-vl",
+                      "vision-language-models"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: AutoSceneGen",
+                  "description": "Ezharjan/AutoSceneGen",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Stores here are the source codes for the official implementation of \"Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner\", by Aizierjiang Aiersilan.",
+                    "homepage": "https://ezharjan.github.io/AutoSceneGen/",
+                    "id": 904320664,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-05-01T02:35:24Z",
+                    "open_issues": 0,
+                    "owner": "Ezharjan",
+                    "repo": "AutoSceneGen",
+                    "stars": 25,
+                    "topics": [
+                      "dataset-generation",
+                      "in-context-learning",
+                      "large-language-models",
+                      "motion-planning",
+                      "robotics-applications",
+                      "trajectory-prediction"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: LGDRL",
+                  "description": "bitmobility/LGDRL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": "https://bitmobility.github.io/LGDRL/",
+                    "id": 907723144,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-02-04T01:25:18Z",
+                    "open_issues": 9,
+                    "owner": "bitmobility",
+                    "repo": "LGDRL",
+                    "stars": 20,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: AutoTrust",
+                  "description": "taco-group/AutoTrust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[TMLR'25] AutoTrust, a groundbreaking benchmark designed to assess the trustworthiness of DriveVLMs. This work aims to enhance public safety by ensuring DriveVLMs operate reliably across critical dimensions.",
+                    "homepage": "https://taco-group.github.io/AutoTrust/",
+                    "id": 905611622,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-11-20T00:55:15Z",
+                    "open_issues": 3,
+                    "owner": "taco-group",
+                    "repo": "AutoTrust",
+                    "stars": 55,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: DriveLM",
+                  "description": "OpenDriveLab/DriveLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                    "homepage": "https://opendrivelab.com/DriveLM/",
+                    "id": 676089005,
+                    "language": "HTML",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-07-02T05:29:49Z",
+                    "open_issues": 47,
+                    "owner": "OpenDriveLab",
+                    "repo": "DriveLM",
+                    "stars": 1346,
+                    "topics": [
+                      "autonomous-driving",
+                      "chain-of-thought",
+                      "graph-of-thoughts",
+                      "large-language-models",
+                      "llm",
+                      "prompt-engineering",
+                      "prompting",
+                      "tree-of-thoughts",
+                      "vision-language"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Senna",
+                  "description": "hustvl/Senna",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[IJCV 2026] Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving",
+                    "homepage": "https://arxiv.org/abs/2410.22313",
+                    "id": 880261218,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-12T02:07:01Z",
+                    "open_issues": 31,
+                    "owner": "hustvl",
+                    "repo": "Senna",
+                    "stars": 559,
+                    "topics": [
+                      "autonomous-driving",
+                      "end-to-end",
+                      "vision-language-action-model"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: CANVAS",
+                  "description": "worv-ai/canvas",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction [ICRA 2025]",
+                    "homepage": "https://worv-ai.github.io/canvas/",
+                    "id": 865203265,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-10-20T05:32:13Z",
+                    "open_issues": 1,
+                    "owner": "worv-ai",
+                    "repo": "canvas",
+                    "stars": 18,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: LeGEND",
+                  "description": "MayDGT/LeGEND",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 816175954,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-11-30T11:10:09Z",
+                    "open_issues": 4,
+                    "owner": "MayDGT",
+                    "repo": "LeGEND",
+                    "stars": 13,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: MiniDrive",
+                  "description": "EMZucas/minidrive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 855783399,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-08-17T15:25:37Z",
+                    "open_issues": 0,
+                    "owner": "EMZucas",
+                    "repo": "minidrive",
+                    "stars": 72,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ContextVLM: Zero-Shot and Few-Shot Context Understanding for Autonomous Driving using Vision Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: ContextVLM",
+                  "description": "ssuralcmu/ContextVLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Git Repository for the ContextVLM paper and the DrivingContexts dataset",
+                    "homepage": null,
+                    "id": 798951094,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2024-09-13T01:34:45Z",
+                    "open_issues": 1,
+                    "owner": "ssuralcmu",
+                    "repo": "ContextVLM",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: DAIR-V2X",
+                  "description": "AIR-THU/DAIR-V2X",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 471869423,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-02-21T02:38:37Z",
+                    "open_issues": 47,
+                    "owner": "AIR-THU",
+                    "repo": "DAIR-V2X",
+                    "stars": 648,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: V2X-VLM",
+                  "description": "zilin-huang/V2X-VLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 857494802,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2024-09-14T20:00:22Z",
+                    "open_issues": 2,
+                    "owner": "zilin-huang",
+                    "repo": "V2X-VLM",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: DHPR",
+                  "description": "DHPR-dataset/DHPR-dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[IEEE-TIV 2024] Exploring the Potential of Multi-Modal AI for Driving Hazard Prediction",
+                    "homepage": "https://ieeexplore.ieee.org/document/10568360",
+                    "id": 651789241,
+                    "language": null,
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2024-07-05T16:48:30Z",
+                    "open_issues": 1,
+                    "owner": "DHPR-dataset",
+                    "repo": "DHPR-dataset",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Asynchronous Large Language Model Enhanced Planner for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: AsyncDriver",
+                  "description": "memberRE/AsyncDriver",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024] Asynchronous Large Language Model Enhanced Planner for Autonomous Driving",
+                    "homepage": null,
+                    "id": 826066844,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-05-28T07:02:47Z",
+                    "open_issues": 4,
+                    "owner": "memberRE",
+                    "repo": "AsyncDriver",
+                    "stars": 111,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: ChatScene",
+                  "description": "javyduck/ChatScene",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR2024] ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles https://arxiv.org/abs/2405.14062",
+                    "homepage": "https://javyduck.github.io/chatscene/",
+                    "id": 778969414,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-03-17T21:46:51Z",
+                    "open_issues": 35,
+                    "owner": "javyduck",
+                    "repo": "ChatScene",
+                    "stars": 200,
+                    "topics": [
+                      "autonomous-driving",
+                      "carla",
+                      "scenic"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Probing Multimodal LLMs as World Models for Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: DriveSim",
+                  "description": "sreeramsa/DriveSim",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Simulator designed to generate diverse driving scenarios.",
+                    "homepage": null,
+                    "id": 786932168,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-02-27T22:19:37Z",
+                    "open_issues": 2,
+                    "owner": "sreeramsa",
+                    "repo": "DriveSim",
+                    "stars": 44,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception Reasoning and Planning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: OmniDrive",
+                  "description": "NVlabs/OmniDrive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 794472590,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-03-03T02:40:04Z",
+                    "open_issues": 84,
+                    "owner": "NVlabs",
+                    "repo": "OmniDrive",
+                    "stars": 646,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: Chat2Scenario",
+                  "description": "ftgTUGraz/Chat2Scenario",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[IEEE IV 2024] Official implementation of paper \"Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model\"",
+                    "homepage": null,
+                    "id": 748248385,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-01-15T11:21:49Z",
+                    "open_issues": 5,
+                    "owner": "ftgTUGraz",
+                    "repo": "Chat2Scenario",
+                    "stars": 35,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "VLAAD: Vision and Language Assistant for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: VLAAD",
+                  "description": "sungyeonparkk/vision-assistant-for-driving",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 675565871,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-02-20T07:28:06Z",
+                    "open_issues": 6,
+                    "owner": "sungyeonparkk",
+                    "repo": "vision-assistant-for-driving",
+                    "stars": 59,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "REvolve: Reward Evolution with Large Language Models for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: AirSim",
+                  "description": "microsoft/AirSim",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+                    "homepage": "https://microsoft.github.io/AirSim/",
+                    "id": 81887991,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-15T16:17:06Z",
+                    "open_issues": 781,
+                    "owner": "microsoft",
+                    "repo": "AirSim",
+                    "stars": 18536,
+                    "topics": [
+                      "ai",
+                      "airsim",
+                      "artificial-intelligence",
+                      "autonomous-quadcoptor",
+                      "autonomous-vehicles",
+                      "computer-vision",
+                      "control-systems",
+                      "cross-platform",
+                      "deep-reinforcement-learning",
+                      "deeplearning",
+                      "drones",
+                      "pixhawk",
+                      "platform-independent",
+                      "research",
+                      "self-driving-car",
+                      "simulator",
+                      "unreal-engine"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Datasets: DriveLM",
+                  "description": "OpenDriveLab/DriveLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                    "homepage": "https://opendrivelab.com/DriveLM/",
+                    "id": 676089005,
+                    "language": "HTML",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-07-02T05:29:49Z",
+                    "open_issues": 47,
+                    "owner": "OpenDriveLab",
+                    "repo": "DriveLM",
+                    "stars": 1346,
+                    "topics": [
+                      "autonomous-driving",
+                      "chain-of-thought",
+                      "graph-of-thoughts",
+                      "large-language-models",
+                      "llm",
+                      "prompt-engineering",
+                      "prompting",
+                      "tree-of-thoughts",
+                      "vision-language"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "akshaygopalkr/EM-VLM4AD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 768441704,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2024-11-15T18:03:17Z",
+                    "open_issues": 1,
+                    "owner": "akshaygopalkr",
+                    "repo": "EM-VLM4AD",
+                    "stars": 95,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: LeGo-Drive",
+                  "description": "reachpranjal/lego-drive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[Official] [IROS 2024] A goal-oriented planning to lift VLN performance for Closed-Loop Navigation: Simple, Yet Effective",
+                    "homepage": "https://reachpranjal.github.io/lego-drive",
+                    "id": 776114164,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2024-04-04T06:53:04Z",
+                    "open_issues": 1,
+                    "owner": "reachpranjal",
+                    "repo": "lego-drive",
+                    "stars": 27,
+                    "topics": [
+                      "carla-simulator",
+                      "end-to-end-autonomous-driving",
+                      "openclip",
+                      "vision-language-navigation"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Large Language Models Powered Context-aware Motion Prediction",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: WOMD",
+                  "description": "waymo-research/waymo-open-dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Waymo Open Dataset",
+                    "homepage": "https://www.waymo.com/open",
+                    "id": 191796209,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-01-08T22:00:08Z",
+                    "open_issues": 464,
+                    "owner": "waymo-research",
+                    "repo": "waymo-open-dataset",
+                    "stars": 3420,
+                    "topics": [
+                      "autonomous-driving",
+                      "dataset"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: LLM-Assisted-Light",
+                  "description": "Traffic-Alpha/LLM-Assisted-Light",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This repository contains the code for the paper \"LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments\".",
+                    "homepage": null,
+                    "id": 691956219,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-18T13:04:23Z",
+                    "open_issues": 0,
+                    "owner": "Traffic-Alpha",
+                    "repo": "LLM-Assisted-Light",
+                    "stars": 107,
+                    "topics": [
+                      "emergency-vehicles",
+                      "intelligent-transportation-systems",
+                      "large-language-models",
+                      "reinforcement-learning",
+                      "traffic-signal-control"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: ChatSim",
+                  "description": "yifanlu0227/ChatSim",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR2024 Highlight] Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration",
+                    "homepage": "https://yifanlu0227.github.io/ChatSim",
+                    "id": 726393894,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-12-11T18:28:24Z",
+                    "open_issues": 36,
+                    "owner": "yifanlu0227",
+                    "repo": "ChatSim",
+                    "stars": 434,
+                    "topics": [
+                      "3d",
+                      "3d-reconstruction",
+                      "3d-vision",
+                      "auto",
+                      "autonomous-driving",
+                      "llm",
+                      "llm-agent",
+                      "llm-agents"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Embodied Understanding of Driving Scenarios",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: ELM",
+                  "description": "OpenDriveLab/ELM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024] Embodied Understanding of Driving Scenarios",
+                    "homepage": null,
+                    "id": 761992418,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-07-02T05:28:18Z",
+                    "open_issues": 3,
+                    "owner": "OpenDriveLab",
+                    "repo": "ELM",
+                    "stars": 209,
+                    "topics": [
+                      "autonomous-driving",
+                      "end-to-end-driving",
+                      "vision-language-model"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GenAD: Generative End-to-End Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: GenAD",
+                  "description": "wzzheng/GenAD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024] GenAD: Generative End-to-End Autonomous Driving",
+                    "homepage": null,
+                    "id": 760324942,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-05-27T02:51:19Z",
+                    "open_issues": 12,
+                    "owner": "wzzheng",
+                    "repo": "GenAD",
+                    "stars": 496,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LangProp: A code optimization framework using Language Models applied to driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: LangProp",
+                  "description": "shuishida/LangProp",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 746196657,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-03-22T01:47:08Z",
+                    "open_issues": 2,
+                    "owner": "shuishida",
+                    "repo": "LangProp",
+                    "stars": 61,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Holistic Autonomous Driving Understanding by Bird’s-Eye-View Injected Multi-Modal Large Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "xmed-lab/NuInstruct",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 734176413,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2024-08-12T02:28:18Z",
+                    "open_issues": 3,
+                    "owner": "xmed-lab",
+                    "repo": "NuInstruct",
+                    "stars": 72,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DriveLM: Driving with Graph Visual Question Answering",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "OpenDriveLab/DriveLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                    "homepage": "https://opendrivelab.com/DriveLM/",
+                    "id": 676089005,
+                    "language": "HTML",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-07-02T05:29:49Z",
+                    "open_issues": 47,
+                    "owner": "OpenDriveLab",
+                    "repo": "DriveLM",
+                    "stars": 1346,
+                    "topics": [
+                      "autonomous-driving",
+                      "chain-of-thought",
+                      "graph-of-thoughts",
+                      "large-language-models",
+                      "llm",
+                      "prompt-engineering",
+                      "prompting",
+                      "tree-of-thoughts",
+                      "vision-language"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                },
+                {
+                  "node_type": "group",
+                  "title": "Summary:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "DriveLM-Data",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "group",
+                          "title": "Drive-nuScenes",
+                          "description": null,
+                          "children": [
+                            {
+                              "node_type": "item",
+                              "title": "Selecting key frames from video clips, choosing key objects within these key frames, and subsequently annotating the frame-level P1−3 QAs for these key objects. A portion of the Perception QAs are generated from the nuScenes and OpenLane-V2",
+                              "description": "ground truth, while the remaining QAs are manually annotated.",
+                              "children": [],
+                              "repo_info": {
+                                "archived": false,
+                                "description": "[NeurIPS 2023 Track Datasets and Benchmarks] OpenLane-V2: The First Perception and Reasoning Benchmark for Road Driving",
+                                "homepage": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c0a4c8c236144f1b99b7e1531debe9c-Abstract-Datasets_and_Benchmarks.html",
+                                "id": 560272969,
+                                "language": "Jupyter Notebook",
+                                "license": "Apache-2.0",
+                                "last_commit": "2025-07-02T05:24:27Z",
+                                "open_issues": 12,
+                                "owner": "OpenDriveLab",
+                                "repo": "OpenLane-V2",
+                                "stars": 678,
+                                "topics": [
+                                  "3d-lane-detection",
+                                  "topology-reasoning",
+                                  "traffic-element-recognition"
+                                ]
+                              },
+                              "first_seen": "2026-08-29T00:49:05.648Z"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LingoQA: Video Question Answering for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "wayveai/LingoQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024] Official GitHub repository for the paper \"LingoQA: Visual Question Answering for Autonomous Driving\"",
+                    "homepage": null,
+                    "id": 734404573,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2024-09-26T15:15:36Z",
+                    "open_issues": 6,
+                    "owner": "wayveai",
+                    "repo": "LingoQA",
+                    "stars": 224,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "OpenGVLab/DriveMLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 731651291,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2023-12-25T15:52:33Z",
+                    "open_issues": 5,
+                    "owner": "OpenGVLab",
+                    "repo": "DriveMLM",
+                    "stars": 184,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "opendilab/LMDrive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2024] LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+                    "homepage": null,
+                    "id": 730773551,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-04-14T07:29:10Z",
+                    "open_issues": 82,
+                    "owner": "opendilab",
+                    "repo": "LMDrive",
+                    "stars": 930,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "fudan-zvg/Reason2Drive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024] Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving",
+                    "homepage": null,
+                    "id": 727513318,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2024-01-01T15:26:18Z",
+                    "open_issues": 0,
+                    "owner": "fudan-zvg",
+                    "repo": "Reason2Drive",
+                    "stars": 101,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "Petrichor625/Talk2car_CAVG",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[Communication in Transprotation Reasearch] Official PyTorch Implementation of  ''GPT-4 enhanced multimodal grounding for autonomous driving: Leveraging cross-modal attention with large language models.''",
+                    "homepage": "https://www.sciencedirect.com/science/article/pii/S2772424723000276",
+                    "id": 705139613,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-03-31T11:44:50Z",
+                    "open_issues": 4,
+                    "owner": "Petrichor625",
+                    "repo": "Talk2car_CAVG",
+                    "stars": 28,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "group",
+                  "title": "Datasets:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Talk2car",
+                      "description": "talk2car/Talk2Car",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "The official Talk2Car dataset repo",
+                        "homepage": null,
+                        "id": 247939145,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2025-09-01T20:25:09Z",
+                        "open_issues": 1,
+                        "owner": "talk2car",
+                        "repo": "Talk2Car",
+                        "stars": 102,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T00:49:05.648Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Dolphins: Multimodal Language Model for Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Dolphins",
+                  "description": "SaFo-Lab/Dolphins",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024] The official code for \"Dolphins: Multimodal Language Model for Driving“",
+                    "homepage": null,
+                    "id": 727024507,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-02-10T23:42:09Z",
+                    "open_issues": 6,
+                    "owner": "SaFo-Lab",
+                    "repo": "Dolphins",
+                    "stars": 88,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "group",
+                  "title": "Datasets:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "Video instruction-following dataset",
+                      "description": null,
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "BDD-X",
+                          "description": "JinkyuKimUCB/BDD-X-dataset",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "description": "Berkeley Deep Drive-X (eXplanation) dataset",
+                            "homepage": null,
+                            "id": 166464394,
+                            "language": null,
+                            "license": "NOASSERTION",
+                            "last_commit": "2019-01-18T22:08:40Z",
+                            "open_issues": 3,
+                            "owner": "JinkyuKimUCB",
+                            "repo": "BDD-X-dataset",
+                            "stars": 137,
+                            "topics": []
+                          },
+                          "first_seen": "2026-10-06T10:37:00.976Z"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Drive-WM",
+                  "description": "BraveGroup/Drive-WM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2024] A world model for autonomous driving.",
+                    "homepage": null,
+                    "id": 720275234,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2023-12-07T02:40:39Z",
+                    "open_issues": 8,
+                    "owner": "BraveGroup",
+                    "repo": "Drive-WM",
+                    "stars": 439,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Empowering Autonomous Driving with Large Language Models: A Safety Perspective",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GPT-4V Takes the Wheel: Evaluating Promise and Challenges for Pedestrian Behavior Prediction",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Datasets:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "WiDEVIEW",
+                      "description": "unmannedlab/UWB_Dataset",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 642457412,
+                        "language": "C++",
+                        "license": "GPL-2.0",
+                        "last_commit": "2025-06-07T22:42:17Z",
+                        "open_issues": 0,
+                        "owner": "unmannedlab",
+                        "repo": "UWB_Dataset",
+                        "stars": 21,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:37:00.976Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ADriver-I: A General World Model for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Summary:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "MLLM(Multimodal large language model)=LLaVA-7B-1.5",
+                      "description": ", VDM(Video Diffusion Model)=latent-diffusion",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+                        "homepage": "https://llava.hliu.cc",
+                        "id": 629102662,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2024-08-12T09:52:38Z",
+                        "open_issues": 1141,
+                        "owner": "haotian-liu",
+                        "repo": "LLaVA",
+                        "stars": 25057,
+                        "topics": [
+                          "chatbot",
+                          "chatgpt",
+                          "foundation-models",
+                          "gpt-4",
+                          "instruction-tuning",
+                          "llama",
+                          "llama-2",
+                          "llama2",
+                          "llava",
+                          "multi-modality",
+                          "multimodal",
+                          "vision-language-model",
+                          "visual-language-learning"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:37:00.976Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Human-Centric Autonomous Systems With LLMs for User Command Reasoning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: DriveCmd",
+                  "description": "KTH-RPL/DriveCmd_LLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[WAVC'24 Workshop] Human-Centric Autonomous Systems With LLMs for User Command Reasoning",
+                    "homepage": null,
+                    "id": 705592902,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-07-10T11:06:59Z",
+                    "open_issues": 1,
+                    "owner": "KTH-RPL",
+                    "repo": "DriveCmd_LLM",
+                    "stars": 16,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Datasets: UCU Dataset",
+                  "description": "LLVM-AD/ucu-dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[WACV 2024 LLVM-AD Challenge] UCU Dataset",
+                    "homepage": null,
+                    "id": 689397077,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2023-09-09T17:42:29Z",
+                    "open_issues": 0,
+                    "owner": "LLVM-AD",
+                    "repo": "ucu-dataset",
+                    "stars": 15,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Project: official",
+                  "description": "PJLab-ADG/GPT4V-AD-Exploration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent",
+                    "homepage": null,
+                    "id": 711804713,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2024-03-14T09:52:13Z",
+                    "open_issues": 0,
+                    "owner": "PJLab-ADG",
+                    "repo": "GPT4V-AD-Exploration",
+                    "stars": 302,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "group",
+                  "title": "Datasets:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Scenario Understanding: nuScenes",
+                      "description": ", BDD-X, Carla, TSDD, Waymo, DAIR-V2X, CitySim.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Berkeley Deep Drive-X (eXplanation) dataset",
+                        "homepage": null,
+                        "id": 166464394,
+                        "language": null,
+                        "license": "NOASSERTION",
+                        "last_commit": "2019-01-18T22:08:40Z",
+                        "open_issues": 3,
+                        "owner": "JinkyuKimUCB",
+                        "repo": "BDD-X-dataset",
+                        "stars": 137,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:37:00.976Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MagicDrive: Street View Generation with Diverse 3D Geometry Control",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: MagicDrive",
+                  "description": "cure-lab/MagicDrive",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICLR24] Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”",
+                    "homepage": "https://gaoruiyuan.com/magicdrive/",
+                    "id": 703433265,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-04-21T10:20:04Z",
+                    "open_issues": 8,
+                    "owner": "cure-lab",
+                    "repo": "MagicDrive",
+                    "stars": 1167,
+                    "topics": [
+                      "autonomous-vehicles",
+                      "deep-learning",
+                      "diffusion-models",
+                      "image-generation",
+                      "pytorch",
+                      "video-generation"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Env:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "ComplexUrbanScenarios",
+                      "description": "liuyuqi123/ComplexUrbanScenarios",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 381674813,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2021-07-13T04:28:14Z",
+                        "open_issues": 2,
+                        "owner": "liuyuqi123",
+                        "repo": "ComplexUrbanScenarios",
+                        "stars": 50,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:37:00.976Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "wayveai/Driving-with-LLMs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PyTorch implementation for the paper \"Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving\"",
+                    "homepage": null,
+                    "id": 644568586,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-09-26T00:05:46Z",
+                    "open_issues": 26,
+                    "owner": "wayveai",
+                    "repo": "Driving-with-LLMs",
+                    "stars": 580,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Datasets: Driving QA",
+                  "description": ", data collection using RL experts in simulator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PyTorch implementation for the paper \"Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving\"",
+                    "homepage": null,
+                    "id": 644568586,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-09-26T00:05:46Z",
+                    "open_issues": 26,
+                    "owner": "wayveai",
+                    "repo": "Driving-with-LLMs",
+                    "stars": 580,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: Talk2BEV",
+                  "description": "llmbev/talk2bev",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Talk2BEV: Language-Enhanced Bird's Eye View Maps (ICRA'24)",
+                    "homepage": "https://llmbev.github.io/talk2bev/",
+                    "id": 692123635,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2024-11-04T19:15:04Z",
+                    "open_issues": 8,
+                    "owner": "llmbev",
+                    "repo": "talk2bev",
+                    "stars": 125,
+                    "topics": [
+                      "autonomous-driving",
+                      "birds-eye-view",
+                      "gpt-4",
+                      "large-language-models",
+                      "large-vision-language-models",
+                      "occupancy-grid-map"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Datasets:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "BDD-X dataset",
+                      "description": "JinkyuKimUCB/BDD-X-dataset",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Berkeley Deep Drive-X (eXplanation) dataset",
+                        "homepage": null,
+                        "id": 166464394,
+                        "language": null,
+                        "license": "NOASSERTION",
+                        "last_commit": "2019-01-18T22:08:40Z",
+                        "open_issues": 3,
+                        "owner": "JinkyuKimUCB",
+                        "repo": "BDD-X-dataset",
+                        "stars": 137,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:37:00.976Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GPT-DRIVER: LEARNING TO DRIVE WITH GPT",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: GPT-Driver",
+                  "description": "PointsCoder/GPT-Driver",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Learning to Drive with GPT",
+                    "homepage": "https://pointscoder.github.io/projects/gpt_driver/index.html",
+                    "id": 705804609,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-02-01T20:27:35Z",
+                    "open_issues": 7,
+                    "owner": "PointsCoder",
+                    "repo": "GPT-Driver",
+                    "stars": 304,
+                    "topics": [
+                      "autonomous-driving",
+                      "gpt",
+                      "gpt-3-5-turbo",
+                      "large-language-models",
+                      "llm",
+                      "nuscenes",
+                      "openai-api"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Env:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "HighwayEnv",
+                      "description": "Farama-Foundation/HighwayEnv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                        "homepage": "https://highway-env.farama.org/",
+                        "id": 110852412,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-06T09:40:56Z",
+                        "open_issues": 44,
+                        "owner": "Farama-Foundation",
+                        "repo": "HighwayEnv",
+                        "stars": 3324,
+                        "topics": [
+                          "autonomous-driving",
+                          "gymnasium-environment",
+                          "reinforcement-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-29T00:49:05.648Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "CitySim",
+                      "description": ", a Drone-Based vehicle trajectory dataset.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official github page of UCF SST CitySim Dataset",
+                        "homepage": "http://ucfsst.com",
+                        "id": 477564297,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2025-03-17T15:19:15Z",
+                        "open_issues": 7,
+                        "owner": "UCF-SST-Lab",
+                        "repo": "UCF-SST-CitySim1-Dataset",
+                        "stars": 429,
+                        "topics": [
+                          "carla-driving-simulator",
+                          "carla-simulator",
+                          "computer-vision",
+                          "dataset",
+                          "digitaltwin",
+                          "drone",
+                          "open",
+                          "open-data",
+                          "simulation",
+                          "sumo",
+                          "trajectory"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:37:00.976Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "lijlansg/TrafficGPT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 689644658,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2023-09-17T12:02:24Z",
+                    "open_issues": 3,
+                    "owner": "lijlansg",
+                    "repo": "TrafficGPT",
+                    "stars": 179,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Language Prompt for Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "wudongming97/Prompt4Driving",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[AAAI 2025] Language Prompt for Autonomous Driving",
+                    "homepage": null,
+                    "id": 676449366,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-09-22T07:51:24Z",
+                    "open_issues": 9,
+                    "owner": "wudongming97",
+                    "repo": "Prompt4Driving",
+                    "stars": 158,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Env: HighwayEnv",
+                  "description": "Farama-Foundation/HighwayEnv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+                    "homepage": "https://highway-env.farama.org/",
+                    "id": 110852412,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-06T09:40:56Z",
+                    "open_issues": 44,
+                    "owner": "Farama-Foundation",
+                    "repo": "HighwayEnv",
+                    "stars": 3324,
+                    "topics": [
+                      "autonomous-driving",
+                      "gymnasium-environment",
+                      "reinforcement-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: official",
+                  "description": "PJLab-ADG/DriveLikeAHuman",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models",
+                    "homepage": null,
+                    "id": 662542194,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-07-29T02:45:39Z",
+                    "open_issues": 0,
+                    "owner": "PJLab-ADG",
+                    "repo": "DriveLikeAHuman",
+                    "stars": 418,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "ADAPT: Action-aware Driving Caption Transformer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: ADAPT",
+                  "description": "jxbbb/ADAPT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.",
+                    "homepage": null,
+                    "id": 522396036,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-06-11T08:47:54Z",
+                    "open_issues": 17,
+                    "owner": "jxbbb",
+                    "repo": "ADAPT",
+                    "stars": 421,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Datasets: BDD-X dataset",
+                  "description": "JinkyuKimUCB/BDD-X-dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Berkeley Deep Drive-X (eXplanation) dataset",
+                    "homepage": null,
+                    "id": 166464394,
+                    "language": null,
+                    "license": "NOASSERTION",
+                    "last_commit": "2019-01-18T22:08:40Z",
+                    "open_issues": 3,
+                    "owner": "JinkyuKimUCB",
+                    "repo": "BDD-X-dataset",
+                    "stars": 137,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
             }
           ],
           "description": null,
@@ -7062,10 +9148,279 @@
         }
       ],
       "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DriveLM: Drive on Language",
+              "description": "OpenDriveLab/DriveLM",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: DriveLM",
+                  "description": "OpenDriveLab/DriveLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                    "homepage": "https://opendrivelab.com/DriveLM/",
+                    "id": 676089005,
+                    "language": "HTML",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-07-02T05:29:49Z",
+                    "open_issues": 47,
+                    "owner": "OpenDriveLab",
+                    "repo": "DriveLM",
+                    "stars": 1346,
+                    "topics": [
+                      "autonomous-driving",
+                      "chain-of-thought",
+                      "graph-of-thoughts",
+                      "large-language-models",
+                      "llm",
+                      "prompt-engineering",
+                      "prompting",
+                      "tree-of-thoughts",
+                      "vision-language"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                "homepage": "https://opendrivelab.com/DriveLM/",
+                "id": 676089005,
+                "language": "HTML",
+                "license": "Apache-2.0",
+                "last_commit": "2025-07-02T05:29:49Z",
+                "open_issues": 47,
+                "owner": "OpenDriveLab",
+                "repo": "DriveLM",
+                "stars": 1346,
+                "topics": [
+                  "autonomous-driving",
+                  "chain-of-thought",
+                  "graph-of-thoughts",
+                  "large-language-models",
+                  "llm",
+                  "prompt-engineering",
+                  "prompting",
+                  "tree-of-thoughts",
+                  "vision-language"
+                ]
+              },
+              "first_seen": "2026-08-29T00:49:05.648Z"
+            },
+            {
+              "node_type": "group",
+              "title": "CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code: CAViAR",
+                  "description": "nec-labs-ma/CAViAR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1327692285,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-02T23:17:14Z",
+                    "open_issues": 0,
+                    "owner": "nec-labs-ma",
+                    "repo": "CAViAR",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "CARScenes: Semantic VLM Dataset for Safe Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Project Page: CARScenes",
+                  "description": "Croquembouche/CARScenes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1072290149,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-07-23T17:09:38Z",
+                    "open_issues": 0,
+                    "owner": "Croquembouche",
+                    "repo": "CARScenes",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code: CARScenes",
+                  "description": "Croquembouche/CARScenes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1072290149,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-07-23T17:09:38Z",
+                    "open_issues": 0,
+                    "owner": "Croquembouche",
+                    "repo": "CARScenes",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: WEDGE",
+                  "description": "Infernolia/WEDGE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models",
+                    "homepage": "https://infernolia.github.io/WEDGE/",
+                    "id": 640715273,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-03-22T03:54:46Z",
+                    "open_issues": 0,
+                    "owner": "Infernolia",
+                    "repo": "WEDGE",
+                    "stars": 36,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dataset: NuScenes-QA",
+                  "description": "qiantianwen/NuScenes-QA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[AAAI 2024] NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario.",
+                    "homepage": null,
+                    "id": 644732197,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-11-01T04:38:33Z",
+                    "open_issues": 7,
+                    "owner": "qiantianwen",
+                    "repo": "NuScenes-QA",
+                    "stars": 242,
+                    "topics": [
+                      "autonomous-driving",
+                      "vision-language",
+                      "visual-question-answering"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:49:05.648Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Datasets: official",
+                  "description": ", data collection using RL experts in simulator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PyTorch implementation for the paper \"Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving\"",
+                    "homepage": null,
+                    "id": 644568586,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-09-26T00:05:46Z",
+                    "open_issues": 26,
+                    "owner": "wayveai",
+                    "repo": "Driving-with-LLMs",
+                    "stars": 580,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Textual Explanations for Self-Driving Vehicles",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BDD-X dataset",
+                  "description": "JinkyuKimUCB/BDD-X-dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Berkeley Deep Drive-X (eXplanation) dataset",
+                    "homepage": null,
+                    "id": 166464394,
+                    "language": null,
+                    "license": "NOASSERTION",
+                    "last_commit": "2019-01-18T22:08:40Z",
+                    "open_issues": 3,
+                    "owner": "JinkyuKimUCB",
+                    "repo": "BDD-X-dataset",
+                    "stars": 137,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:37:00.976Z"
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Toggle"
+        }
+      ],
+      "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:01:21.367Z",
+    "last_updated": "2026-10-06T10:37:00.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
@@ -7077,7 +9432,7 @@
       "open_issues": 1,
       "owner": "Thinklab-SJTU",
       "repo": "Awesome-LLM4AD",
-      "stars": 1891,
+      "stars": 1890,
       "topics": [
         "large-language-models",
         "vision-language-action-model",
