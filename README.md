@@ -1,6 +1,6 @@
 # Awesome-LLM-for-Autonomous-Driving-Resources with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,742 | 🐛 106 | 📅 2026-09-02![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,185 | 🐛 106 | 📅 2026-09-02![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Thinklab-SJTU/Awesome-LLM4AD?color=9cf) [![GitHub license](https://img.shields.io/github/license/Thinklab-SJTU/Awesome-LLM4AD)](https://github.com/Thinklab-SJTU/Awesome-LLM4AD/blob/main/LICENSE)
 
 This is a collection of research papers about **LLM-for-Autonomous-Driving(LLM4AD)**. The repository will be continuously updated to track the frontier of LLM4AD (Large Language Models for Autonomous Driving), which encompasses VLM4AD (Vision-Language Models for AD) and VLA4AD (Vision-Language-Action models for AD) as integral components of this unified paradigm.  *Maintained by SJTU-ReThinklab.*
 
@@ -65,7 +65,7 @@ format:
 ```
 
 * [RefineDrive: Reliable Failure-Guided Learning for Vision-Language-Action Driving](https://arxiv.org/abs/2609.35078)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zhe Sun, Ziyi Luo, Yehao Lu, Lei Zhou, Xi Li
   * Publish Date: 2026.09.28
   * Task: Planning
@@ -75,7 +75,7 @@ format:
     * On NAVSIM v1, RefineDrive improves a 4B base SFT policy from 87.7 to 91.7 PDMS and achieves 89.4 EPDMS on original NAVTEST scenes under NAVSIM v2 extended metrics without additional training.
 
 * [CAR-VLA: Complexity-Aware and Risk-Adaptive Reasoning for Autonomous Driving](https://arxiv.org/abs/2609.34387)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [CAR-VLA](https://github.com/chenxl124578/CAR-VLA.git) ⭐ 0 | 🐛 1 | 📅 2026-10-01
   * Xiaolei Chen, Zhuolin He, Yuxuan Liang, Xu Li, Haotian Chen, Shi Fan, Mengyang Zhao, Wenjuan Meng, Zisheng Chen, Zhihao Zhu, Zhounan Jin, Hengli Wang, Qingfan Wang, Jiamei Liang, Bin Li, Xiangyang Xue
   * Publish Date: 2026.09.28
@@ -86,7 +86,7 @@ format:
     * Trained via progressive supervised learning linking scene assessment, reasoning-mode selection, and trajectory generation, followed by reasoning-augmented reinforcement learning, achieving competitive results on NAVSIM v1, NAVSIM v2, and Navhard.
 
 * [AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving](https://arxiv.org/abs/2609.34085)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [AD-E2E-JEPA](https://github.com/HaoranZhuExplorer/AD-E2E-JEPA) ⭐ 47 | 🐛 2 | 📅 2026-09-29
   * Haoran Zhu, Wancong Zhang, Yann LeCun, Anna Choromanska
   * Publish Date: 2026.09.28
@@ -97,7 +97,7 @@ format:
     * Achieves 67.3/72.9 EPDMS on NAVSIMv2 in goal-conditioned zero-shot planning, and the self-supervised pretrained projector improves downstream imitation learning from 80.2 to 85.4 EPDMS.
 
 * [MomWorld: Momentum-Aware Latent World Model for Long-Horizon Autonomous Driving](https://arxiv.org/abs/2609.33737)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Ziying Song, Shengkai Zhang, Lei Yang, Haozhuang Chi, Yuchen Liu, Jiangtao Su, Lin Liu, Ziyang Liu, Chen Lv
   * Publish Date: 2026.09.27
   * Task: Planning
@@ -166,7 +166,7 @@ format:
     * Experiments on 15 VLMs show that DriveHierarchy captures structured non-redundant capability variation, relates open-loop understanding to closed-loop driving, and provides a practical basis for diagnosis and benchmark-guided optimization.
 
 * [Evaluation Is All You Need for Multi-Modal Autonomous Driving](https://arxiv.org/abs/2609.30818)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zeyu He, Shiqi Liu, Ke Chen, Yun Yan, Jinzi Wu, Dianqiao Lei, Sirui Wang, ShuRui Peng, Tao Chen, Zhuo Huang, Yu Wu, Yadong Shao, Zhichao Li, Ke Sun, Yang Guan, Keqiang Li, Shengbo Eben Li
   * Publish Date: 2026.09.25
   * Task: Evaluation
@@ -176,7 +176,7 @@ format:
     * An oracle-aligned progressive training strategy combines candidate imitation pretraining, candidate space refinement, and semantic ranking alignment, achieving 94.95 PDMS on NAVSIM v1 and surpassing human-expert reference.
 
 * [WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving](https://arxiv.org/abs/2609.30436)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Mingkai Jia, Jiaxin Guo, Zhijian Shu, Jiawei Xu, Mingxiao Li, Jintao Cheng, Ping Tan, Wei Yin
   * Publish Date: 2026.09.24
   * Task: Planning
@@ -195,7 +195,7 @@ format:
     * Introduces a synchronized architecture for stable training of world model-based agents, with a DreamerV3 policy achieving obstacle avoidance and direct sim-to-real transfer to the physical vehicle without fine-tuning.
 
 * [Less Language, More Latents: Annotation-Efficient VLAs for Driving](https://arxiv.org/abs/2609.27747)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Alexey Zakharov, Kemal Oksuz, Puneet K. Dokania
   * Publish Date: 2026.09.23
   * Task: End-to-End
@@ -205,7 +205,7 @@ format:
     * Trains a driving VLA on observation-latent-action pairs over the full unlabelled corpus, achieving 87.98 Driving Score and 70.46% Success Rate on Bench2Drive with fewer than 5% language annotations.
 
 * [ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model](https://arxiv.org/abs/2609.26299)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Sinuo Wang, Zichong Gu, Yuhan Huang, Wenxin Wen, Xun Yang, Yiqing Zhang, Xingyu Zhang, Ningyu Che, Jie Ling, Qiankun Yu, Wei Liu, Jing Xu, Xinggang Wang
   * Publish Date: 2026.09.22
   * Task: End-to-End
@@ -215,7 +215,7 @@ format:
     * Trained with pure imitation learning and using only the current front-view image as visual input at inference, ForeDrive attains 89.9 PDMS on NAVSIM v1 and 90.0 one-stage EPDMS on NAVSIM v2, without reinforcement learning or an external trajectory scorer.
 
 * [Sometimes You Gotta Run Before You Can Walk: Run-then-Walk Scheduling Strategy for VLM Autonomous Driving](https://arxiv.org/abs/2609.25831)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Yuqi Ye, Shangkun Sun, Junhong Lin, Jiayi Zhao, Changhao Peng, Wei Zheng, Guoqing Liu, Tiesong Zhao, Wei Gao
   * Publish Date: 2026.09.22
   * Task: Planning
@@ -235,7 +235,7 @@ format:
     * Removes the supervision branch at inference and, on nuScenes, reduces average trajectory L2 error from 0.661 to 0.622 and collision rate from 0.456 to 0.217, outperforming an unstructured caption-style semantic target.
 
 * [PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models](https://arxiv.org/abs/2609.22040)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [Think2Drive](https://github.com/Thinklab-SJTU/Think2Drive)
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [Think2Drive](https://github.com/Thinklab-SJTU/Think2Drive)
   * Erik Deinzer, Naya Baslan, Luca Paparusso, Narunas Vaskevicius, Peter Knott, Luigi Palmieri
   * Publish Date: 2026.09.18
   * Task: End-to-End
@@ -273,7 +273,7 @@ format:
     * In a controlled HighD highway setting, REARL reduces the Hellinger distance for speed distributions to 0.3067 and the MAPE for mean spacing to 0.8371, while achieving a time headway of 22.8575 and a lane change rate of 0.0708.
 
 * [FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory](https://arxiv.org/abs/2609.18623)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [NVIDIA Physical AI AV Dataset](https://developer.nvidia.com/physical-ai-av-dataset)
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [NVIDIA Physical AI AV Dataset](https://developer.nvidia.com/physical-ai-av-dataset)
   * Kemal Oksuz, Alexandru Buburuzan, Yuhan Yao, Puneet K. Dokania
   * Publisher: Five AI, University of Oxford
   * Publish Date: 2026.09.16
@@ -284,7 +284,7 @@ format:
     * With 641M parameters, FIVE-VLA achieves \~10% more routes without traffic rule infractions than the previous state-of-the-art VLA on Bench2Drive, reduces collision-violation rates on the NVIDIA Physical AI AV dataset, and runs at \~30 fps on an A100 and \~4 fps on a T4 (8–30× speedup).
 
 * [RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.17728)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Dogun Kim, Yongjae Lee, Joonhee Lim, Yeina Lee, Junhyeok Park, Moogeun Park, Dongsuk Kum
   * Publish Date: 2026.09.15
   * Task: Planning
@@ -294,7 +294,7 @@ format:
     * Experiments on the NAVSIM benchmark show competitive planning performance against state-of-the-art VLA planners with substantially fewer training samples, while incurring only 3.8% training overhead and negligible 1 ms inference overhead.
 
 * [EditWM: Event-Decomposed World Modeling with Incremental Correction for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.22317)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Junjie Yang, Qingwei Zeng, Youyou Li, Zicheng Ding, Ziyi Shi, Shuqi Shen, Hongliang Lu, Hai Yang
   * Publish Date: 2026.09.15
   * Task: Planning
@@ -304,7 +304,7 @@ format:
     * Evaluated on all 12,146 NAVSIM navtest scenes, it reduces future-feature MSE by 5.35% over Normal with improvements in 83.54% of scenes and achieves 91.05 EPDMS.
 
 * [GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving](https://arxiv.org/abs/2609.15169)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Xiao Liu, Haoyu Li, Jianghao Leng, Lin Wang, Chao Sun
   * Publish Date: 2026.09.14
   * Task: Planning
@@ -314,7 +314,7 @@ format:
     * A progressive training strategy pre-trains grounded cognition, establishes the reasoning-to-action interface through imitation, and improves driving behavior via reinforcement learning; GRAVA-8B achieves state-of-the-art performance among purely autoregressive driving models on the full NAVSIM benchmark and improves long-tail key-object compliance and Closed-loop Driving Score by 19.3% and 20.5% over action-only prediction.
 
 * [READ: Learning Risk-Informed Fields for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.12371)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zhiyuan Liu, Yuanxin Tian, Zehong Ke, Jinhao Li, Hao Cheng, Zhenhua Xu, Wenhao Yu, Jianqiang Wang
   * Publish Date: 2026.09.11
   * Task: Planning
@@ -362,7 +362,7 @@ format:
     * LaPla reduces long-horizon L2 error by 15.52% on nuScenes and improves closed-loop success rate by 33.34 percentage points on NVIDIA AlpaSim with significantly reduced inference latency.
 
 * [SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2609.03602)
-  * Datasets: [NAVSIMv2](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIMv2](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Jinyang Wang, Shiwei Li, Junjian Wang, Zhiqiang Deng, Jianbin Gao, Yihang Zhao, Liu Liu, Yongjia Zhao, Jinlong Chen, Huirui Xu, Yifeng Pan, Kangwei Liu, Fan Ren, Ji Tao, Minghao Yang
   * Publish Date: 2026.09.03
   * Task: Planning
@@ -372,7 +372,7 @@ format:
     * A differentiable drivable-area compliance regularizer improves planning safety and boundary awareness, and experiments on NAVSIMv2 and nuScenes show state-of-the-art planning with low inference latency and competitive zero-shot transfer.
 
 * [Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving](https://arxiv.org/abs/2609.03572)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zhaoxin Fan, Tianbao Zhang, Wenjun Wu, Xiaofeng Wang, Yeying Jin, Jian Zhao, Zheng Zhu, Shuicheng Yan
   * Publish Date: 2026.09.03
   * Task: Planning
@@ -382,7 +382,7 @@ format:
     * Extensive experiments on NAVSIM v1 and v2 demonstrate strong driving performance, and ablations validate the hierarchical slow–fast design, dynamics-aware future representations, and joint next-frame and action prediction.
 
 * [Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving](https://arxiv.org/abs/2609.03225)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Yuxuan Han, Kunyuan Wu, Liyunong Yang, Zilu Wang, Cansen Jiang, Yi Xiao, Liang Hu
   * Publish Date: 2026.09.03
   * Task: End-to-End
@@ -392,7 +392,7 @@ format:
     * Achieves 88.44 driving score (+17.08) and 66.82 success rate (+16.58) on Bench2Drive, and demonstrates promising sim-to-real transfer on a real automated guided vehicle platform.
 
 * [From Proxy Learning to Driving Decisions: A Transfer-Based Framework for Evaluating Future-Aware Autonomous Driving Planners](https://arxiv.org/abs/2609.02688)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yikai Wu
   * Publish Date: 2026.09.02
   * Task: Planning
@@ -441,7 +441,7 @@ format:
     * A Planning Expert generates future ego trajectories from shared VLM representations, while a staged training recipe combines driving supervision with general-purpose vision-language data to preserve broad visual understanding and instruction-following capabilities.
 
 * [Rethinking Language's Role in Efficient VLA for Autonomous Vehicles: Toward Smarter, Trustworthy Driving](https://arxiv.org/abs/2608.30144)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Tongfei Guo, Lili Su
   * Publish Date: 2026.08.31
   * Task: End-to-End
@@ -470,7 +470,7 @@ format:
     * A geometry-conditioned action head leverages these learned geometric dynamics to predict future ego trajectories, yielding stronger driving policies than image-based alternatives in open-loop and closed-loop evaluations.
 
 * [MomADv2: Reliable Temporal Memory for End-to-End Autonomous Driving](https://arxiv.org/abs/2608.23405)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [nuScenes](https://www.nuscenes.org/)
   * Ziying Song, Shengkai Zhang, Lin Liu, Peiliang Wu, Lei Yang, Dongyang Xu, Bin Sun, Li Wang, Shaoqing Xu, Caiyan Jia, Yadan Luo
   * Publish Date: 2026.08.24
   * Task: Planning
@@ -489,7 +489,7 @@ format:
     * Achieves state-of-the-art closed-loop performance on V2XBench in heavily occluded scenarios, with 98.21% Route Completion and 76.02 Driving Score at low roadside communication bandwidth.
 
 * [WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving](https://arxiv.org/abs/2608.20974)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuPlan](https://www.nuscenes.org/nuplan)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuPlan](https://www.nuscenes.org/nuplan)
   * Code: [WA-JEPA](https://github.com/AFARI-Research/WA-JEPA) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2026-09-04
   * Xinlin Wang, Yujiao Xiang, Yuheng Zhou, Jingqi Wang, Minqing Huang, Jiajie Huang, Dongxu Wei, Tingguang Zhou, Xiyang Wang, Gong Chen, Zhi Xu, Feiyang Tan, Hangning Zhou, Mu Yang
   * Publish Date: 2026.08.21
@@ -527,7 +527,7 @@ format:
     * Argues that architectural progress requires benchmark-consistent evaluation and identifies open challenges in uncertainty-aware planning, learner-expert mismatch, runtime safety assurance, language-action grounding, world-model validation, and reproducible benchmarking.
 
 * [DA-WAM: Decision-Aligned Future Latents for Driving World Models](https://arxiv.org/abs/2608.19085)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ruiguo Zhong, Benshan Ma, Xiaolong Chen, Lang Zhang, Mingyue Feng, Yaonong Wang, Pei Liu, Jun Ma
   * Publish Date: 2026.08.19
   * Task: Planning
@@ -538,7 +538,7 @@ format:
     * Extensive experiments on NAVSIM-v1 and NAVSIM-v2 demonstrate state-of-the-art performance.
 
 * [GAPL: Grounded Action-effect Policy Learning for LLM-Based Trajectory Planning](https://arxiv.org/abs/2608.18254)
-  * Datasets: [Highway-env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Datasets: [Highway-env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Zhihong Cui, Hengyu Liu, Zhangkai Wu, Yushuai Li, Tianyi Li, Peiyuan Guan, Amir Taherkordi, Tor Skeie
   * Publish Date: 2026.08.18
   * Task: Planning
@@ -548,7 +548,7 @@ format:
     * Experiments on four Highway-env scenarios show consistent improvements over baselines, with average reductions in collision rate, ADE, and FDE of 0.76, 0.86, and 2.00, and an average reward gain of 1.44.
 
 * [Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving](https://arxiv.org/abs/2608.18035)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM-v1/NAVSIM-v2](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM-v1/NAVSIM-v2](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Zongzheng Zhang, Jijun Wang, Saining Zhang, Shuo Wang, Yiru Wang, Hai Yang, Yang Chen, Yuwen Heng, Hao Sun, Anqing Jiang, Hao Zhao
   * Publish Date: 2026.08.18
   * Task: End-to-End
@@ -558,7 +558,7 @@ format:
     * Introduces a minimal plug-and-play integration design that consistently improves driving performance across modern paradigms and datasets, establishing a new state of the art on NAVSIM-v2.
 
 * [Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics](https://arxiv.org/abs/2608.21440)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ran Chen, Jiaxing Ren, Zhikun Zhang, Yunhao Hou, Junbao Zhuo, Bochao Zou
   * Publish Date: 2026.08.18
   * Task: Planning
@@ -623,7 +623,7 @@ format:
     * Applied to Alpamayo 1.5-10B with W4A8 quantization, FlashDrive cuts end-to-end latency from 717ms to 151ms (4.7x) with essentially unchanged accuracy, raising throughput from 1.4 Hz to 6.6 Hz on a single GPU.
 
 * [BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving](https://arxiv.org/abs/2608.12854)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Bing Zhan, Shuyao Shang, Shuo Lu, Yuan Xu, Zhao Wang, Yida Wang, Xueyang Zhang, Kun Zhan, Jiahao Gu
   * Publish Date: 2026.08.13
   * Task: Planning
@@ -671,7 +671,7 @@ format:
     * MVRD generalizes to 3D scene understanding tasks such as object grounding, dense captioning, and question answering.
 
 * [DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving](https://arxiv.org/abs/2608.10413)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [DriveVLA-M0](https://github.com/ZebinX/DriveVLA-M0) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-08-16
   * Zebin Xing, Yupeng Zheng, Qiang Chen, Linbo Wang, Yichen Zhang, Pengxuan Yang, Junli Wang, Deheng Qian, Xiaoqing Ye, Junyu Han, Yifeng Pan, Qichao Zhang, Dongbin Zhao
   * Publish Date: 2026.08.11
@@ -700,7 +700,7 @@ format:
     * Experiments on VSI-Bench improve Qwen3-VL-8B by 4.3% and SenseNova-SI-1.3 by 1.3%, while achieving state-of-the-art performance on object size (79.2%) and room size estimation (75.7%).
 
 * [4D-WAM: 4D Consistent World Modeling for Autonomous Driving](https://arxiv.org/abs/2608.10107)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jiacheng Fu, Yibo Yuan, Meng Tian, Yue Li, Jiangtong Zhu, Jianhua Han, Yueyi Zhang, Jianwu Fang, Jianru Xue, Hang Xu, Zhiwei Xiong
   * Publish Date: 2026.08.10
   * Task: Planning
@@ -710,7 +710,7 @@ format:
     * Extensive experiments show that 4D-WAM effectively models 4D consistent scene evolution and achieves state-of-the-art performance on the challenging NAVSIM-v1 and NAVSIM-v2 benchmarks.
 
 * [FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving](https://arxiv.org/abs/2608.09591)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Guolei Huang, Tengfei She, Yuxuan Lu, Yao Huang, Yuqi Ye, Yongjun Shen
   * Publish Date: 2026.08.10
   * Task: Planning
@@ -748,8 +748,8 @@ format:
     * The paper also presents MineLoop, a mining-oriented closed-loop simulator, and shows UnsDrive outperforms strong baselines in trajectory accuracy, collision avoidance, and long-horizon driving robustness.
 
 * [SimWAM: A Simple World Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2608.07468)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
-  * Code: [SimWAM](https://github.com/H-EmbodVis/SimWAM/) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2026-09-28
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Code: [SimWAM](https://github.com/H-EmbodVis/SimWAM/) ⭐ 197 | 🐛 3 | 🌐 Python | 📅 2026-09-28
   * Zongchuang Zhao, Xin Zhou, Tianyang Xu, Zhengyang Sun, Kaixuan Zhou, Yu Wu, Honglin Li, Dingkang Liang, Xiang Bai
   * Publisher: Huazhong University of Science and Technology
   * Publish Date: 2026.08.07
@@ -770,7 +770,7 @@ format:
     * Experiments establish the first benchmark and baseline for cooperative VLA driving, providing a foundation for future research on multi-agent, closed-loop, end-to-end cooperative autonomous driving.
 
 * [Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features](https://arxiv.org/abs/2608.06008)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Sining Ang, Yuguang Yang, Yan Wang
   * Publish Date: 2026.08.06
   * Task: Planning
@@ -789,7 +789,7 @@ format:
     * On 12 held-out CarSim cases, it achieves mean case-wise RMSEs of 0.0273 m/s for speed, 0.0590 degrees for pitch, 0.0101 for slip ratio, and 26.61 N for per-wheel normal load, while synchronizing controllable scene edits with vehicle responses.
 
 * [Radar4D-VLM: Proposal-Grounded Temporal 4D Radar Reasoning Across Frozen Language Models](https://arxiv.org/abs/2608.04130)
-  * Datasets: [K-Radar](https://github.com/kaist-avelab/K-Radar) ⭐ 607 | 🐛 39 | 🌐 Python | 📅 2026-06-26
+  * Datasets: [K-Radar](https://github.com/kaist-avelab/K-Radar) ⭐ 608 | 🐛 39 | 🌐 Python | 📅 2026-06-26
   * Jiaju Han, Xuemeng Sun, Qike Zhang, Xiang Chen, Luwei Yang, Jiahuan Long, Yiwei Wei, Jiujiang Guo, Chengyin Hu
   * Publish Date: 2026.08.04
   * Task: Reasoning
@@ -884,7 +884,7 @@ format:
     * Studies on TeraSim/SUMO events, WM-like mixed trace pools, and a DriveArena matrix show that dangerous-looking events can include valid ADS failures, duplicates, partial realizations, and artifacts, supporting evaluation by convergence of valid interactive evidence under budget.
 
 * [Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving](https://arxiv.org/abs/2608.00237)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11, [nuScenes](https://www.nuscenes.org/)
   * Code: [LCS](https://github.com/codingmlinprocess/LCS) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-03
   * Meibo Hu, Jiamian Wang, Pichao Wang, Zhiqiang Tao
   * Publish Date: 2026.07.31
@@ -915,7 +915,7 @@ format:
     * Designs a separate waypoint decoder to convert textual reasoning into continuous trajectories, improving zero-shot reasoning, waypoint accuracy, and inference efficiency on Waymo benchmarks.
 
 * [Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.29031)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jiwei Yang, Zhengxian Chen, Chaosheng Huang, Jun Li
   * Publish Date: 2026.07.31
   * Task: Planning
@@ -925,7 +925,7 @@ format:
     * It achieves 91.3 PDMS on NAVSIM v1 and 89.1 EPDMS on NAVSIM v2, and semantic occlusion experiments show it focuses on planning-relevant dynamic-agent regions.
 
 * [Mitigating Compounding Error via Video Representation Regularization](https://arxiv.org/abs/2607.27036)
-  * Datasets: [VBench](https://github.com/Vchitect/VBench) ⭐ 1,811 | 🐛 73 | 🌐 Python | 📅 2026-08-21
+  * Datasets: [VBench](https://github.com/Vchitect/VBench) ⭐ 1,812 | 🐛 73 | 🌐 Python | 📅 2026-08-21
   * Taiye Chen, Qi Zhang, Yisen Wang
   * Publish Date: 2026.07.29
   * Task: Prediction
@@ -944,7 +944,7 @@ format:
     * Adopts a two-stage training scheme with supervised fine-tuning followed by GRPO reinforcement learning using answer-grounded, fine-grained rewards; experiments on MapDR demonstrate improved interpretability and accuracy.
 
 * [HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving](https://arxiv.org/abs/2607.20988)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Quanfu Yu, Xian Wu, Hao Xu, Liulong Ma
   * Publish Date: 2026.07.23
   * Task: Planning
@@ -954,7 +954,7 @@ format:
     * Experiments on NAVSIM v1 and v2 show significant improvements over pixel-based and latent-based world model baselines, and present the first comprehensive qualitative and quantitative analysis of world model noise robustness.
 
 * [PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.20175)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yushan Liu, Tianxiong Lv, Bohua Wang, Hangqi Fan, Chenxu Zhao, He Zheng, Xuchang Zhong, Yifan Xie, Congyang Zhao, Zhihao Liao, Leigang Luo, Yang Cai, Xiao-Ping Zhang, Wenbo Ding
   * Publish Date: 2026.07.22
   * Task: Planning
@@ -973,7 +973,7 @@ format:
     * It introduces Context Grounded End State Reasoning and End State Conditioned Video Evolution with depth-aware geometric projection and boundary-conditioned diffusion; experiments across 3 VLMADs show a 24.25% average increase in Judge Overall Score and 15.9% average improvement in real-world driving after fine-tuning.
 
 * [Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency](https://arxiv.org/abs/2607.19194)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zhongyao Yang, Haoyu Li, Yu Yan, Zhuangxuan Yu, Jiangfeng Nan, Jinrui Nan
   * Publish Date: 2026.07.21
   * Task: Planning
@@ -983,7 +983,7 @@ format:
     * Achieves 91.8% CoT accuracy and 98.5% Logical Consistency Score in a 195-scene audit, and 80.14% planning accuracy with 97.20% LCS on 574 manually verified NAVSIM test samples while reducing average latency by 17.39% relative to applying slow reasoning to every scene.
 
 * [GeoWorldAD: Geometry World Action Model for Autonomous Driving](https://arxiv.org/abs/2607.17521)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Songyan Zhang, Jinyuan Tian, Hanbing Li, Daqi Liu, Hao Chen, Wenhui Huang, Fang Li, Guang Chen, Hangjun Ye, Long Chen, Kuiyuan Yang, Chen Lv
   * Publish Date: 2026.07.20
   * Task: Planning
@@ -1023,7 +1023,7 @@ format:
     * It introduces an automated VLM-based judging pipeline for controllability evaluation and demonstrates potential for controllable, scalable driving simulation.
 
 * [S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2607.13926)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jianguo Yu, Rukang Wang, Duanfeng Chu, Chen Wang, Renju Feng, Liping Lu
   * Publish Date: 2026.07.15
   * Task: Planning
@@ -1072,7 +1072,7 @@ format:
     * Incorporates differentiable optimization with explicit residual penalties and gradient backpropagation to the upstream planner, achieving top nuPlan Hard20 scores and verifying CARLA-ROS deployment.
 
 * [WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.08375)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Xuerun Yan, Zhexi Lian, Nuoheng Zhang, Shiyu Fang, Haoran Wang, Chen Lv, Jia Hu, Binyang Song
   * Publish Date: 2026.07.09
   * Task: End-to-End
@@ -1181,7 +1181,7 @@ format:
     * Latent Thought Distillation compresses the Teacher's reasoning into a fast, CoT-free System-1 Student, achieving 76.54% MCQ on DriveLMM-01 and reducing inference latency by 88% (to 416 ms).
 
 * [AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning](https://arxiv.org/abs/2607.03182)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Qi Liu, Yabei Li, Hongsong Wang, Heng Zhang, Lei He
   * Publish Date: 2026.07.03
   * Task: Planning
@@ -1191,7 +1191,7 @@ format:
     * Experiments on the Bench2Drive closed-loop benchmark show state-of-the-art Success Rate of 77.28 and a competitive Driving Score of 89.92.
 
 * [CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving](https://arxiv.org/abs/2607.02841)
-  * Datasets: [CARLA longest6 v2](https://carla.org/), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [CARLA longest6 v2](https://carla.org/), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Yunxiao Shi, Hong Cai, Mohammad Ghavamzadeh, Fatih Porikli
   * Publish Date: 2026.07.03
   * Task: Planning
@@ -1211,7 +1211,7 @@ format:
     * A decoupled multi-task decoder outputs localization, trajectory forecasting, and image reconstruction; experiments on nuScenes and VIRAT show 40.0% localization RMSE reduction versus a vision-only baseline on nuScenes and 0.214m RMSE / 0.179m minFDE (k=1) on VIRAT.
 
 * [Teaching Vision-Language-Action Models What to See and Where to Look](https://arxiv.org/abs/2607.01658)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Code: [DriveTeach-VLA](https://github.com/ShivaTeam/DriveTeach-VLA) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2026-07-10
   * Yuguang Yang, Canyu Chen, Zhewen Tan, Yizhi Wang, Zichao Feng, Chunyang Liu, Kehua Sheng, Juan Zhang, Linlin Yang, Baochang Zhang, Yan Wang, Bo Zhang, Xianbin Cao
   * Publish Date: 2026.07.02
@@ -1232,7 +1232,7 @@ format:
     * Demonstrates that fine-tuning VLMs on PKL-guided data yields dramatic performance improvements, with smaller fine-tuned models outperforming larger zero-shot counterparts, and PKL-guided data selection improving performance by approximately 30% over random sampling.
 
 * [ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving](https://arxiv.org/abs/2606.31226)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Xuchang Zhong, He Zheng, Chenxu Zhao, Tianxiong Lv, Hangqi Fan, Bohua Wang, Yushan Liu, Li Gao, Zhihao Liao, Leigang Luo, Congyang Zhao, Yang Cai
   * Publish Date: 2026.06.30
   * Task: Planning
@@ -1281,7 +1281,7 @@ format:
     * By explicitly modeling scene evolution over future horizons, OWMDrive captures key spatiotemporal causal dependencies, leading to more foresighted and robust trajectory generation with improved planning reliability and safety.
 
 * [LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving](https://arxiv.org/abs/2606.29879)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [NAVSIM-v2](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [NAVSIM-v2](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Chen Yang, Yuhao Wei, Ze Xu, Ziheng Zou, Shuang Liang, Delin Ouyang, Lingfeng Qi, Jie Li, Guofa Li
   * Publish Date: 2026.06.29
   * Task: Planning
@@ -1339,7 +1339,7 @@ format:
     * Experimental results on 4D occupancy forecasting and motion planning benchmarks demonstrate superior performance among vision-centric approaches.
 
 * [ASSCG: Just-Right Gating over Chattering for Fast-Slow LLM Planning in Autonomous Driving](https://arxiv.org/abs/2606.25509)
-  * Datasets: [nuPlan](https://www.nuplan.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuPlan](https://www.nuplan.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Sining Ang, Yuan Chen, Liu Haiyan, Xuanyao Mao, Jason Bao, Xuliang, Bingchuan Sun, Yan Wang
   * Publish Date: 2026.06.24
   * Project Page: [ASSCG](https://williamxuanyu.github.io/asscg/)
@@ -1361,7 +1361,7 @@ format:
     * Achieves state-of-the-art performance on nuScenes, outperforming closed-set methods by 15.3 mIoU on unseen categories, with 2.5x faster inference and 0.22x memory consumption of projection-based methods.
 
 * [Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving](https://arxiv.org/abs/2606.22913)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zisheng Chen, Yuping Qiu, Jianhua Han, Tao Tang, Xiuwei Chen, Likui Zhang, Ying-Cong Chen, Hang Xu, Xiaodan Liang
   * Publish Date: 2026.06.22
   * Task: Planning
@@ -1389,7 +1389,7 @@ format:
     * The corrupted future-aware representation transfers to downstream action modules without directly modifying ego-trajectory labels, inducing unsafe non-evasive waypoint predictions and revealing a representation-level safety risk.
 
 * [Efficient Block-Layer Parallel Inference for Vision-Language-Action on Hybrid Architectures](https://arxiv.org/abs/2608.14586)
-  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Haibo HU, Lianming Huang, Qiao Li, Nan Guan, Chun Jason Xue
   * Publish Date: 2026.06.19
   * Task: End-to-End
@@ -1454,7 +1454,7 @@ format:
     * Demonstrated in autonomous driving, HOLO-MPPI outperforms standard MPPI and end-to-end RL baselines while maintaining real-time performance across diverse scenarios.
 
 * [GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2606.16274)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/), [Bench2Drive](https://thinklab-sjtu.github.io/Bench2Drive/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/), [Bench2Drive](https://thinklab-sjtu.github.io/Bench2Drive/)
   * Ziying Song, Caiyan Jia, Lin Liu, Lei Yang, Shengkai Zhang, Feiyang Jia, Fengda Zhao, Peiliang Wu, Shaoqing Xu, Chen Lv, Yadan Luo
   * Publish Date: 2026.06.15
   * Task: Planning
@@ -1600,7 +1600,7 @@ format:
     * Utilizes a multi-agent analytical system to generate uncertainty-aware decision-making demonstrations, a dual-head lightweight heuristic model for unified inference, and a reflection-driven lifelong learning mechanism to enhance driving robustness.
 
 * [PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models](https://arxiv.org/abs/2606.06014)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Xiaoyun Qiu, Jingtao He, Yijie Chen, Yusong Huang, Haotian Wang, Yixuan Wang, Xinhu Zheng
   * Publish Date: 2026.06.04
   * Task: Planning
@@ -1645,7 +1645,7 @@ format:
     * Proposes a distillation algorithm to inject region-specific traffic-rule knowledge into VLMs, improving geo-cultural reasoning across regions.
 
 * [Unified Driving Tokens: Representation- and Geometry-Guided Discrete Tokenizer for Driving World Models and Planning](https://arxiv.org/abs/2606.01935)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ziyang Yao, Zeyu Zhu, YunCheng Jiang, Zibin Guo, Huijing Zhao
   * Publish Date: 2026.06.01
   * Task: Perception, Planning
@@ -1682,7 +1682,7 @@ format:
     * Experiments show that fine-tuning VLMs on nuReasoning improves driving-specific question answering and incorporating reasoning supervision into VLA training improves planning performance.
 
 * [IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving](https://arxiv.org/abs/2605.31476)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Chenghao Zhang, Timin Li, Dongmei Li
   * Publish Date: 2026.05.29
   * Task: Prediction
@@ -1726,7 +1726,7 @@ format:
     * A collision predictor module, fine-tuned with historical collision data, is further designed to improve vehicle safety.
 
 * [DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving](https://arxiv.org/abs/2605.28544)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Chen Shi, Jinrui Xu, Shaoshuai Shi, Kehua Sheng, Bo Zhang, Li Jiang
   * Publish Date: 2026.05.27
   * Task: Planning
@@ -1736,7 +1736,7 @@ format:
     * Achieves strong planning performance on NAVSIM and PhysicalAI-Autonomous-Vehicles benchmark, with data-scaling study confirming scaling potential.
 
 * [TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving](https://arxiv.org/abs/2605.27038)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jiaxiang Li, Yumao Liu, Ke Ma
   * Publish Date: 2026.05.26
   * Task: Perception, Planning
@@ -1784,7 +1784,7 @@ format:
     * Establishes a baseline that aligns 3D LiDAR features with VLM latent space, using Chain-of-Thought rationales to explicitly articulate spatial relations, achieving 24.4% recall in identifying occluded hazards and reducing spatial estimation error by 77%.
 
 * [ChainFlow-VLA: Causal Flow Planning with Vision-Language Models](https://arxiv.org/abs/2605.23270)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [ChainFlow-VLA](https://github.com/AFARI-Research/ChainFlow-VLA) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2026-09-24
   * Xiyang Wang, Xinlin Wang, Tingguang Zhou, Gong Chen, Xingtai Gui, Zhi Xu, Xiaolei Wu, Feiyang Tan, Hangning Zhou, Mu Yang
   * Publish Date: 2026.05.22
@@ -1822,7 +1822,7 @@ format:
     * Established CoC consistency as a quantitative proxy for planning safety, motivating reasoning-based runtime monitoring for safer VLA deployment.
 
 * [Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2605.21139)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yang Wu, Qiang Meng, Zhaojiang Liu, Youquan Liu, Jian Yang, Jin Xie
   * Publish Date: 2026.05.20
   * Task: Planning
@@ -1849,7 +1849,7 @@ format:
     * The framework aligns ego-vehicle motion forecasting models with human preferences, achieving an 11.94% increase in rater feedback score and a 10.01% reduction in average displacement error.
 
 * [Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives](https://arxiv.org/abs/2605.19771)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Junli Wang, Zhihua Hua, Xueyi Liu, Zebin Xing, Haochen Tian, Kun Ma, Hangjun Ye, Guang Chen, Long Chen, Qichao Zhang
   * Publish Date: 2026.05.19
   * Task: Perception, Planning
@@ -1859,7 +1859,7 @@ format:
     * Achieves 89.7 PDMS on NAVSIMv1 closed-loop benchmark, outperforming prior state-of-the-art, and demonstrates strong zero-shot transferability on HUGSIM.
 
 * [HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models](https://arxiv.org/abs/2605.19631)
-  * Datasets: [nuScenes](https://www.nuscenes.org), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Waymo](https://waymo.com/open/)
+  * Datasets: [nuScenes](https://www.nuscenes.org), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Waymo](https://waymo.com/open/)
   * Hoonhee Cho, Giwon Lee, Jae-Young Kang, Hyemin Yang, Heejun Park, Kuk-Jin Yoon
   * Publish Date: 2026.05.19
   * Task: Planning
@@ -1869,7 +1869,7 @@ format:
     * Demonstrates that a single unified model can be trained on heterogeneous datasets (nuScenes, NAVSIM, Waymo) while maintaining strong performance within each domain.
 
 * [SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving](https://arxiv.org/abs/2605.19524)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Kefei Tian, Yuansheng Lian, Kai Yang, Xiangdong Chen, Shen Li
   * Publish Date: 2026.05.19
   * Task: Perception
@@ -1898,7 +1898,7 @@ format:
     * Achieves state-of-the-art future semantic occupancy forecasting and strong motion planning performance with flexible temporal querying.
 
 * [CLAP: Contrastive Latent-space Prompt Optimization for End-to-end Autonomous Driving](https://arxiv.org/abs/2605.17284)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ruiyang Zhu, Yuehan He, Boyuan Zheng, Zesen Zhao, Ahmad Chalhoub, Qingzhao Zhang, Z. Morley Mao
   * Publish Date: 2026.05.17
   * Task: Planning
@@ -1926,7 +1926,7 @@ format:
     * Trained on urban simulator data and tested in closed-loop on in-distribution and out-of-distribution scenarios (highways, unseen cities), demonstrating reliable generalization attributed to the BEV representation and flow-matching formulation.
 
 * [EponaV2: Driving World Model with Comprehensive Future Reasoning](https://arxiv.org/abs/2605.14696)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jiawei Xu, Zhizhou Zhong, Zhijian Shu, Mingkai Jia, Mingxiao Li, Jia-Wang Bian, Qian Zhang, Kaicheng Zhang, Jin Xie, Jian Yang, Wei Yin
   * Publish Date: 2026.05.14
   * Task: Planning
@@ -1974,7 +1974,7 @@ format:
     * Achieves risk prediction recall of 81.9%, reduces collision rate to 3.52%, and lowers L2 error to 1.98 m on the DeepAccident-CCoT dataset.
 
 * [DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving](https://arxiv.org/abs/2605.10564)
-  * Code: [DeepSight](https://github.com/hotdogcheesewhite/DeepSight) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2026-09-17
+  * Code: [DeepSight](https://github.com/hotdogcheesewhite/DeepSight) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-09-17
   * Lingjun Zhang, Changjie Wu, Linzhe Shi, Jiangyang Li, Jiaxin Liu, Lei Yang, Hang Zhang, Mu Xu, Hong Wang
   * Publish Date: 2026.05.11
   * Task: Planning
@@ -1985,7 +1985,7 @@ format:
     * The approach achieves state-of-the-art results on the closed-loop Bench2drive benchmark.
 
 * [CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving](https://arxiv.org/abs/2605.10426)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Minqing Huang, Yujiao Xiang, Zihan Liang, Jiajie Huang, Jingqi Wang, Zhi Xu, Feiyang Tan, Hangning Zhou, Mu Yang, Gong Che
   * Publish Date: 2026.05.11
   * Task: Planning
@@ -2005,7 +2005,7 @@ format:
     * Provides capacity-aware analysis showing that sparse sampling may miss cues while dense sampling adds redundant visual content, and that iteration-matched controls rule out unequal training updates as the sole explanation.
 
 * [DriveFuture: Future-Aware Latent World Models for Autonomous Driving](https://arxiv.org/abs/2605.09701)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yufeng Hong, Xiaotian Zhou, Yingyan Li, Xiangpo Zhou, Lin Liu, Yadan Luo, Shaoqing Xu, Lei Yang, Ziying Song
   * Publish Date: 2026.05.10
   * Task: Planning
@@ -2023,7 +2023,7 @@ format:
     * Achieves 88.91 Driving Score on Bench2Drive, outperforming representative end-to-end and VLA-based baselines, and validates the benefits of shared attention, semantic-aware expert routing, progressive training, and flow-based action decoding.
 
 * [GEM: Generating LiDAR World Model via Deformable Mamba](https://arxiv.org/abs/2605.07326v1)
-  * Code: [GitHub](https://github.com/wuyang98/GEM) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-07-27
+  * Code: [GitHub](https://github.com/wuyang98/GEM) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-27
   * Yang Wu, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie
   * Publish Date: 2026.05.08
   * Task: Generation
@@ -2033,7 +2033,7 @@ format:
     * Achieves state-of-the-art performance on diverse benchmarks, with optional integration for autonomous rollout and what-if scenarios.
 
 * [See Tomorrow, Act Today: Foresight-Driven Autonomous Driving](https://arxiv.org/abs/2605.07195)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Bozhou Zhang, Nan Song, Yuang Wang, Jiankang Deng, Xiatian Zhu, Li Zhang
   * Publish Date: 2026.05.08
   * Task: Planning
@@ -2092,7 +2092,7 @@ format:
     * Achieves state-of-the-art performance on Bench2Drive with a 73.33% total success rate, showing about 30% improvement in challenging scenarios.
 
 * [ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution](https://arxiv.org/abs/2604.25329)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Chuyao Fu, Shengzhe Gan, Zhuoli Ouyang, Yuhan Rui, Xiaowei Chi, Sirui Han, Jiankun Wang, Hong Zhang
   * Publish Date: 2026.04.28
   * Task: Planning
@@ -2137,7 +2137,7 @@ format:
     * Experiments on the ORAD-3D benchmark show reductions in average trajectory error and elevation inconsistency, and improvements in traversability compliance.
 
 * [SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model](https://arxiv.org/abs/2604.19710)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Zewei Zhou, Ruining Yang, Xuewei, Qi, Yiluan Guo, Sherry X. Chen, Tao Feng, Kateryna Pistunova, Yishan Shen, Lili Su, Jiaqi Ma
   * Publish Date: 2026.04.21
   * Task: Planning
@@ -2167,7 +2167,7 @@ format:
     * It introduces a visual world model decoder that predicts future-frame tokens, forcing the latent space to internalize causal dynamics, achieving state-of-the-art accuracy at answer-only latency.
 
 * [OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models](https://arxiv.org/abs/2604.17915)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org)
   * Code: [OneDrive](https://github.com/Z1zyw/OneDrive) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-04-23
   * Yiwei Zhang, Xuesong Chen, Jin Gao, Hanshi Wang, Fudong Ge, Weiming Hu, Shaoshuai Shi, Zhipeng Zhang
   * Publisher: Unknown
@@ -2284,7 +2284,7 @@ format:
     * Experiments on LMDrive and BEVDriver reveal substantial performance drops from minor instruction changes, highlighting a reliability gap for safety-critical deployment.
 
 * [The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models](https://arxiv.org/abs/2604.04857)
-  * Datasets: [FidelityDrivingBench](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [FidelityDrivingBench](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Runhao Mao, Hanshi Wang, Yixiang Yang, Qianli Ma, Jingmeng Zhou, Zhipeng Zhang
   * Publish Date: 2026.04.06
   * Task: End-to-End
@@ -2301,8 +2301,8 @@ format:
     * The attack achieves a 90% Attack Success Rate with only a 10% poisoning ratio and a 0% False Positive Rate on DriveVLM, while not degrading and even improving performance on clean tasks.
 
 * [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org), [Bench2drive](https://thinklab-sjtu.github.io/Bench2Drive/)
-  * Code: [DriveVA](https://github.com/xiaomi-mlab/DriveVA) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2026-10-09
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org), [Bench2drive](https://thinklab-sjtu.github.io/Bench2Drive/)
+  * Code: [DriveVA](https://github.com/xiaomi-mlab/DriveVA) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-10-09
   * Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng **ECCV 2026**
   * Publish Date: 2026.04.05
   * Task: Planning
@@ -2323,7 +2323,7 @@ format:
     * Zero-shot deployment on a full-scale Ford E-Transit achieves high success rates in car-following, obstacle avoidance, and stop-sign interaction scenarios.
 
 * [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving](https://arxiv.org/abs/2604.02714)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org)
   * Zihao Sheng, Xin Ye, Jingru Luo, Sikai Chen, Liu Ren
   * Publish Date: 2026.04.03
   * Project Page: [ExploreVLA](https://zihaosheng.github.io/ExploreVLA/)
@@ -2368,7 +2368,7 @@ format:
     * Demonstrates significant performance gains across Gaussian-centric 3D occupancy perception, 4D occupancy forecasting, and motion planning tasks on SurroundOcc and nuScenes benchmarks.
 
 * [DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale](https://arxiv.org/abs/2604.00813)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, Fang Li, Hanbing Li, Long Chen, Zhi-Xin Yang, Jiwen Lu
   * Publish Date: 2026.04.01
   * Task: Planning
@@ -2430,7 +2430,7 @@ format:
     * Data from OccSim can pre-train 4D semantic occupancy forecasting models, achieving up to 74% zero-shot performance on unseen data, outperforming previous asset-based simulators by 22.1%.
 
 * [$AutoDrive\text{-}P^3$: Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning](https://arxiv.org/abs/2603.28116)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [$AutoDrive\text{-}P^3$](https://github.com/haha-yuki-haha/AutoDrive-P3) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-10-07
   * Yuqi Ye, Zijian Zhang, Junhong Lin, Shangkun Sun, Changhao Peng, Wei Gao
   * Publish Date: 2026.03.30
@@ -2441,7 +2441,7 @@ format:
     * Features dual thinking modes (detailed and fast) to balance inference efficiency with performance, achieving state-of-the-art results on nuScenes and NAVSIM benchmarks.
 
 * [Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving](https://arxiv.org/abs/2603.27287)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Qiqi Liu, Huan Xu, Jingyu Li, Bin Sun, Zhihui Hao, Dangen She, Xiatian Zhu, Li Zhang
   * Publish Date: 2026.03.28
   * Task: Planning
@@ -2472,7 +2472,7 @@ format:
     * Evaluation on Bench2Drive shows improved style instruction adaptation, and user studies confirm its generated behaviors are recognizable as each driver's own style.
 
 * [ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models](https://arxiv.org/abs/2603.25766)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yiru Wang, Anqing Jiang, Shuo Wang, Yuwen Heng, Zichong Gu, Hao Sun
   * Publish Date: 2026.03.26
   * Task: End-to-End
@@ -2501,7 +2501,7 @@ format:
     * The second stage employs Flow-GRPO post-training, reformulating deterministic flow rollout as stochastic ODE-to-SDE sampling for exploration and optimizing with a composite reward for social compliance and physical feasibility.
 
 * [DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Pengxuan Yang, Yupeng Zheng, Deheng Qian, Zebin Xing, Qichao Zhang, Linbo Wang, Yichen Zhang, Shaoyu Guo, Zhongpu Xia, Qiang Chen, Junyu Han, Lingyun Xu, Yifeng Pan, Dongbin Zhao
   * Publish Date: 2026.03.25
   * Task: Planning
@@ -2511,7 +2511,7 @@ format:
     * Achieves state-of-the-art performance with 87.7 EPDMS on NavSim v2, demonstrating the effectiveness of latent-space RL for autonomous driving.
 
 * [Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Linbo Wang, Yupeng Zheng, Qiang Chen, Shiwei Li, Yichen Zhang, Zebin Xing, Qichao Zhang, Xiang Li, Deheng Qian, Pengxuan Yang, Yihang Dong, Ce Hao, Xiaoqing Ye, Junyu han, Yifeng Pan, Dongbin Zhao
   * Publish Date: 2026.03.25
   * Task: Prediction, Planning
@@ -2573,7 +2573,7 @@ format:
     * It features a multi-view latent video generator designed for cross-view geometric consistency and temporal coherence, enabling high-quality, controllable simulation for evaluation and video style transfer.
 
 * [DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving](https://arxiv.org/abs/2603.19675)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [DynFlowDrive](https://github.com/xiaolul2/DynFlowDrive) ⭐ 26 | 🐛 1 | 📅 2026-03-23
   * Xiaolu Liu, Yicong Li, Song Wang, Junbo Chen, Angela Yao, Jianke Zhu
   * Publish Date: 2026.03.20
@@ -2673,7 +2673,7 @@ format:
     * Proposes Scenario Dreaming, a reinforcement fine-tuning paradigm that operates in reconstructed takeover scenarios to encourage active exploration beyond passive preference fitting.
 
 * [Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation](https://arxiv.org/abs/2603.14948)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Xingtai Gui, Meijie Zhang, Tianyi Yan, Wencheng Han, Jiahao Gong, Feiyang Tan, Cheng-zhong Xu, Jianbing Shen
   * Publish Date: 2026.03.16
   * Task: Planning, Generation
@@ -2730,7 +2730,7 @@ format:
     * Introduces MVX-LLM, a token-efficient architecture with a Dual Cross-Attention (DCA) projector to fuse multiple complementary visual modalities, showing improved performance in challenging conditions like fog.
 
 * [DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](https://arxiv.org/abs/2603.11041)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://bench2drive.github.io/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [Bench2Drive](https://bench2drive.github.io/)
   * Shuyao Shang, Bing Zhan, Yunfei Yan, Yuqi Wang, Yingyan Li, Yasong An, Xiaoman Wang, Jierui Liu, Lu Hou, Lue Fan, Zhaoxiang Zhang, Tieniu Tan
   * Publisher: Chinese Academy of Sciences, Institute of Automation
   * Publish Date: 2026.03.11
@@ -2900,7 +2900,7 @@ format:
     * Evaluation on the Waymo dataset shows superior performance, achieving over 94% classification accuracy and demonstrating the value of combining structured feature modeling with semantic abstraction.
 
 * [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](https://arxiv.org/abs/2603.01928)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen
   * Publish Date: 2026.03.02
   * Task: Planning
@@ -2919,7 +2919,7 @@ format:
     * Replaces auto-regressive generation with a two-step coarse-to-fine (C2F) method, reducing inference time by 86% while improving instruction following accuracy and driving performance in closed-loop benchmarks.
 
 * [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](https://arxiv.org/abs/2603.01063)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yuechen Luo, Qimao Chen, Fang Li, Shaoqing Xu, Jaxin Liu, Ziying Song, Zhi-xin Yang, Fuxi Wen
   * Publish Date: 2026.03.01
   * Task: Planning
@@ -2969,7 +2969,7 @@ format:
     * Develops a feedback-guided automatic data annotation pipeline to generate aligned multimodal reasoning training data and a progressive reinforcement fine-tuning method for optimization.
 
 * [NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning](https://arxiv.org/abs/2602.21172)
-  * Datasets: [Waymo](https://waymo.com/open/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [Waymo](https://waymo.com/open/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ishaan Rawal, Shubh Gupta, Yihan Hu, Wei Zhan
   * Publish Date: 2026.02.24
   * Project Page: [NoRD](https://nord-vla-ai.github.io/)
@@ -2999,7 +2999,7 @@ format:
     * Employs geometry-aware embedding learning and an action-priority decoding strategy to improve planning precision and provide high-fidelity, explainable reasoning.
 
 * [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.20060)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [MeanFuser](https://github.com/wjl2244/MeanFuser) ⭐ 112 | 🐛 3 | 🌐 Python | 📅 2026-05-20
   * Junli Wang, Xueyi Liu, Yinan Zheng, Zebing Xing, Pengfei Li, Guang Li, Kun Ma, Guang Chen, Hangjun Ye, Zhongpu Xia, Long Chen, Qichao Zhang
   * Publish Date: 2026.02.23
@@ -3050,7 +3050,7 @@ format:
     * Identifies a predictability gap between kinematic danger and semantic non-compliance, surfacing overlooked out-of-distribution behaviors like lane violations to enable data-driven safety validation.
 
 * [DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [DriveFine](https://github.com/MSunDYY/DriveFine) ⭐ 31 | 🐛 3 | 📅 2026-02-17
   * Chenxu Dang, Sining Ang, Yongkang Li, Haochen Tian, Jie Wang, Guang Li, Hangjun Ye, Jie Ma, Long Chen, Yan Wang
   * Publish Date: 2026.02.16
@@ -3072,7 +3072,7 @@ format:
     * Demonstrates improved OCF performance with a pretrained encoder after JEPA-based world model learning, leveraging large volumes of unlabeled data.
 
 * [Talk2DM: Enabling Natural Language Querying and Commonsense Reasoning for Vehicle-Road-Cloud Integrated Dynamic Maps with Large Language Models](https://arxiv.org/abs/2602.11860)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Lu Tao, Jinxuan Luo, Yousuke Watanabe, Zhengshu Zhou, Yuhuan Lu, Shen Ying, Pan Zhang, Fei Zhao, Hiroaki Takada
   * Publish Date: 2026.02.12
   * Task: Reasoning
@@ -3091,7 +3091,7 @@ format:
     * Experiments show SToRM outperforms state-of-the-art E2E driving MLLMs under the same token budget, maintaining performance while reducing computational cost by up to 30x.
 
 * [ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.10884)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [ResWorld](https://github.com/mengtan00/ResWorld.git) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2026-02-05
   * Jinqing Zhang, Zehua Fu, Zelin Xu, Wenying Dai, Qingjie Liu, Yunhong Wang
   * Publish Date: 2026.02.11
@@ -3111,7 +3111,7 @@ format:
     * Provides systematic error analysis identifying recurring failure modes to guide the development of more effective cyclist-assistive intelligent systems.
 
 * [HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.13329)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yiru Wang, Zichong Gu, Yu Gao, Anqing Jiang, Zhigang Sun, Shuo Wang, Yuwen Heng, Hao Sun
   * Publish Date: 2026.02.11
   * Task: End-to-End
@@ -3173,7 +3173,7 @@ format:
     * Achieves state-of-the-art performance on the MFNet dataset with 62.3% mIoU and 77.5% mAcc.
 
 * [DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving](https://arxiv.org/abs/2602.06521)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Code: [DriveWorld-VLA](https://github.com/liulin815/DriveWorld-VLA.git) ⭐ 128 | 🐛 7 | 🌐 Python | 📅 2026-07-08
   * Feiyang jia, Lin Liu, Ziying Song, Caiyan Jia, Hangjun Ye, Xiaoshuai Hao, Long Chen
   * Publish Date: 2026.02.06
@@ -3280,7 +3280,7 @@ format:
     * Introduces a Tri-Modal Driving Module that fuses multi-view perception, historical motion cues, and semantic guidance for risk-aware accurate trajectory planning under long-tail conditions.
 
 * [Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving](https://arxiv.org/abs/2601.22032)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Linhan Wang, Zichong Yang, Chen Bai, Guoxiang Zhang, Xiaotong Liu, Xiaoyin Zheng, Xiao-Xiao Long, Chang-Tien Lu, Cheng Lu
   * Publish Date: 2026.01.29
   * Task: End-to-End
@@ -3388,7 +3388,7 @@ format:
     * Employs a two-stage LLM architecture to ensure high transparency and provide execution feedback, with evaluation confirming timing efficiency and translation robustness.
 
 * [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jingyu Li, Junjie Wu, Dongnan Hu, Xiangkai Huang, Bin Sun, Zhihui Hao, Xianpeng Lang, Xiatian Zhu, Li Zhang
   * Publish Date: 2026.01.09
   * Task: Planning
@@ -3398,7 +3398,7 @@ format:
     * Achieves state-of-the-art performance among camera-only methods on the NAVSIM benchmark, validating the effectiveness of hierarchical knowledge structuring for adapting VLMs to autonomous driving.
 
 * [LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction](https://arxiv.org/abs/2601.05611)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/)
   * Chengen Xie, Bin Sun, Tianyu Li, Junjie Wu, Zhihui Hao, XianPeng Lang, Hongyang Li
   * Publish Date: 2026.01.09
   * Task: Planning
@@ -3459,7 +3459,7 @@ format:
     * Evaluation of 14 state-of-the-art models reveals trade-offs between general models and driving-specific ones, offering a unified framework for scalable simulation and planning.
 
 * [Dichotomous Diffusion Policy Optimization](https://arxiv.org/abs/2601.00898)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ruiming Liang, Yinan Zheng, Kexin Zheng, Tianyi Tan, Jianxiong Li, Liyuan Mao, Zhihao Wang, Guang Chen, Hangjun Ye, Jingjing Liu, Jinqiao Wang, Xianyuan Zhan
   * Publish Date: 2025.12.31
   * Task: End-to-End
@@ -3497,7 +3497,7 @@ format:
     * Develops a spatial-aware question-answering (SA-QA) dataset to explicitly teach the model advanced 3D perception and reasoning capabilities, achieving superior performance on driving benchmarks.
 
 * [DriveLaW:Unifying Planning and Video Generation in a Latent Driving World](https://arxiv.org/abs/2512.23421)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Tianze Xia, Yongkang Li, Lijun Zhou, Jingfeng Yao, Kaixin Xiong, Haiyang Sun, Bing Wang, Kun Ma, Guang Chen, Hangjun Ye, Wenyu Liu, Xinggang Wang
   * Publisher: Huazhong University of Science and Technology, Xiaomi EV
   * Publish Date: 2025.12.29
@@ -3530,7 +3530,7 @@ format:
     * Achieves state-of-the-art planning performance, including the lowest collision rate on nuScenes and top results on Bench2Drive.
 
 * [WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving](https://arxiv.org/abs/2512.19133)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Pengxuan Yang, Ben Lu, Zhongpu Xia, Chao Han, Yinfeng Gao, Teng Zhang, Kun Zhan, XianPeng Lang, Yupeng Zheng, Qichao Zhang
   * Publish Date: 2025.12.22
   * Task: Planning
@@ -3622,7 +3622,7 @@ format:
     * Explores two solution paradigms—an end-to-end vision-language planner and a hierarchical agent-based framework—which demonstrate superior alignment with human intentions compared to existing models.
 
 * [FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model](https://arxiv.org/abs/2512.11226)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Hongbin Lin, Yiming Yang, Yifan Zhang, Chaoda Zheng, Jie Feng, Sheng Wang, Zhennan Wang, Shijia Chen, Boyang Wang, Yu Zhang, Xianming Liu, Shuguang Cui, Zhen Li
   * Publish Date: 2025.12.12
   * Task: Planning
@@ -3710,7 +3710,7 @@ format:
     * Demonstrates the plug-and-play nature of the approach, showing performance enhancements for certain tasks without requiring additional sensors.
 
 * [WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Project Page: [WAM-Diff](https://github.com/fudan-generative-vision/WAM-Diff) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2026-02-01
   * Code: [WAM-Diff](https://github.com/fudan-generative-vision/WAM-Diff) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2026-02-01
   * Mingwang Xu, Jiahao Cui, Feipeng Cai, Hanlin Shang, Zhihao Zhu, Shan Luan, Yifang Xu, Neng Zhang, Yaoyi Li, Jia Cai, Siyu Zhu
@@ -3733,8 +3733,8 @@ format:
     * Shows that filtering raw AIGVs with the proposed evaluator improves video quality metrics and downstream AD model performance, turning AIGVs into a beneficial data complement.
 
 * [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](https://arxiv.org/abs/2512.06112)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/nuscenes)
-  * Code: [WAM-Flow](https://github.com/fudan-generative-vision/WAM-Flow) ⭐ 369 | 🐛 0 | 🌐 Python | 📅 2026-09-03
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [nuScenes](https://www.nuscenes.org/nuscenes)
+  * Code: [WAM-Flow](https://github.com/fudan-generative-vision/WAM-Flow) ⭐ 371 | 🐛 0 | 🌐 Python | 📅 2026-09-03
   * Yifang Xu, Jiahao Cui, Feipeng Cai, Zhihao Zhu, Hanlin Shang, Shan Luan, Mingwang Xu, Neng Zhang, Yaoyi Li, Jia Cai, Siyu Zhu
   * Publisher: Fudan University, Yinwang
   * Publish Date: 2025.12.05
@@ -3784,7 +3784,7 @@ format:
     * Achieves improved behavior-trajectory consistency and planning performance on long-tail scenarios, outperforming AR-based baselines.
 
 * [MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2512.04441)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Bin Sun, Yaoguang Cao, Yan Wang, Rui Wang, Jiachen Shang, Xiejie Feng, Jiayi Lu, Jia Shi, Shichun Yang, Xiaoyu Yan, Ziying Song
   * Publish Date: 2025.12.04
   * Task: Planning
@@ -3963,7 +3963,7 @@ format:
     * Achieves state-of-the-art performance, superior generalization, and excellent inference speed through supervised learning and reinforcement learning fine-tuning.
 
 * [Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving](https://arxiv.org/abs/2511.20156)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Bin Hu, Zijian Lu, Haicheng Liao, Chengran Yuan, Bin Rao, Yongkang Li, Guofa Li, Zhiyong Cui, Cheng-zhong Xu, Zhenning Li
   * Publisher: Huazhong University of Science and Technology, Xiaomi EV
   * Publish Date: 2025.11.25
@@ -3974,7 +3974,7 @@ format:
     * A lightweight world model rolls out future BEV semantics for each candidate, and training uses trajectory probabilities as path weights to learn from the full distribution of plausible futures, achieving state-of-the-art performance on NAVSIM.
 
 * [Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving](https://arxiv.org/abs/2511.19221)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jianhua Han, Meng Tian, Jiangtong Zhu, Fan He, Huixin Zhang, Sitong Guo, Dechang Zhu, Hao Tang, Pei Xu, Yuze Guo, Minzhe Niu, Haojie Zhu, Qichao Dong, Xuechao Yan, Siyuan Dong, Lu Hou, Qingqiu Huang, Xiaosong Jia, Hang Xu
   * Publish Date: 2025.11.24
   * Task: End-to-End
@@ -3993,7 +3993,7 @@ format:
     * Conducts a comprehensive study showing current Vision-Language Models struggle with foresight reasoning, and demonstrates FSU-QA can effectively enhance this capability through fine-tuning.
 
 * [GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving](https://arxiv.org/abs/2511.18729)
-  * Datasets: [Bench2Drive](https://thinklab-sjtu.github.io/Bench2Drive/), [NuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [ADV-NuScenes]()
+  * Datasets: [Bench2Drive](https://thinklab-sjtu.github.io/Bench2Drive/), [NuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27, [ADV-NuScenes]()
   * Code: [GuideFlow](https://github.com/liulin815/GuideFlow) ⭐ 31 | 🐛 3 | 📅 2026-02-21
   * Lin Liu, Caiyan Jia, Guanyi Yu, Ziying Song, JunQiao Li, Feiyang Jia, Peiliang Wu, Xiaoshuai Hao, Yandan Luo
   * Publish Date: 2025.11.24
@@ -4027,7 +4027,7 @@ format:
     * Proposes a 4D point cloud-aligned voxel layout and a discrete Masked Generative START (MaskSTART) framework for efficient, high-resolution, and layout-guided compositional generation.
 
 * [Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks](https://arxiv.org/abs/2511.14592)
-  * Datasets: [DSBench](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [DSBench](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Xianhui Meng, Yuchen Zhang, Zhijian Huang, Zheng Lu, Ziling Ji, Yaoyao Yin, Hongyuan Zhang, Guangfeng Jiang, Yandan Lin, Long Chen, Hangjun Ye, Li Zhang, Jun Liu, Xiaoshuai Hao
   * Publish Date: 2025.11.18
   * Task: VQA
@@ -4176,7 +4176,7 @@ format:
     * Observes the emergence of cognitive consistency and temporal fuzziness through training, establishing a new paradigm where intelligence lies in the tokenized duality of belief and intent.
 
 * [Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail](https://arxiv.org/abs/2511.00088)
-  * Code: [Alpamayo-R1](https://github.com/NVlabs/alpamayo) ⭐ 2,036 | 🐛 66 | 🌐 Python | 📅 2026-09-09
+  * Code: [Alpamayo-R1](https://github.com/NVlabs/alpamayo) ⭐ 2,037 | 🐛 66 | 🌐 Python | 📅 2026-09-09
   * Yan Wang, Wenjie Luo, Junjie Bai, Yulong Cao, Tong Che, Ke Chen, Yuxiao Chen, Jenna Diamond, Yifan Ding, Wenhao Ding, Liang Feng, Greg Heinrich, Jack Huang, Peter Karkus, Boyi Li, Pinyi Li, Tsung-Yi Lin, Dongran Liu, Ming-Yu Liu, Langechuan Liu, Zhijian Liu, Jason Lu, Yunxiang Mao, Pavlo Molchanov, Lindsey Pavao, Zhenghao Peng, Mike Ranzinger, Ed Schmerling, Shida Shen, Yunfei Shi, Sarah Tariq, Ran Tian, Tilman Wekel, Xinshuo Weng, Tianjun Xiao, Eric Yang, Xiaodong Yang, Yurong You, Xiaohui Zeng, Wenyuan Zhang, Boris Ivanovic, Marco Pavone
   * Publisher: NVIDIA
   * Publish Date: 2025.10.30
@@ -4187,7 +4187,7 @@ format:
     * The model uses a multi-stage training strategy with supervised fine-tuning and reinforcement learning, achieving improved planning accuracy and safety in simulation and real-time on-vehicle deployment.
 
 * [Beyond Imitation: Constraint-Aware Trajectory Generation with Flow Matching For End-to-End Autonomous Driving](https://arxiv.org/abs/2510.26292)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Lin Liu, Guanyi Yu, Ziying Song, Junqiao Li, Caiyan Jia, Feiyang Jia, Peiliang Wu, Yandan Luo
   * Publish Date: 2025.10.30
   * Task: Planning
@@ -4271,7 +4271,7 @@ format:
     * Addresses data scarcity by automatically labeling over 9,640 real-world images with high accuracy, providing a practical path for reliable semantic monitoring in autonomous systems.
 
 * [SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving](https://arxiv.org/abs/2510.17191)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Peiru Zheng, Yun Zhao, Zhan Gong, Hong Zhu, Shaohua Wu
   * Publish Date: 2025.10.20
   * Task: Planning
@@ -4328,7 +4328,7 @@ format:
     * The DriveCritic model is fine-tuned using a two-stage supervised and reinforcement learning pipeline to adjudicate between trajectory pairs by integrating visual and symbolic context, significantly outperforming existing metrics in matching human preferences.
 
 * [DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving](https://arxiv.org/abs/2510.12796)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yingyan Li, Shuyao Shang, Weisong Liu, Bing Zhan, Haochen Wang, Yuqi Wang, Yuntao Chen, Xiaoman Wang, Yasong An, Chufeng Tang, Lu Hou, Lue Fan, Zhaoxiang Zhang
   * Publish Date: 2025.10.14
   * Task: End-to-End
@@ -4349,7 +4349,7 @@ format:
     * Experiments show an 18% reduction in collision rate compared to baselines, with stronger generalization and improved performance on long-tail scenarios.
 
 * [Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](https://arxiv.org/abs/2510.11083)
-  * Code:[Flow-Planner](https://github.com/DiffusionAD/Flow-Planner) ⭐ 274 | 🐛 12 | 🌐 Python | 📅 2026-04-03
+  * Code:[Flow-Planner](https://github.com/DiffusionAD/Flow-Planner) ⭐ 276 | 🐛 12 | 🌐 Python | 📅 2026-04-03
   * Tianyi Tan, Yinan Zheng, Ruiming Liang, Zexu Wang, Kexin Zheng, Jinliang Zheng, Jianxiong Li, Xianyuan Zhan, Jingjing Liu
   * Publish Date: 2025.10.13
   * Task: Planning
@@ -4420,7 +4420,7 @@ format:
     * Shows synthetic data from video generation models is a cost-effective alternative to real data, improving E2E model generalization beyond existing Operational Design Domains.
 
 * [Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving](https://arxiv.org/abs/2510.02803)
-  * Datasets: [ROADWork](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [ROADWork](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yifan Liao, Zhen Sun, Xiaoyun Qiu, Zixiao Zhao, Wenbing Tang, Xinlei He, Xinhu Zheng, Tianwei Zhang, Xinyi Huang, Xingshuo Han
   * Publish Date: 2025.10.03
   * Task: Planning
@@ -4516,7 +4516,7 @@ format:
     * Demonstrates 44.8% improvements in planning accuracy and complete collision avoidance on the nuScenes dataset.
 
 * [MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Ziang Luo, Kangan Qian, Jiahua Wang, Yuechen Luo, Jinyu Miao, Zheng Fu, Yunlong Wang, Sicong Jiang, Zilin Huang, Yifei Hu, Yuhao Yang, Hao Ye, Mengmeng Yang, Xiaojian Dong, Kun Jiang, Diange Yang
   * Publish Date: 2025.09.25
   * Task: End-to-End
@@ -4535,7 +4535,7 @@ format:
     * Demonstrates strong attack performance, inducing incorrect driving commands across various VLM-AD models and significantly surpassing existing methods, with high robustness under diverse dynamic conditions.
 
 * [Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving](https://arxiv.org/abs/2509.20109)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Pengxiang Li, Yinan Zheng, Yue Wang, Huimin Wang, Hang Zhao, Jingjing Liu, Xianyuan Zhan, Kun Zhan, Xianpeng Lang
   * Publish Date: 2025.09.24
   * Task: Planning
@@ -4575,7 +4575,7 @@ format:
     * On the Bench2Drive benchmark, CoReVLA achieves a Driving Score of 72.18 and a Success Rate of 50%, outperforming state-of-the-art methods in long-tail scenarios.
 
 * [AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2509.13769)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yuechen Luo, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang
   * Publish Date: 2025.09.17
   * Task: End-to-End
@@ -4748,7 +4748,7 @@ format:
     * The approach is designed to be fully compatible with existing VLMs and seamlessly integrate with planning-oriented driving systems, setting a new standard in explainable autonomous driving.
 
 * [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/abs/2508.11428)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Jingyu Li, Bozhou Zhang, Xin Jin, Jiankang Deng, Xiatian Zhu, Li Zhang
   * Publish Date: 2025.08.15
   * Task: End-to-End
@@ -4767,7 +4767,7 @@ format:
     * Generates driver visual attention allocation and shifting predictions in natural language, offering a new direction for explainable AI in autonomous driving.
 
 * [IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model](https://arxiv.org/abs/2508.06571)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Anqing Jiang, Yu Gao, Yiru Wang, Zhigang Sun, Shuo Wang, Yuwen Heng, Hao Sun, Shichen Tang, Lijuan Zhu, Jinhao Chai, Jijun Wang, Zichong Gu, Hao Jiang, Li Sun
   * Publish Date: 2025.08.07
   * Task: Planning
@@ -4786,7 +4786,7 @@ format:
     * The framework includes an autoregressive module for generating temporally coherent 4D LiDAR sequences and establishes a comprehensive benchmark for standardized evaluation across scene-, object-, and sequence-level metrics.
 
 * [Mapillary Vistas Validation for Fine-Grained Traffic Signs: A Benchmark Revealing Vision-Language Model Limitations](https://arxiv.org/abs/2508.02047)
-  * Code: [relabeling](https://github.com/nec-labs-ma/relabeling) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-12-17
+  * Code: [relabeling](https://github.com/nec-labs-ma/relabeling) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-12-17
   * Sparsh Garg, Abhishek Aich
   * Publisher: NEC Laboratories America
   * Publish Date: 2025.08.04
@@ -4858,7 +4858,7 @@ format:
     * Demonstrates state-of-the-art performance on the OpenLane-V2 benchmark for lane segment detection and centerline perception.
 
 * [Vision-Language Cross-Attention for Real-Time Autonomous Driving](https://arxiv.org/abs/2507.23064)
-  * Datasets: [MD-NEX Outdoor-Driving](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [MD-NEX Outdoor-Driving](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Santosh Patapati, Trisanth Srinivasan, Murari Ambati
   * Publish Date: 2025.07.30
   * Task: End-to-End
@@ -5050,7 +5050,7 @@ format:
     * Enables controllable generation of rare edge cases, such as occluded pedestrian crossings or sudden vehicle cut-ins, for simulation-based testing of autonomous vehicles.
 
 * [World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/abs/2507.00603)
-  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [nuScenes](https://www.nuscenes.org/), [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Code: [World4Drive](https://github.com/ucaszyp/World4Drive) ⭐ 112 | 🐛 7 | 🌐 Python | 📅 2025-12-31
   * Yupeng Zheng, Pengxuan Yang, Zebin Xing, Qichao Zhang, Yuhang Zheng, Yinfeng Gao, Pengfei Li, Teng Zhang, Zhongpu Xia, Peng Jia, Dongbin Zhao
   * Publisher: University of Chinese Academy of Sciences
@@ -5082,7 +5082,7 @@ format:
     * Establishes the first standardized benchmark for evaluating personalized E2EAD models, showing that incorporating driving preferences improves behavioral alignment with human demonstrations.
 
 * [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Project Page: [Epona](https://github.com/Kevin-thu/Epona/) ⭐ 391 | 🐛 7 | 🌐 Python | 📅 2025-07-22
   * Code: [Epona](https://github.com/Kevin-thu/Epona/) ⭐ 391 | 🐛 7 | 🌐 Python | 📅 2025-07-22
   * Kaiwen Zhang, Zhenyu Tang, Xiaotao Hu, Xingang Pan, Xiaoyang Guo, Yuan Liu, Jingwei Huang, Li Yuan, Qian Zhang, Xiao-Xiao Long, Xun Cao, Wei Yin
@@ -5173,8 +5173,8 @@ format:
     * The paper introduces a lightweight, structured, and low-latency middleware pipeline on the vehicle and develops a form of customizable real-world traffic scenarios on a closed test track.
 
 * [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.13757)
-  * Datasets: [nuPlan](https://www.nuscenes.org/nuplan), [nuScenes](https://www.nuscenes.org/nuscenes), [Waymo](https://waymo.com/open), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11(Using [CARLA-Garage Dataset](https://github.com/autonomousvision/carla_garage) ⭐ 556 | 🐛 1 | 🌐 Python | 📅 2026-10-07 for Training)
-  * Code: [AutoVLA](https://github.com/ucla-mobility/AutoVLA) ⭐ 661 | 🐛 6 | 🌐 Python | 📅 2026-05-29
+  * Datasets: [nuPlan](https://www.nuscenes.org/nuplan), [nuScenes](https://www.nuscenes.org/nuscenes), [Waymo](https://waymo.com/open), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11(Using [CARLA-Garage Dataset](https://github.com/autonomousvision/carla_garage) ⭐ 556 | 🐛 1 | 🌐 Python | 📅 2026-10-07 for Training)
+  * Code: [AutoVLA](https://github.com/ucla-mobility/AutoVLA) ⭐ 663 | 🐛 6 | 🌐 Python | 📅 2026-05-29
   * Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang, Bolei Zhou, Jiaqi Ma
   * Publisher: University of California, Los Angeles
   * Publish Date: 2025.06.16
@@ -5194,7 +5194,7 @@ format:
     * This Paper introduce Vehicle Vision Language Models (V2LMs), fine-tuned VLMs specifically for AV perception task.
 
 * [ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving](https://arxiv.org/abs/2506.08052)
-  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,119 | 🐛 49 | 🌐 Python | 📅 2025-10-27
+  * Datasets: [NAVSIM](https://github.com/autonomousvision/navsim) ⭐ 1,122 | 🐛 49 | 🌐 Python | 📅 2025-10-27
   * Yongkang Li, Kaixin Xiong, Xiangyu Guo, Fang Li, Sixu Yan, Gangwei Xu, Lijun Zhou, Long Chen, Haiyang Sun, Bing Wang, Guang Chen, Hangjun Ye, Wenyu Liu, Xinggang Wang
   * Publisher: Huazhong University of Science and Technology, Xiaomi EV
   * Publish Date: 2025.06.09
@@ -5285,7 +5285,7 @@ format:
     * VL-SAFE, a world model-based safe RL framework with Vision-Language model (VLM)-as safety guidance paradigm, designed for offline safe policy learning.
 
 * [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](https://arxiv.org/abs/2505.16278)
-  * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Code: [DriveMoE](https://github.com/Thinklab-SJTU/DriveMoE) ⭐ 236 | 🐛 2 | 🌐 Python | 📅 2026-07-03
   * Zhenjie Yang, Yilin Chai, Xiaosong Jia, Qifeng Li, Yuqian Shao, Xuekai Zhu, Haisheng Su, Junchi Yan **CVPR 2026**
   * Publisher: Shanghai Jiao Tong University
@@ -5316,7 +5316,7 @@ format:
     * DriveMonkey, a flexible framework supporting multiple interactive tasks via user prompts.
 
 * [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875)
-  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Chengkai Xu, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang, Jian Sun
   * Publisher:  Tongji University
   * Publish Date: 2025.05.11
@@ -5344,7 +5344,7 @@ format:
     * A novel waypoint-driven dual-head coordination module that bridges high-level reasoning and lowlevel trajectory planning.
 
 * [X-Driver: Explainable Autonomous Driving with Vision-Language Models](https://arxiv.org/abs/2505.05098)
-  * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Wei Liu, Jiyuan Zhang, Binxiong Zheng, Yufeng Hu, Yingzhan Lin, Zengfeng Zeng
   * Publisher: Harbin Institute of Technology, Baidu Inc
   * Publish Date: 2025.05.08
@@ -5417,8 +5417,8 @@ format:
     * VLADBench, specifically designed to rigorously evaluate the capabilities of VLMs in AD. VLADBench employes a hierarchical structure that reflects the complex skill set required for reliable driving, progressing from fundamental scene and traffic elements comprehension to advanced reasoning and decision-making.
 
 * [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://arxiv.org/abs/2503.19755)
-  * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
-  * Code: [ORION](https://github.com/xiaomi-mlab/Orion) ⭐ 667 | 🐛 26 | 🌐 Python | 📅 2026-06-22
+  * Dataset: [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Code: [ORION](https://github.com/xiaomi-mlab/Orion) ⭐ 668 | 🐛 26 | 🌐 Python | 📅 2026-06-22
   * Haoyu Fu, Diankun Zhang, Zongchuang Zhao, Jianfeng Cui, Dingkang Liang, Chong Zhang, Dingyuan Zhang, Hongwei Xie, Bing Wang, Xiang Bai
   * Publisher: Huazhong University of Science and Technology, Xiaomi EV
   * Publish Data: 2025.03.25
@@ -5428,7 +5428,7 @@ format:
     * ORION, a hOlistic E2E autonomous dRiving framework by vIsion-language instructed actiON generation. ORION uniquely combines a QT-Former to aggregate long-term history context, a Large Language Model (LLM) for driving scenario reasoning, and a generative planner for precision trajectory prediction.
 
 * [AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models](https://arxiv.org/abs/2503.20804)
-  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [Highway-Env](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Le Qiu, Zelai Xu, Qixin Tan, Wenhao Tang, Chao Yu, Yu Wang
   * Publisher: Tsinghua University, Beijing Zhongguancun Academy
   * Publish Date: 2025.03.24
@@ -5470,7 +5470,7 @@ format:
     * DynRsl-VLM incorporates a dynamic resolution image input processing approach that captures all entity feature information within an image while ensuring that the image input remains computationally tractable for the Vision Transformer (ViT).
 
 * [SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://arxiv.org/abs/2503.09594)
-  * Datasets: [Carla Leadboard V2](https://leaderboard.carla.org/get_started_v2_0/), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,953 | 🐛 60 | 🌐 Python | 📅 2026-08-11
+  * Datasets: [Carla Leadboard V2](https://leaderboard.carla.org/get_started_v2_0/), [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,957 | 🐛 60 | 🌐 Python | 📅 2026-08-11
   * Katrin Renz, Long Chen, Elahe Arani, Oleg Sinavski **CVPR 2025**
   * Publisher: Wayve, University of T ̈ubingen, T ̈ubingen AI Center
   * Publish Date: 2025.03.12
@@ -5627,7 +5627,7 @@ format:
     * A universal, general, and cost-effective framework, “AutoSceneGen”, is proposed to automatically enhance the heterogeneity of traffic scenarios through scenario descriptions, thereby accelerating the simulation and testing process.
 
 * [Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving](https://arxiv.org/abs/2412.18511)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Code: [LGDRL](https://github.com/bitmobility/LGDRL) ⭐ 20 | 🐛 9 | 📅 2026-02-04
   * Hao Pang, Zhenpo Wang, Guoqiang Li
   * Publisher: Beijing Institute of Technology
@@ -5874,7 +5874,7 @@ format:
     * Design and run driving theory tests for several proprietary LLM models (OpenAI GPT models, Baidu Ernie and Ali QWen) and open-source LLM models (Tsinghua MiniCPM-2B and MiniCPM-Llama3-V2.5) with more than 500 multiple-choices theory test questions.
 
 * [KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models](https://arxiv.org/abs/2407.14239)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Kemou Jiang, Xuan Cai, Zhiyong Cui, Aoyong Li, Yilong Ren, Haiyang Yu, Hao Yang, Daocheng Fu, Licheng Wen, Pinlong Cai
   * Publisher: Beihang University, Johns Hopkins University, Shanghai Artificial Intelligence Laboratory
   * Task: Multi Agent Planning
@@ -5987,7 +5987,7 @@ format:
     * Capitalizing on this dataset, present a multi-modal LLM driving assistant named VLAAD.
 
 * [REvolve: Reward Evolution with Large Language Models for Autonomous Driving](https://arxiv.org/abs/2406.01309)
-  * Env: [AirSim](https://github.com/microsoft/AirSim?tab=readme-ov-file) ⭐ 18,542 | 🐛 781 | 🌐 C++ | 📅 2026-09-15
+  * Env: [AirSim](https://github.com/microsoft/AirSim?tab=readme-ov-file) ⭐ 18,541 | 🐛 781 | 🌐 C++ | 📅 2026-09-15
   * Rishi Hazra, Alkis Sygkounas, Andreas Persson, Amy Loutfi, Pedro Zuidberg Dos Martires
   * Publisher: Centre for Applied Autonomous Sensor Systems (AASS), Örebro University, Swede
   * Task: Reward Generation
@@ -5997,7 +5997,7 @@ format:
     * Reward Evolve (REvolve), a novel evolutionary framework using LLMs, specifically GPT-4, to output reward functions (as executable Python codes) for AD and evolve them based on human feedback.
 
 * [AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/pdf/2404.06345.pdf)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Senkang Hu, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang
   * Publisher: City University of Hong Kong, The University of Hong Kong
   * Task: Planning(Multiple vehicles collaborative)
@@ -6386,7 +6386,7 @@ format:
     * The first to explore the potential application of the world model in end-to-end planning for autonomous driving.
 
 * [Empowering Autonomous Driving with Large Language Models: A Safety Perspective](https://arxiv.org/abs/2312.00812)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Yixuan Wang, Ruochen Jiao, Chengtian Lang, Sinong Simon Zhan, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu
   * Publisher: Northwestern University, University of Liverpool, Yale University
   * Task: Planning
@@ -6415,7 +6415,7 @@ format:
   * Datasets: [nuScenes](https://www.nuscenes.org/nuscenes), Largescale private datasets
   * Publish Date: 2023.11.22
   * Summary:
-    * MLLM(Multimodal large language model)=[LLaVA-7B-1.5](https://github.com/haotian-liu/LLaVA) ⭐ 25,054 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12, VDM(Video Diffusion Model)=[latent-diffusion](https://github.com/CompVis/latent-diffusion) ⭐ 14,168 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29
+    * MLLM(Multimodal large language model)=[LLaVA-7B-1.5](https://github.com/haotian-liu/LLaVA) ⭐ 25,058 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12, VDM(Video Diffusion Model)=[latent-diffusion](https://github.com/CompVis/latent-diffusion) ⭐ 14,168 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29
     * ADriver-I takes the vision-action pairs as inputs and autoregressively predicts the control signal of current frame. The generated control signals together with the historical vision-action pairs are further conditioned to predict the future frames.
   * Metrics:
     * L1 error including speed and steer angle of current frame.
@@ -6483,7 +6483,7 @@ format:
     * It also faces huge challenges in some complex scenes, such as night views and unseen weather conditions.
 
 * [Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2310.08034)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Can Cui, Yunsheng Ma, Xu Cao, Wenqian Ye, Ziran Wang
   * Publisher: Purdue University,  University of Illinois Urbana-Champaign，University of Virginia，PediaMed.AI.
   * Task: Planning
@@ -6599,7 +6599,7 @@ format:
   * Publish Date: 2023.09.28
   * Task: Planning
   * Env:
-    * [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+    * [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
     * [CitySim](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset) ⭐ 429 | 🐛 7 | 🌐 Python | 📅 2025-03-17, a Drone-Based vehicle trajectory dataset.
   * Summary:
     * Propose the DiLu framework, which combines a Reasoning and a Reflection module to enable the system to perform decision-making based on common-sense knowledge and evolve continuously.
@@ -6678,7 +6678,7 @@ format:
     * Propose an efficient prompt-based tracking model with prompt reasoning modification on PFTrack, called PromptTrack.
 
 * [MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://arxiv.org/abs/2307.16118)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Jiaqi Liu, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun. *ITSC 2023*
   * Publisher: Tongji University, Tsinghua University
   * Task: Prediction
@@ -6696,7 +6696,7 @@ format:
     * Develop a web-based distillation assistant enabling supervision and flexible intervention at runtime by prompt engineering and the LLM ChatGPT.
 
 * [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://browse.arxiv.org/abs/2307.07162)
-  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-09
+  * Env: [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 44 | 🌐 Python | 📅 2026-10-10
   * Code: [official](https://github.com/PJLab-ADG/DriveLikeAHuman) ⭐ 418 | 🐛 0 | 🌐 Python | 📅 2024-07-29
   * Daocheng Fu, Xin Li, Licheng Wen, Min Dou, Pinlong Cai, Botian Shi, Yu Qiao
   * Publisher: Shanghai AI Lab, East China Normal University
@@ -6930,4 +6930,4 @@ Awesome LLM for Autonomous Driving Resources is released under the Apache 2.0 li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
