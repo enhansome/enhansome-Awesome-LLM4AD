@@ -597,7 +597,7 @@
                     "open_issues": 0,
                     "owner": "HaoranZhuExplorer",
                     "repo": "AD-E2E-JEPA",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -2620,7 +2620,7 @@
                     "open_issues": 6,
                     "owner": "George-Ling3",
                     "repo": "BLUE",
-                    "stars": 85,
+                    "stars": 88,
                     "topics": [
                       "autonomous-driving",
                       "efficient-inference",
@@ -4316,10 +4316,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-20T04:30:41Z",
-                    "open_issues": 3,
+                    "open_issues": 0,
                     "owner": "wjl2244",
                     "repo": "MeanFuser",
-                    "stars": 114,
+                    "stars": 115,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -6386,7 +6386,7 @@
                     "open_issues": 12,
                     "owner": "OpenDriveLab",
                     "repo": "OpenLane-V2",
-                    "stars": 678,
+                    "stars": 679,
                     "topics": [
                       "3d-lane-detection",
                       "topology-reasoning",
@@ -7044,7 +7044,7 @@
                     "open_issues": 10,
                     "owner": "MIV-XJTU",
                     "repo": "FSDrive",
-                    "stars": 831,
+                    "stars": 832,
                     "topics": [
                       "autonomous-driving",
                       "cot",
@@ -7316,7 +7316,7 @@
                     "open_issues": 15,
                     "owner": "DriveVLA",
                     "repo": "OpenDriveVLA",
-                    "stars": 822,
+                    "stars": 823,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end-autonomous-driving",
@@ -7397,7 +7397,7 @@
                     "open_issues": 26,
                     "owner": "xiaomi-mlab",
                     "repo": "Orion",
-                    "stars": 668,
+                    "stars": 669,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7903,7 +7903,7 @@
                     "open_issues": 47,
                     "owner": "AIR-THU",
                     "repo": "DAIR-V2X",
-                    "stars": 654,
+                    "stars": 655,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -8100,7 +8100,7 @@
                     "open_issues": 84,
                     "owner": "NVlabs",
                     "repo": "OmniDrive",
-                    "stars": 648,
+                    "stars": 649,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -8354,7 +8354,7 @@
                     "open_issues": 465,
                     "owner": "waymo-research",
                     "repo": "waymo-open-dataset",
-                    "stars": 3426,
+                    "stars": 3427,
                     "topics": [
                       "autonomous-driving",
                       "dataset"
@@ -8618,7 +8618,7 @@
                                 "open_issues": 12,
                                 "owner": "OpenDriveLab",
                                 "repo": "OpenLane-V2",
-                                "stars": 678,
+                                "stars": 679,
                                 "topics": [
                                   "3d-lane-detection",
                                   "topology-reasoning",
@@ -8712,7 +8712,7 @@
                     "open_issues": 82,
                     "owner": "opendilab",
                     "repo": "LMDrive",
-                    "stars": 931,
+                    "stars": 930,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -8987,7 +8987,7 @@
                         "open_issues": 1141,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25076,
+                        "stars": 25078,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9080,7 +9080,7 @@
                     "open_issues": 0,
                     "owner": "PJLab-ADG",
                     "repo": "GPT4V-AD-Exploration",
-                    "stars": 301,
+                    "stars": 300,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:10:55.143Z",
+    "last_updated": "2026-10-25T19:24:26.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
