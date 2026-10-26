@@ -359,7 +359,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -689,7 +689,7 @@
                     "open_issues": 1,
                     "owner": "PerfectXu88",
                     "repo": "DriveHierarchy",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1390,7 +1390,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -1660,7 +1660,7 @@
                     "open_issues": 3,
                     "owner": "H-EmbodVis",
                     "repo": "SimWAM",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1720,7 +1720,7 @@
                     "open_issues": 39,
                     "owner": "kaist-avelab",
                     "repo": "K-Radar",
-                    "stars": 613,
+                    "stars": 614,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -2349,7 +2349,7 @@
                     "open_issues": 102,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1265,
+                    "stars": 1267,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2620,7 +2620,7 @@
                     "open_issues": 6,
                     "owner": "George-Ling3",
                     "repo": "BLUE",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": [
                       "autonomous-driving",
                       "efficient-inference",
@@ -2865,7 +2865,7 @@
                     "open_issues": 3,
                     "owner": "AFARI-Research",
                     "repo": "ChainFlow-VLA",
-                    "stars": 53,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -3527,7 +3527,7 @@
                     "open_issues": 11,
                     "owner": "xiaomi-research",
                     "repo": "unidrivevla",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4598,7 +4598,7 @@
                     "open_issues": 2,
                     "owner": "Mi3-Lab",
                     "repo": "doScenes-VLM-Planning",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4619,7 +4619,7 @@
                     "open_issues": 2,
                     "owner": "Mi3-Lab",
                     "repo": "doScenes-VLM-Planning",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5705,7 +5705,7 @@
                     "open_issues": 60,
                     "owner": "NVlabs",
                     "repo": "alpamayo",
-                    "stars": 2055,
+                    "stars": 2058,
                     "topics": [
                       "alpamayo",
                       "autonomous-driving",
@@ -5950,7 +5950,7 @@
                     "open_issues": 13,
                     "owner": "DiffusionAD",
                     "repo": "Flow-Planner",
-                    "stars": 280,
+                    "stars": 281,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5969,12 +5969,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving",
+                    "description": "[TNNLS, 2026] Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving",
                     "homepage": null,
                     "id": 987725045,
                     "language": null,
                     "license": null,
-                    "last_commit": "2025-05-21T14:24:04Z",
+                    "last_commit": "2026-10-26T10:03:27Z",
                     "open_issues": 1,
                     "owner": "Daniel-DHu",
                     "repo": "GTR2L",
@@ -6682,7 +6682,7 @@
                     "open_issues": 8,
                     "owner": "Kevin-thu",
                     "repo": "Epona",
-                    "stars": 392,
+                    "stars": 393,
                     "topics": [
                       "autonomous-driving",
                       "diffusion-models",
@@ -6708,7 +6708,7 @@
                     "open_issues": 8,
                     "owner": "Kevin-thu",
                     "repo": "Epona",
-                    "stars": 392,
+                    "stars": 393,
                     "topics": [
                       "autonomous-driving",
                       "diffusion-models",
@@ -6895,7 +6895,7 @@
                     "open_issues": 6,
                     "owner": "ucla-mobility",
                     "repo": "AutoVLA",
-                    "stars": 667,
+                    "stars": 669,
                     "topics": [
                       "autonomous-driving",
                       "grpo",
@@ -7044,7 +7044,7 @@
                     "open_issues": 10,
                     "owner": "MIV-XJTU",
                     "repo": "FSDrive",
-                    "stars": 832,
+                    "stars": 831,
                     "topics": [
                       "autonomous-driving",
                       "cot",
@@ -7190,7 +7190,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -7316,7 +7316,7 @@
                     "open_issues": 15,
                     "owner": "DriveVLA",
                     "repo": "OpenDriveVLA",
-                    "stars": 823,
+                    "stars": 824,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end-autonomous-driving",
@@ -7397,7 +7397,7 @@
                     "open_issues": 26,
                     "owner": "xiaomi-mlab",
                     "repo": "Orion",
-                    "stars": 669,
+                    "stars": 670,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7425,7 +7425,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -7513,7 +7513,7 @@
                     "open_issues": 102,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1265,
+                    "stars": 1267,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7541,7 +7541,7 @@
                     "open_issues": 102,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1265,
+                    "stars": 1267,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7640,7 +7640,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -7759,7 +7759,7 @@
                     "open_issues": 32,
                     "owner": "hustvl",
                     "repo": "Senna",
-                    "stars": 558,
+                    "stars": 559,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end",
@@ -7952,7 +7952,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -8230,7 +8230,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -8354,7 +8354,7 @@
                     "open_issues": 465,
                     "owner": "waymo-research",
                     "repo": "waymo-open-dataset",
-                    "stars": 3427,
+                    "stars": 3429,
                     "topics": [
                       "autonomous-driving",
                       "dataset"
@@ -8385,7 +8385,7 @@
                     "open_issues": 0,
                     "owner": "Traffic-Alpha",
                     "repo": "LLM-Assisted-Light",
-                    "stars": 109,
+                    "stars": 110,
                     "topics": [
                       "emergency-vehicles",
                       "intelligent-transportation-systems",
@@ -8488,7 +8488,7 @@
                     "open_issues": 13,
                     "owner": "wzzheng",
                     "repo": "GenAD",
-                    "stars": 497,
+                    "stars": 498,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -8915,7 +8915,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -8987,7 +8987,7 @@
                         "open_issues": 1141,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25078,
+                        "stars": 25077,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9136,7 +9136,7 @@
                     "open_issues": 9,
                     "owner": "cure-lab",
                     "repo": "MagicDrive",
-                    "stars": 1167,
+                    "stars": 1168,
                     "topics": [
                       "autonomous-vehicles",
                       "deep-learning",
@@ -9171,7 +9171,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -9398,7 +9398,7 @@
                         "open_issues": 46,
                         "owner": "Farama-Foundation",
                         "repo": "HighwayEnv",
-                        "stars": 3337,
+                        "stars": 3338,
                         "topics": [
                           "autonomous-driving",
                           "gymnasium-environment",
@@ -9521,7 +9521,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -9553,7 +9553,7 @@
                     "open_issues": 46,
                     "owner": "Farama-Foundation",
                     "repo": "HighwayEnv",
-                    "stars": 3337,
+                    "stars": 3338,
                     "topics": [
                       "autonomous-driving",
                       "gymnasium-environment",
@@ -9731,7 +9731,7 @@
                     "open_issues": 1,
                     "owner": "nec-labs-ma",
                     "repo": "CAViAR",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:24:26.466Z",
+    "last_updated": "2026-10-26T21:16:33.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
