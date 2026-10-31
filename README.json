@@ -1660,7 +1660,7 @@
                     "open_issues": 3,
                     "owner": "H-EmbodVis",
                     "repo": "SimWAM",
-                    "stars": 203,
+                    "stars": 204,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1720,7 +1720,7 @@
                     "open_issues": 39,
                     "owner": "kaist-avelab",
                     "repo": "K-Radar",
-                    "stars": 615,
+                    "stars": 616,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -2865,7 +2865,7 @@
                     "open_issues": 3,
                     "owner": "AFARI-Research",
                     "repo": "ChainFlow-VLA",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5101,7 +5101,7 @@
                     "open_issues": 1,
                     "owner": "fudan-generative-vision",
                     "repo": "WAM-Diff",
-                    "stars": 300,
+                    "stars": 299,
                     "topics": [
                       "autonomous-driving",
                       "vision-language-action-model",
@@ -5126,7 +5126,7 @@
                     "open_issues": 1,
                     "owner": "fudan-generative-vision",
                     "repo": "WAM-Diff",
-                    "stars": 300,
+                    "stars": 299,
                     "topics": [
                       "autonomous-driving",
                       "vision-language-action-model",
@@ -8184,7 +8184,7 @@
                     "open_issues": 781,
                     "owner": "microsoft",
                     "repo": "AirSim",
-                    "stars": 18584,
+                    "stars": 18586,
                     "topics": [
                       "ai",
                       "airsim",
@@ -8987,7 +8987,7 @@
                         "open_issues": 1140,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25078,
+                        "stars": 25080,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9136,7 +9136,7 @@
                     "open_issues": 9,
                     "owner": "cure-lab",
                     "repo": "MagicDrive",
-                    "stars": 1168,
+                    "stars": 1169,
                     "topics": [
                       "autonomous-vehicles",
                       "deep-learning",
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:16:33.757Z",
+    "last_updated": "2026-10-31T20:22:18.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
