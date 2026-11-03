@@ -1543,7 +1543,7 @@
                     "open_issues": 1,
                     "owner": "ZebinX",
                     "repo": "DriveVLA-M0",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1720,7 +1720,7 @@
                     "open_issues": 39,
                     "owner": "kaist-avelab",
                     "repo": "K-Radar",
-                    "stars": 616,
+                    "stars": 617,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1829,7 +1829,7 @@
                     "open_issues": 74,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1835,
+                    "stars": 1836,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -2349,7 +2349,7 @@
                     "open_issues": 104,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1272,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4085,7 +4085,7 @@
                     "open_issues": 145,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4723,
+                    "stars": 4722,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -4457,7 +4457,7 @@
                     "open_issues": 6,
                     "owner": "mengtan00",
                     "repo": "ResWorld",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -6769,7 +6769,7 @@
                     "open_issues": 52,
                     "owner": "mees",
                     "repo": "calvin",
-                    "stars": 1001,
+                    "stars": 1002,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -6895,7 +6895,7 @@
                     "open_issues": 6,
                     "owner": "ucla-mobility",
                     "repo": "AutoVLA",
-                    "stars": 672,
+                    "stars": 673,
                     "topics": [
                       "autonomous-driving",
                       "grpo",
@@ -7044,7 +7044,7 @@
                     "open_issues": 10,
                     "owner": "MIV-XJTU",
                     "repo": "FSDrive",
-                    "stars": 830,
+                    "stars": 828,
                     "topics": [
                       "autonomous-driving",
                       "cot",
@@ -7316,7 +7316,7 @@
                     "open_issues": 15,
                     "owner": "DriveVLA",
                     "repo": "OpenDriveVLA",
-                    "stars": 825,
+                    "stars": 826,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end-autonomous-driving",
@@ -7513,7 +7513,7 @@
                     "open_issues": 104,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1272,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7541,7 +7541,7 @@
                     "open_issues": 104,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1272,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7903,7 +7903,7 @@
                     "open_issues": 47,
                     "owner": "AIR-THU",
                     "repo": "DAIR-V2X",
-                    "stars": 656,
+                    "stars": 655,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -8040,7 +8040,7 @@
                     "open_issues": 35,
                     "owner": "javyduck",
                     "repo": "ChatScene",
-                    "stars": 200,
+                    "stars": 201,
                     "topics": [
                       "autonomous-driving",
                       "carla",
@@ -8184,7 +8184,7 @@
                     "open_issues": 781,
                     "owner": "microsoft",
                     "repo": "AirSim",
-                    "stars": 18594,
+                    "stars": 18596,
                     "topics": [
                       "ai",
                       "airsim",
@@ -8351,10 +8351,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-01-08T22:00:08Z",
-                    "open_issues": 466,
+                    "open_issues": 465,
                     "owner": "waymo-research",
                     "repo": "waymo-open-dataset",
-                    "stars": 3428,
+                    "stars": 3427,
                     "topics": [
                       "autonomous-driving",
                       "dataset"
@@ -8987,7 +8987,7 @@
                         "open_issues": 1140,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25080,
+                        "stars": 25079,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9136,7 +9136,7 @@
                     "open_issues": 9,
                     "owner": "cure-lab",
                     "repo": "MagicDrive",
-                    "stars": 1170,
+                    "stars": 1168,
                     "topics": [
                       "autonomous-vehicles",
                       "deep-learning",
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:45:18.329Z",
+    "last_updated": "2026-11-03T22:09:49.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
@@ -9925,7 +9925,7 @@
       "open_issues": 3,
       "owner": "Thinklab-SJTU",
       "repo": "Awesome-LLM4AD",
-      "stars": 1903,
+      "stars": 1904,
       "topics": [
         "large-language-models",
         "vision-language-action-model",
