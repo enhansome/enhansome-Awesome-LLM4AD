@@ -1720,7 +1720,7 @@
                     "open_issues": 39,
                     "owner": "kaist-avelab",
                     "repo": "K-Radar",
-                    "stars": 620,
+                    "stars": 621,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -3527,7 +3527,7 @@
                     "open_issues": 11,
                     "owner": "xiaomi-research",
                     "repo": "unidrivevla",
-                    "stars": 257,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5705,7 +5705,7 @@
                     "open_issues": 60,
                     "owner": "NVlabs",
                     "repo": "alpamayo",
-                    "stars": 2060,
+                    "stars": 2061,
                     "topics": [
                       "alpamayo",
                       "autonomous-driving",
@@ -5950,7 +5950,7 @@
                     "open_issues": 13,
                     "owner": "DiffusionAD",
                     "repo": "Flow-Planner",
-                    "stars": 283,
+                    "stars": 284,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7316,7 +7316,7 @@
                     "open_issues": 15,
                     "owner": "DriveVLA",
                     "repo": "OpenDriveVLA",
-                    "stars": 829,
+                    "stars": 830,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end-autonomous-driving",
@@ -7903,7 +7903,7 @@
                     "open_issues": 47,
                     "owner": "AIR-THU",
                     "repo": "DAIR-V2X",
-                    "stars": 655,
+                    "stars": 656,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:37:00.976Z"
@@ -8354,7 +8354,7 @@
                     "open_issues": 466,
                     "owner": "waymo-research",
                     "repo": "waymo-open-dataset",
-                    "stars": 3431,
+                    "stars": 3432,
                     "topics": [
                       "autonomous-driving",
                       "dataset"
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:30:32.142Z",
+    "last_updated": "2026-11-10T22:06:12.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
