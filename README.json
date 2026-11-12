@@ -23,10 +23,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -83,10 +83,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -654,7 +654,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-11-01T04:38:33Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "qiantianwen",
                     "repo": "NuScenes-QA",
                     "stars": 245,
@@ -778,10 +778,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -902,10 +902,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -930,10 +930,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1150,10 +1150,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1660,7 +1660,7 @@
                     "open_issues": 3,
                     "owner": "H-EmbodVis",
                     "repo": "SimWAM",
-                    "stars": 208,
+                    "stars": 209,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1720,7 +1720,7 @@
                     "open_issues": 39,
                     "owner": "kaist-avelab",
                     "repo": "K-Radar",
-                    "stars": 621,
+                    "stars": 622,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1745,10 +1745,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -1826,7 +1826,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T15:28:08Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "Vchitect",
                     "repo": "VBench",
                     "stars": 1844,
@@ -2177,10 +2177,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2205,10 +2205,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2349,7 +2349,7 @@
                     "open_issues": 103,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1276,
+                    "stars": 1279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2557,10 +2557,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2620,7 +2620,7 @@
                     "open_issues": 6,
                     "owner": "George-Ling3",
                     "repo": "BLUE",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": [
                       "autonomous-driving",
                       "efficient-inference",
@@ -3527,7 +3527,7 @@
                     "open_issues": 11,
                     "owner": "xiaomi-research",
                     "repo": "unidrivevla",
-                    "stars": 259,
+                    "stars": 260,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -3821,7 +3821,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-11-01T04:38:33Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "qiantianwen",
                     "repo": "NuScenes-QA",
                     "stars": 245,
@@ -4828,7 +4828,7 @@
                     "open_issues": 38,
                     "owner": "unmannedlab",
                     "repo": "RELLIS-3D",
-                    "stars": 464,
+                    "stars": 465,
                     "topics": [
                       "3d-segmentation",
                       "dataset",
@@ -5411,7 +5411,7 @@
                     "open_issues": 231,
                     "owner": "huawei-noah",
                     "repo": "SMARTS",
-                    "stars": 1135,
+                    "stars": 1136,
                     "topics": [
                       "autonomous-driving",
                       "python",
@@ -5705,7 +5705,7 @@
                     "open_issues": 60,
                     "owner": "NVlabs",
                     "repo": "alpamayo",
-                    "stars": 2065,
+                    "stars": 2068,
                     "topics": [
                       "alpamayo",
                       "autonomous-driving",
@@ -5974,7 +5974,7 @@
                     "id": 987725045,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-11-02T04:04:02Z",
+                    "last_commit": "2026-11-12T01:40:48Z",
                     "open_issues": 1,
                     "owner": "Daniel-DHu",
                     "repo": "GTR2L",
@@ -6766,7 +6766,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-09-08T08:52:01Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "mees",
                     "repo": "calvin",
                     "stars": 1003,
@@ -6871,10 +6871,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7107,10 +7107,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7131,7 +7131,7 @@
                     "open_issues": 3,
                     "owner": "Thinklab-SJTU",
                     "repo": "DriveMoE",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": [
                       "mixture-of-experts",
                       "vision-language-action-model"
@@ -7257,10 +7257,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7373,10 +7373,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7454,10 +7454,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-11T04:01:59Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Thinklab-SJTU",
                     "repo": "Bench2Drive",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7513,7 +7513,7 @@
                     "open_issues": 103,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1276,
+                    "stars": 1279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7541,7 +7541,7 @@
                     "open_issues": 103,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1276,
+                    "stars": 1279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -8184,7 +8184,7 @@
                     "open_issues": 781,
                     "owner": "microsoft",
                     "repo": "AirSim",
-                    "stars": 18607,
+                    "stars": 18609,
                     "topics": [
                       "ai",
                       "airsim",
@@ -8354,7 +8354,7 @@
                     "open_issues": 466,
                     "owner": "waymo-research",
                     "repo": "waymo-open-dataset",
-                    "stars": 3432,
+                    "stars": 3434,
                     "topics": [
                       "autonomous-driving",
                       "dataset"
@@ -8987,7 +8987,7 @@
                         "open_issues": 1140,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25075,
+                        "stars": 25077,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9833,7 +9833,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-11-01T04:38:33Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "qiantianwen",
                     "repo": "NuScenes-QA",
                     "stars": 245,
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:14:36.770Z",
+    "last_updated": "2026-11-12T22:30:24.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
