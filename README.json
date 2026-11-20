@@ -1330,7 +1330,7 @@
                     "open_issues": 1,
                     "owner": "AFARI-Research",
                     "repo": "WA-JEPA",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1543,7 +1543,7 @@
                     "open_issues": 1,
                     "owner": "ZebinX",
                     "repo": "DriveVLA-M0",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1720,7 +1720,7 @@
                     "open_issues": 39,
                     "owner": "kaist-avelab",
                     "repo": "K-Radar",
-                    "stars": 623,
+                    "stars": 624,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -3467,7 +3467,7 @@
                     "open_issues": 3,
                     "owner": "xiaomi-mlab",
                     "repo": "DriveVA",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-09-22T19:59:09.972Z"
@@ -4085,7 +4085,7 @@
                     "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4725,
+                    "stars": 4726,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -4570,7 +4570,7 @@
                     "open_issues": 7,
                     "owner": "liulin815",
                     "repo": "DriveWorld-VLA",
-                    "stars": 128,
+                    "stars": 129,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4828,7 +4828,7 @@
                     "open_issues": 38,
                     "owner": "unmannedlab",
                     "repo": "RELLIS-3D",
-                    "stars": 466,
+                    "stars": 467,
                     "topics": [
                       "3d-segmentation",
                       "dataset",
@@ -5705,7 +5705,7 @@
                     "open_issues": 60,
                     "owner": "NVlabs",
                     "repo": "alpamayo",
-                    "stars": 2071,
+                    "stars": 2072,
                     "topics": [
                       "alpamayo",
                       "autonomous-driving",
@@ -6895,7 +6895,7 @@
                     "open_issues": 7,
                     "owner": "ucla-mobility",
                     "repo": "AutoVLA",
-                    "stars": 679,
+                    "stars": 680,
                     "topics": [
                       "autonomous-driving",
                       "grpo",
@@ -7316,7 +7316,7 @@
                     "open_issues": 15,
                     "owner": "DriveVLA",
                     "repo": "OpenDriveVLA",
-                    "stars": 834,
+                    "stars": 835,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end-autonomous-driving",
@@ -8184,7 +8184,7 @@
                     "open_issues": 781,
                     "owner": "microsoft",
                     "repo": "AirSim",
-                    "stars": 18620,
+                    "stars": 18626,
                     "topics": [
                       "ai",
                       "airsim",
@@ -8354,7 +8354,7 @@
                     "open_issues": 466,
                     "owner": "waymo-research",
                     "repo": "waymo-open-dataset",
-                    "stars": 3437,
+                    "stars": 3438,
                     "topics": [
                       "autonomous-driving",
                       "dataset"
@@ -8987,7 +8987,7 @@
                         "open_issues": 1140,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25079,
+                        "stars": 25085,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:21:19.937Z",
+    "last_updated": "2026-11-20T22:53:24.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
@@ -9925,7 +9925,7 @@
       "open_issues": 3,
       "owner": "Thinklab-SJTU",
       "repo": "Awesome-LLM4AD",
-      "stars": 1906,
+      "stars": 1907,
       "topics": [
         "large-language-models",
         "vision-language-action-model",
