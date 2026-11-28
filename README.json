@@ -1660,7 +1660,7 @@
                     "open_issues": 2,
                     "owner": "H-EmbodVis",
                     "repo": "SimWAM",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": []
                   },
                   "first_seen": "2026-09-29T21:11:38.808Z"
@@ -1829,7 +1829,7 @@
                     "open_issues": 75,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1858,
+                    "stars": 1859,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -2054,7 +2054,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -2349,7 +2349,7 @@
                     "open_issues": 103,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1288,
+                    "stars": 1290,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -2458,7 +2458,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -3523,11 +3523,11 @@
                     "id": 1196284086,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T10:53:00Z",
+                    "last_commit": "2026-11-27T09:36:52Z",
                     "open_issues": 10,
                     "owner": "xiaomi-research",
                     "repo": "unidrivevla",
-                    "stars": 260,
+                    "stars": 261,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 28,
                     "owner": "waymo-research",
                     "repo": "waymax",
-                    "stars": 1118,
+                    "stars": 1119,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -4081,7 +4081,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T17:00:44Z",
+                    "last_commit": "2026-11-27T21:00:57Z",
                     "open_issues": 148,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -4319,7 +4319,7 @@
                     "open_issues": 0,
                     "owner": "wjl2244",
                     "repo": "MeanFuser",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -5215,7 +5215,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -5411,7 +5411,7 @@
                     "open_issues": 231,
                     "owner": "huawei-noah",
                     "repo": "SMARTS",
-                    "stars": 1135,
+                    "stars": 1136,
                     "topics": [
                       "autonomous-driving",
                       "python",
@@ -6218,7 +6218,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -6256,7 +6256,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -6383,7 +6383,7 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2025-07-02T05:24:27Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "OpenDriveLab",
                     "repo": "OpenLane-V2",
                     "stars": 681,
@@ -6808,7 +6808,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -6895,7 +6895,7 @@
                     "open_issues": 8,
                     "owner": "ucla-mobility",
                     "repo": "AutoVLA",
-                    "stars": 685,
+                    "stars": 686,
                     "topics": [
                       "autonomous-driving",
                       "grpo",
@@ -7222,7 +7222,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -7313,10 +7313,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-16T08:36:33Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "DriveVLA",
                     "repo": "OpenDriveVLA",
-                    "stars": 840,
+                    "stars": 841,
                     "topics": [
                       "autonomous-driving",
                       "end-to-end-autonomous-driving",
@@ -7513,7 +7513,7 @@
                     "open_issues": 103,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1288,
+                    "stars": 1290,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7541,7 +7541,7 @@
                     "open_issues": 103,
                     "owner": "metadriverse",
                     "repo": "metadrive",
-                    "stars": 1288,
+                    "stars": 1290,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:05.648Z"
@@ -7721,7 +7721,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -8262,7 +8262,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -8572,7 +8572,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -8615,7 +8615,7 @@
                                 "language": "Jupyter Notebook",
                                 "license": "Apache-2.0",
                                 "last_commit": "2025-07-02T05:24:27Z",
-                                "open_issues": 12,
+                                "open_issues": 13,
                                 "owner": "OpenDriveLab",
                                 "repo": "OpenLane-V2",
                                 "stars": 681,
@@ -8987,7 +8987,7 @@
                         "open_issues": 1140,
                         "owner": "haotian-liu",
                         "repo": "LLaVA",
-                        "stars": 25093,
+                        "stars": 25094,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -9668,7 +9668,7 @@
                     "open_issues": 47,
                     "owner": "OpenDriveLab",
                     "repo": "DriveLM",
-                    "stars": 1352,
+                    "stars": 1353,
                     "topics": [
                       "autonomous-driving",
                       "chain-of-thought",
@@ -9695,7 +9695,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -9913,7 +9913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:54:05.886Z",
+    "last_updated": "2026-11-28T00:18:39.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
